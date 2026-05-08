@@ -14,6 +14,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         a = [1, 1, 2]; k = sol.removeDuplicates(a); self.assertEqual((k, a[:k]), (2, [1, 2]))
 
+    def test_0027(self):
+        mod = load_solution("01_Arrays/0027_Remove_Element.py")
+        sol = mod.Solution()
+        a = [3, 2, 2, 3]; k = sol.removeElement(a, 3); self.assertEqual((k, sorted(a[:k])), (2, [2, 2]))
+
 
 
 if __name__ == "__main__":
