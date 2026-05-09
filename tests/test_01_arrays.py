@@ -24,6 +24,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         a = [1, 2, 3]; sol.nextPermutation(a); self.assertEqual(a, [1, 3, 2])
 
+    def test_0041(self):
+        mod = load_solution("01_Arrays/0041_First_Missing_Positive.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.firstMissingPositive([3, 4, -1, 1]), 2); self.assertEqual(sol.firstMissingPositive([1, 2, 0]), 3)
+
 
 
 if __name__ == "__main__":
