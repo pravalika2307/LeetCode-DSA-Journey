@@ -16,3 +16,5 @@ This document records my Data Structures & Algorithms learning progression from 
 ---
 
 ## Month-by-Month & Topic Progression
+
+### May 2026 – June 2026: Arrays & Matrix Traversal
