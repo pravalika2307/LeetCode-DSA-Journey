@@ -24,3 +24,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 
 ## Two Pointers & Cycle Detection (43)
 
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 5 | Longest Palindromic Substring | Two Pointers | Two Pointers (Expand Around Center) | Medium | [0005_Longest_Palindromic_Substring.py](../04_Two_Pointers/0005_Longest_Palindromic_Substring.py) |
+| 11 | Container With Most Water | Two Pointers | Two Pointers (Opposite Ends) | Medium | [0011_Container_With_Most_Water.py](../04_Two_Pointers/0011_Container_With_Most_Water.py) |
