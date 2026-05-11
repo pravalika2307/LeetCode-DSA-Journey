@@ -34,6 +34,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         m = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]; sol.rotate(m); self.assertEqual(m, [[7, 4, 1], [8, 5, 2], [9, 6, 3]])
 
+    def test_0053(self):
+        mod = load_solution("01_Arrays/0053_Maximum_Subarray.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]), 6)
+
 
 
 if __name__ == "__main__":
