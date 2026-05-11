@@ -29,6 +29,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.firstMissingPositive([3, 4, -1, 1]), 2); self.assertEqual(sol.firstMissingPositive([1, 2, 0]), 3)
 
+    def test_0048(self):
+        mod = load_solution("01_Arrays/0048_Rotate_Image.py")
+        sol = mod.Solution()
+        m = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]; sol.rotate(m); self.assertEqual(m, [[7, 4, 1], [8, 5, 2], [9, 6, 3]])
+
 
 
 if __name__ == "__main__":
