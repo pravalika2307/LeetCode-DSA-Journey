@@ -34,3 +34,9 @@ A retrospective month-by-month breakdown is maintained in [`Progress/learning_ti
 
 All counts below are verified directly against the solution files in this repository.
 
+### Overall Progress
+
+- **Total Unique Problems Documented:** `218`
+- **Easy:** `84` (38.5%)
+- **Medium:** `112` (51.4%)
+- **Hard:** `22` (10.1%)
