@@ -39,6 +39,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]), 6)
 
+    def test_0054(self):
+        mod = load_solution("01_Arrays/0054_Spiral_Matrix.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.spiralOrder([[1, 2, 3], [4, 5, 6], [7, 8, 9]]), [1, 2, 3, 6, 9, 8, 7, 4, 5])
+
 
 
 if __name__ == "__main__":
