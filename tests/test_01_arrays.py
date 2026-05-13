@@ -44,6 +44,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.spiralOrder([[1, 2, 3], [4, 5, 6], [7, 8, 9]]), [1, 2, 3, 6, 9, 8, 7, 4, 5])
 
+    def test_0055(self):
+        mod = load_solution("01_Arrays/0055_Jump_Game.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.canJump([2, 3, 1, 1, 4])); self.assertFalse(sol.canJump([3, 2, 1, 0, 4]))
+
 
 
 if __name__ == "__main__":
