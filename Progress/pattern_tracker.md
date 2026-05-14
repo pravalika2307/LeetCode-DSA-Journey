@@ -28,3 +28,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | 5 | Longest Palindromic Substring | Two Pointers | Two Pointers (Expand Around Center) | Medium | [0005_Longest_Palindromic_Substring.py](../04_Two_Pointers/0005_Longest_Palindromic_Substring.py) |
 | 11 | Container With Most Water | Two Pointers | Two Pointers (Opposite Ends) | Medium | [0011_Container_With_Most_Water.py](../04_Two_Pointers/0011_Container_With_Most_Water.py) |
+| 15 | 3Sum | Two Pointers | Two Pointers + Sorting | Medium | [0015_3Sum.py](../04_Two_Pointers/0015_3Sum.py) |
+| 16 | 3Sum Closest | Two Pointers | Two Pointers + Sorting | Medium | [0016_3Sum_Closest.py](../04_Two_Pointers/0016_3Sum_Closest.py) |
+| 18 | 4Sum | Two Pointers | Two Pointers + Sorting | Medium | [0018_4Sum.py](../04_Two_Pointers/0018_4Sum.py) |
+| 19 | Remove Nth Node From End of List | Linked List | Linked List Two Pointers (Fast & Slow) | Medium | [0019_Remove_Nth_Node_From_End_Of_List.py](../07_Linked_List/0019_Remove_Nth_Node_From_End_Of_List.py) |
