@@ -54,6 +54,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.merge([[1, 3], [2, 6], [8, 10], [15, 18]]), [[1, 6], [8, 10], [15, 18]])
 
+    def test_0057(self):
+        mod = load_solution("01_Arrays/0057_Insert_Interval.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.insert([[1, 3], [6, 9]], [2, 5]), [[1, 5], [6, 9]])
+
 
 
 if __name__ == "__main__":
