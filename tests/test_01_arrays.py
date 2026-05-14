@@ -49,6 +49,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.canJump([2, 3, 1, 1, 4])); self.assertFalse(sol.canJump([3, 2, 1, 0, 4]))
 
+    def test_0056(self):
+        mod = load_solution("01_Arrays/0056_Merge_Intervals.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.merge([[1, 3], [2, 6], [8, 10], [15, 18]]), [[1, 6], [8, 10], [15, 18]])
+
 
 
 if __name__ == "__main__":
