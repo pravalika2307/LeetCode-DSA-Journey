@@ -40,3 +40,9 @@ All counts below are verified directly against the solution files in this reposi
 - **Easy:** `84` (38.5%)
 - **Medium:** `112` (51.4%)
 - **Hard:** `22` (10.1%)
+
+### Topic-Wise Distribution
+
+| Folder | Topic | Total | Easy | Medium | Hard | Status |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| [`01_Arrays/`](01_Arrays/) | Arrays & Matrix | 55 | 28 | 22 | 5 | Covered |
