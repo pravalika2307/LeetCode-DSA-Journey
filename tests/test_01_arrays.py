@@ -59,6 +59,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.insert([[1, 3], [6, 9]], [2, 5]), [[1, 5], [6, 9]])
 
+    def test_0059(self):
+        mod = load_solution("01_Arrays/0059_Spiral_Matrix_II.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.generateMatrix(3), [[1, 2, 3], [8, 9, 4], [7, 6, 5]])
+
 
 
 if __name__ == "__main__":
