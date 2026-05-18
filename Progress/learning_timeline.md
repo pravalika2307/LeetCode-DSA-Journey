@@ -20,3 +20,5 @@ This document records my Data Structures & Algorithms learning progression from 
 ### May 2026 – June 2026: Arrays & Matrix Traversal
 - **Focus Folder:** [`01_Arrays/`](../01_Arrays/)
 - **Problems Covered:** **55** (28 Easy, 22 Medium, 5 Hard)
+- **Key Patterns:** In-place compaction, prefix/suffix computations, matrix simulation & staircase search, cyclic marking, Kadane's algorithm, interval merging, Boyer-Moore voting, and divide-and-conquer counting (`0315`, `0493`).
+
