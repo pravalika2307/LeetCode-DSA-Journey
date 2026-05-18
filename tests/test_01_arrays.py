@@ -64,6 +64,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.generateMatrix(3), [[1, 2, 3], [8, 9, 4], [7, 6, 5]])
 
+    def test_0066(self):
+        mod = load_solution("01_Arrays/0066_Plus_One.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.plusOne([9, 9]), [1, 0, 0])
+
 
 
 if __name__ == "__main__":
