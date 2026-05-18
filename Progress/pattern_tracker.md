@@ -32,3 +32,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 16 | 3Sum Closest | Two Pointers | Two Pointers + Sorting | Medium | [0016_3Sum_Closest.py](../04_Two_Pointers/0016_3Sum_Closest.py) |
 | 18 | 4Sum | Two Pointers | Two Pointers + Sorting | Medium | [0018_4Sum.py](../04_Two_Pointers/0018_4Sum.py) |
 | 19 | Remove Nth Node From End of List | Linked List | Linked List Two Pointers (Fast & Slow) | Medium | [0019_Remove_Nth_Node_From_End_Of_List.py](../07_Linked_List/0019_Remove_Nth_Node_From_End_Of_List.py) |
+| 21 | Merge Two Sorted Lists | Linked List | Linked List Two Pointers | Easy | [0021_Merge_Two_Sorted_Lists.py](../07_Linked_List/0021_Merge_Two_Sorted_Lists.py) |
+| 26 | Remove Duplicates from Sorted Array | Arrays & Matrix | Two Pointers (In-Place) | Easy | [0026_Remove_Duplicates_From_Sorted_Array.py](../01_Arrays/0026_Remove_Duplicates_From_Sorted_Array.py) |
+| 27 | Remove Element | Arrays & Matrix | Two Pointers (In-Place) | Easy | [0027_Remove_Element.py](../01_Arrays/0027_Remove_Element.py) |
+| 28 | Find the Index of the First Occurrence in a String | Two Pointers | Two Pointers / String Matching | Easy | [0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py](../04_Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py) |
