@@ -74,6 +74,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         m = [[1, 1, 1], [1, 0, 1], [1, 1, 1]]; sol.setZeroes(m); self.assertEqual(m, [[1, 0, 1], [0, 0, 0], [1, 0, 1]])
 
+    def test_0075(self):
+        mod = load_solution("01_Arrays/0075_Sort_Colors.py")
+        sol = mod.Solution()
+        a = [2, 0, 2, 1, 1, 0]; sol.sortColors(a); self.assertEqual(a, [0, 0, 1, 1, 2, 2])
+
 
 
 if __name__ == "__main__":
