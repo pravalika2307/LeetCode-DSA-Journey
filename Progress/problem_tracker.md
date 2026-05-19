@@ -20,3 +20,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 48 | Rotate Image | Medium | Matrix Manipulation (Transpose + Reverse) | `O(n^2)` | `O(1)` | Implemented & Tested | [0048_Rotate_Image.py](../01_Arrays/0048_Rotate_Image.py) |
 | 53 | Maximum Subarray | Medium | Kadane's Algorithm / Greedy | `O(n)` | `O(1)` | Implemented & Tested | [0053_Maximum_Subarray.py](../01_Arrays/0053_Maximum_Subarray.py) |
 | 54 | Spiral Matrix | Medium | Matrix Boundary Traversal | `O(m * n)` | `O(1) auxiliary` | Implemented & Tested | [0054_Spiral_Matrix.py](../01_Arrays/0054_Spiral_Matrix.py) |
+| 55 | Jump Game | Medium | Greedy Reachability | `O(n)` | `O(1)` | Implemented & Tested | [0055_Jump_Game.py](../01_Arrays/0055_Jump_Game.py) |
+| 56 | Merge Intervals | Medium | Sorting + Interval Merging | `O(n log n)` | `O(n)` | Implemented & Tested | [0056_Merge_Intervals.py](../01_Arrays/0056_Merge_Intervals.py) |
+| 57 | Insert Interval | Medium | Interval Merging | `O(n)` | `O(n)` | Implemented & Tested | [0057_Insert_Interval.py](../01_Arrays/0057_Insert_Interval.py) |
+| 59 | Spiral Matrix II | Medium | Matrix Boundary Traversal | `O(n^2)` | `O(1) auxiliary` | Implemented & Tested | [0059_Spiral_Matrix_II.py](../01_Arrays/0059_Spiral_Matrix_II.py) |
