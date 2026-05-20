@@ -46,3 +46,9 @@ All counts below are verified directly against the solution files in this reposi
 | Folder | Topic | Total | Easy | Medium | Hard | Status |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
 | [`01_Arrays/`](01_Arrays/) | Arrays & Matrix | 55 | 28 | 22 | 5 | Covered |
+| [`03_Hashing/`](03_Hashing/) | Hashing | 40 | 22 | 16 | 2 | Covered |
+| [`04_Two_Pointers/`](04_Two_Pointers/) | Two Pointers | 30 | 11 | 17 | 2 | Covered |
+| [`05_Sliding_Window/`](05_Sliding_Window/) | Sliding Window | 33 | 3 | 23 | 7 | Covered |
+| [`06_Binary_Search/`](06_Binary_Search/) | Binary Search | 36 | 11 | 21 | 4 | Covered |
+| [`07_Linked_List/`](07_Linked_List/) | Linked List | 24 | 9 | 13 | 2 | Covered |
+| [`02_Strings/`](02_Strings/) | Strings (Dedicated Algorithms) | 0 | 0 | 0 | 0 | Upcoming |
