@@ -89,6 +89,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.generate(3), [[1], [1, 1], [1, 2, 1]])
 
+    def test_0119(self):
+        mod = load_solution("01_Arrays/0119_Pascals_Triangle_II.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.getRow(3), [1, 3, 3, 1])
+
 
 
 if __name__ == "__main__":
