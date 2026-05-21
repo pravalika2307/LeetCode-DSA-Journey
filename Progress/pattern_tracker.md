@@ -36,3 +36,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 26 | Remove Duplicates from Sorted Array | Arrays & Matrix | Two Pointers (In-Place) | Easy | [0026_Remove_Duplicates_From_Sorted_Array.py](../01_Arrays/0026_Remove_Duplicates_From_Sorted_Array.py) |
 | 27 | Remove Element | Arrays & Matrix | Two Pointers (In-Place) | Easy | [0027_Remove_Element.py](../01_Arrays/0027_Remove_Element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Two Pointers | Two Pointers / String Matching | Easy | [0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py](../04_Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py) |
+| 31 | Next Permutation | Arrays & Matrix | Array Permutation / Two Pointers | Medium | [0031_Next_Permutation.py](../01_Arrays/0031_Next_Permutation.py) |
+| 42 | Trapping Rain Water | Two Pointers | Two Pointers (Opposite Ends) | Hard | [0042_Trapping_Rain_Water.py](../04_Two_Pointers/0042_Trapping_Rain_Water.py) |
+| 75 | Sort Colors | Arrays & Matrix | Three Pointers (Dutch National Flag) | Medium | [0075_Sort_Colors.py](../01_Arrays/0075_Sort_Colors.py) |
+| 80 | Remove Duplicates from Sorted Array II | Two Pointers | Two Pointers (In-Place) | Medium | [0080_Remove_Duplicates_From_Sorted_Array_II.py](../04_Two_Pointers/0080_Remove_Duplicates_From_Sorted_Array_II.py) |
