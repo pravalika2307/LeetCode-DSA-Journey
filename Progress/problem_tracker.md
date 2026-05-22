@@ -24,3 +24,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 56 | Merge Intervals | Medium | Sorting + Interval Merging | `O(n log n)` | `O(n)` | Implemented & Tested | [0056_Merge_Intervals.py](../01_Arrays/0056_Merge_Intervals.py) |
 | 57 | Insert Interval | Medium | Interval Merging | `O(n)` | `O(n)` | Implemented & Tested | [0057_Insert_Interval.py](../01_Arrays/0057_Insert_Interval.py) |
 | 59 | Spiral Matrix II | Medium | Matrix Boundary Traversal | `O(n^2)` | `O(1) auxiliary` | Implemented & Tested | [0059_Spiral_Matrix_II.py](../01_Arrays/0059_Spiral_Matrix_II.py) |
+| 66 | Plus One | Easy | Array Math / Carry Propagation | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0066_Plus_One.py](../01_Arrays/0066_Plus_One.py) |
+| 73 | Set Matrix Zeroes | Medium | Matrix In-Place Markers | `O(m * n)` | `O(1)` | Implemented & Tested | [0073_Set_Matrix_Zeroes.py](../01_Arrays/0073_Set_Matrix_Zeroes.py) |
+| 75 | Sort Colors | Medium | Three Pointers (Dutch National Flag) | `O(n)` | `O(1)` | Implemented & Tested | [0075_Sort_Colors.py](../01_Arrays/0075_Sort_Colors.py) |
+| 88 | Merge Sorted Array | Easy | Two Pointers (Reverse Merge) | `O(m + n)` | `O(1)` | Implemented & Tested | [0088_Merge_Sorted_Array.py](../01_Arrays/0088_Merge_Sorted_Array.py) |
