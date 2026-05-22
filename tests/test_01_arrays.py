@@ -99,6 +99,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxProfit([7, 1, 5, 3, 6, 4]), 5)
 
+    def test_0122(self):
+        mod = load_solution("01_Arrays/0122_Best_Time_To_Buy_And_Sell_Stock_II.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxProfit([7, 1, 5, 3, 6, 4]), 7)
+
 
 
 if __name__ == "__main__":
