@@ -52,3 +52,9 @@ All counts below are verified directly against the solution files in this reposi
 | [`06_Binary_Search/`](06_Binary_Search/) | Binary Search | 36 | 11 | 21 | 4 | Covered |
 | [`07_Linked_List/`](07_Linked_List/) | Linked List | 24 | 9 | 13 | 2 | Covered |
 | [`02_Strings/`](02_Strings/) | Strings (Dedicated Algorithms) | 0 | 0 | 0 | 0 | Upcoming |
+| [`08_Stack_Queue/`](08_Stack_Queue/) | Stack & Queue | 0 | 0 | 0 | 0 | Upcoming |
+| [`09_Trees/`](09_Trees/) | Trees & Tries | 0 | 0 | 0 | 0 | Upcoming |
+| [`10_Heap/`](10_Heap/) | Heap / Priority Queue | 0 | 0 | 0 | 0 | Upcoming |
+| [`11_Backtracking/`](11_Backtracking/) | Backtracking | 0 | 0 | 0 | 0 | Upcoming |
+| [`12_Graphs/`](12_Graphs/) | Graphs | 0 | 0 | 0 | 0 | Upcoming |
+| [`13_Dynamic_Programming/`](13_Dynamic_Programming/) | Dynamic Programming | 0 | 0 | 0 | 0 | Upcoming |
