@@ -104,6 +104,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxProfit([7, 1, 5, 3, 6, 4]), 7)
 
+    def test_0134(self):
+        mod = load_solution("01_Arrays/0134_Gas_Station.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.canCompleteCircuit([1, 2, 3, 4, 5], [3, 4, 5, 1, 2]), 3)
+
 
 
 if __name__ == "__main__":
