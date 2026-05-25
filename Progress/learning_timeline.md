@@ -24,3 +24,5 @@ This document records my Data Structures & Algorithms learning progression from 
 
 ---
 
+### July 2026: Hashing & Frequency Maps
+- **Focus Folder:** [`03_Hashing/`](../03_Hashing/)
