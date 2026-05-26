@@ -114,6 +114,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.candy([1, 0, 2]), 5)
 
+    def test_0152(self):
+        mod = load_solution("01_Arrays/0152_Maximum_Product_Subarray.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxProduct([2, 3, -2, 4]), 6)
+
 
 
 if __name__ == "__main__":
