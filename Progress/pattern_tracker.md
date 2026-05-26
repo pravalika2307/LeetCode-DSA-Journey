@@ -40,3 +40,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 42 | Trapping Rain Water | Two Pointers | Two Pointers (Opposite Ends) | Hard | [0042_Trapping_Rain_Water.py](../04_Two_Pointers/0042_Trapping_Rain_Water.py) |
 | 75 | Sort Colors | Arrays & Matrix | Three Pointers (Dutch National Flag) | Medium | [0075_Sort_Colors.py](../01_Arrays/0075_Sort_Colors.py) |
 | 80 | Remove Duplicates from Sorted Array II | Two Pointers | Two Pointers (In-Place) | Medium | [0080_Remove_Duplicates_From_Sorted_Array_II.py](../04_Two_Pointers/0080_Remove_Duplicates_From_Sorted_Array_II.py) |
+| 88 | Merge Sorted Array | Arrays & Matrix | Two Pointers (Reverse Merge) | Easy | [0088_Merge_Sorted_Array.py](../01_Arrays/0088_Merge_Sorted_Array.py) |
+| 125 | Valid Palindrome | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0125_Valid_Palindrome.py](../04_Two_Pointers/0125_Valid_Palindrome.py) |
+| 141 | Linked List Cycle | Linked List | Linked List Two Pointers (Fast & Slow) | Easy | [0141_Linked_List_Cycle.py](../07_Linked_List/0141_Linked_List_Cycle.py) |
+| 142 | Linked List Cycle II | Linked List | Linked List Floyd's Cycle Detection | Medium | [0142_Linked_List_Cycle_II.py](../07_Linked_List/0142_Linked_List_Cycle_II.py) |
