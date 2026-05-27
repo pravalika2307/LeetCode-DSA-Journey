@@ -28,3 +28,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 73 | Set Matrix Zeroes | Medium | Matrix In-Place Markers | `O(m * n)` | `O(1)` | Implemented & Tested | [0073_Set_Matrix_Zeroes.py](../01_Arrays/0073_Set_Matrix_Zeroes.py) |
 | 75 | Sort Colors | Medium | Three Pointers (Dutch National Flag) | `O(n)` | `O(1)` | Implemented & Tested | [0075_Sort_Colors.py](../01_Arrays/0075_Sort_Colors.py) |
 | 88 | Merge Sorted Array | Easy | Two Pointers (Reverse Merge) | `O(m + n)` | `O(1)` | Implemented & Tested | [0088_Merge_Sorted_Array.py](../01_Arrays/0088_Merge_Sorted_Array.py) |
+| 118 | Pascal's Triangle | Easy | Dynamic Programming / Array Construction | `O(numRows^2)` | `O(1) auxiliary` | Implemented & Tested | [0118_Pascals_Triangle.py](../01_Arrays/0118_Pascals_Triangle.py) |
+| 119 | Pascal's Triangle II | Easy | 1D Rolling Dynamic Programming | `O(rowIndex^2)` | `O(rowIndex)` | Implemented & Tested | [0119_Pascals_Triangle_II.py](../01_Arrays/0119_Pascals_Triangle_II.py) |
+| 121 | Best Time to Buy and Sell Stock | Easy | Greedy / Running Minimum | `O(n)` | `O(1)` | Implemented & Tested | [0121_Best_Time_To_Buy_And_Sell_Stock.py](../01_Arrays/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
+| 122 | Best Time to Buy and Sell Stock II | Medium | Greedy | `O(n)` | `O(1)` | Implemented & Tested | [0122_Best_Time_To_Buy_And_Sell_Stock_II.py](../01_Arrays/0122_Best_Time_To_Buy_And_Sell_Stock_II.py) |
