@@ -119,6 +119,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxProduct([2, 3, -2, 4]), 6)
 
+    def test_0169(self):
+        mod = load_solution("01_Arrays/0169_Majority_Element.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.majorityElement([2, 2, 1, 1, 1, 2, 2]), 2)
+
 
 
 if __name__ == "__main__":
