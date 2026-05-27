@@ -58,3 +58,9 @@ All counts below are verified directly against the solution files in this reposi
 | [`11_Backtracking/`](11_Backtracking/) | Backtracking | 0 | 0 | 0 | 0 | Upcoming |
 | [`12_Graphs/`](12_Graphs/) | Graphs | 0 | 0 | 0 | 0 | Upcoming |
 | [`13_Dynamic_Programming/`](13_Dynamic_Programming/) | Dynamic Programming | 0 | 0 | 0 | 0 | Upcoming |
+| [`14_Greedy/`](14_Greedy/) | Greedy | 0 | 0 | 0 | 0 | Upcoming |
+| **Total** | **All Topics** | **218** | **84** | **112** | **22** | **6 Covered / 8 Upcoming** |
+
+### Pattern-Wise Distribution
+
+| Pattern Family | Count | Easy | Medium | Hard |
