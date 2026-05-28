@@ -26,3 +26,5 @@ This document records my Data Structures & Algorithms learning progression from 
 
 ### July 2026: Hashing & Frequency Maps
 - **Focus Folder:** [`03_Hashing/`](../03_Hashing/)
+- **Problems Covered:** **40** (22 Easy, 16 Medium, 2 Hard)
+- **Key Patterns:** Hash sets, bijective mapping, character/word frequency counters, bucket sorting, slope maps (`0149`), and 1D/2D prefix sum + hash map (`0523`, `0525`, `0560`, `0974`, `1074`).
