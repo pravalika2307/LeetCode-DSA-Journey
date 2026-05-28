@@ -124,6 +124,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.majorityElement([2, 2, 1, 1, 1, 2, 2]), 2)
 
+    def test_0189(self):
+        mod = load_solution("01_Arrays/0189_Rotate_Array.py")
+        sol = mod.Solution()
+        a = [1, 2, 3, 4, 5, 6, 7]; sol.rotate(a, 3); self.assertEqual(a, [5, 6, 7, 1, 2, 3, 4])
+
 
 
 if __name__ == "__main__":
