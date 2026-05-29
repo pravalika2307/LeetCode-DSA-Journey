@@ -134,6 +134,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.containsDuplicate([1, 2, 3, 1])); self.assertFalse(sol.containsDuplicate([1, 2, 3]))
 
+    def test_0228(self):
+        mod = load_solution("01_Arrays/0228_Summary_Ranges.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.summaryRanges([0, 1, 2, 4, 5, 7]), ["0->2", "4->5", "7"])
+
 
 
 if __name__ == "__main__":
