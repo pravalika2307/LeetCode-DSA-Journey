@@ -44,3 +44,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 125 | Valid Palindrome | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0125_Valid_Palindrome.py](../04_Two_Pointers/0125_Valid_Palindrome.py) |
 | 141 | Linked List Cycle | Linked List | Linked List Two Pointers (Fast & Slow) | Easy | [0141_Linked_List_Cycle.py](../07_Linked_List/0141_Linked_List_Cycle.py) |
 | 142 | Linked List Cycle II | Linked List | Linked List Floyd's Cycle Detection | Medium | [0142_Linked_List_Cycle_II.py](../07_Linked_List/0142_Linked_List_Cycle_II.py) |
+| 151 | Reverse Words in a String | Two Pointers | Two Pointers | Medium | [0151_Reverse_Words_In_A_String.py](../04_Two_Pointers/0151_Reverse_Words_In_A_String.py) |
+| 160 | Intersection of Two Linked Lists | Linked List | Linked List Two Pointers | Easy | [0160_Intersection_Of_Two_Linked_Lists.py](../07_Linked_List/0160_Intersection_Of_Two_Linked_Lists.py) |
+| 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Two Pointers (Opposite Ends) | Medium | [0167_Two_Sum_II_Input_Array_Is_Sorted.py](../04_Two_Pointers/0167_Two_Sum_II_Input_Array_Is_Sorted.py) |
+| 283 | Move Zeroes | Arrays & Matrix | Two Pointers (In-Place) | Easy | [0283_Move_Zeroes.py](../01_Arrays/0283_Move_Zeroes.py) |
