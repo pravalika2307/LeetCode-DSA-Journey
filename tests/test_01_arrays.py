@@ -129,6 +129,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         a = [1, 2, 3, 4, 5, 6, 7]; sol.rotate(a, 3); self.assertEqual(a, [5, 6, 7, 1, 2, 3, 4])
 
+    def test_0217(self):
+        mod = load_solution("01_Arrays/0217_Contains_Duplicate.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.containsDuplicate([1, 2, 3, 1])); self.assertFalse(sol.containsDuplicate([1, 2, 3]))
+
 
 
 if __name__ == "__main__":
