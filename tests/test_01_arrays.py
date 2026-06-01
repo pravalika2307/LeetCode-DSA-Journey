@@ -139,6 +139,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.summaryRanges([0, 1, 2, 4, 5, 7]), ["0->2", "4->5", "7"])
 
+    def test_0229(self):
+        mod = load_solution("01_Arrays/0229_Majority_Element_II.py")
+        sol = mod.Solution()
+        self.assertEqual(sorted(sol.majorityElement([1, 2])), [1, 2]); self.assertEqual(sol.majorityElement([3, 2, 3]), [3])
+
 
 
 if __name__ == "__main__":
