@@ -64,3 +64,9 @@ All counts below are verified directly against the solution files in this reposi
 ### Pattern-Wise Distribution
 
 | Pattern Family | Count | Easy | Medium | Hard |
+| :--- | :---: | :---: | :---: | :---: |
+| Two Pointers & Cycle Detection | 43 | 20 | 21 | 2 |
+| Hashing & Frequency Maps | 41 | 23 | 16 | 2 |
+| Binary Search | 36 | 11 | 21 | 4 |
+| Sliding Window | 33 | 3 | 23 | 7 |
+| Linked List Pointer Manipulation | 18 | 5 | 11 | 2 |
