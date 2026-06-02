@@ -48,3 +48,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 160 | Intersection of Two Linked Lists | Linked List | Linked List Two Pointers | Easy | [0160_Intersection_Of_Two_Linked_Lists.py](../07_Linked_List/0160_Intersection_Of_Two_Linked_Lists.py) |
 | 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Two Pointers (Opposite Ends) | Medium | [0167_Two_Sum_II_Input_Array_Is_Sorted.py](../04_Two_Pointers/0167_Two_Sum_II_Input_Array_Is_Sorted.py) |
 | 283 | Move Zeroes | Arrays & Matrix | Two Pointers (In-Place) | Easy | [0283_Move_Zeroes.py](../01_Arrays/0283_Move_Zeroes.py) |
+| 287 | Find the Duplicate Number | Two Pointers | Two Pointers (Floyd's Cycle Detection) | Medium | [0287_Find_The_Duplicate_Number.py](../04_Two_Pointers/0287_Find_The_Duplicate_Number.py) |
+| 344 | Reverse String | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0344_Reverse_String.py](../04_Two_Pointers/0344_Reverse_String.py) |
+| 345 | Reverse Vowels of a String | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0345_Reverse_Vowels_Of_A_String.py](../04_Two_Pointers/0345_Reverse_Vowels_Of_A_String.py) |
+| 392 | Is Subsequence | Two Pointers | Two Pointers | Easy | [0392_Is_Subsequence.py](../04_Two_Pointers/0392_Is_Subsequence.py) |
