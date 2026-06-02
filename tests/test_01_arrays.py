@@ -149,6 +149,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.productExceptSelf([1, 2, 3, 4]), [24, 12, 8, 6])
 
+    def test_0240(self):
+        mod = load_solution("01_Arrays/0240_Search_A_2D_Matrix_II.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.searchMatrix([[1, 4, 7, 11, 15], [2, 5, 8, 12, 19], [3, 6, 9, 16, 22]], 5))
+
 
 
 if __name__ == "__main__":
