@@ -144,6 +144,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sorted(sol.majorityElement([1, 2])), [1, 2]); self.assertEqual(sol.majorityElement([3, 2, 3]), [3])
 
+    def test_0238(self):
+        mod = load_solution("01_Arrays/0238_Product_Of_Array_Except_Self.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.productExceptSelf([1, 2, 3, 4]), [24, 12, 8, 6])
+
 
 
 if __name__ == "__main__":
