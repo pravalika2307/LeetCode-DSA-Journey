@@ -36,3 +36,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 135 | Candy | Hard | Greedy (Two-Pass Left/Right Scan) | `O(n)` | `O(n)` | Implemented & Tested | [0135_Candy.py](../01_Arrays/0135_Candy.py) |
 | 152 | Maximum Product Subarray | Medium | Dynamic Programming / Running Min-Max | `O(n)` | `O(1)` | Implemented & Tested | [0152_Maximum_Product_Subarray.py](../01_Arrays/0152_Maximum_Product_Subarray.py) |
 | 169 | Majority Element | Easy | Boyer-Moore Voting Algorithm | `O(n)` | `O(1)` | Implemented & Tested | [0169_Majority_Element.py](../01_Arrays/0169_Majority_Element.py) |
+| 189 | Rotate Array | Medium | Array Reversal | `O(n)` | `O(1)` | Implemented & Tested | [0189_Rotate_Array.py](../01_Arrays/0189_Rotate_Array.py) |
+| 217 | Contains Duplicate | Easy | Hashing (Hash Set) | `O(n)` | `O(n)` | Implemented & Tested | [0217_Contains_Duplicate.py](../01_Arrays/0217_Contains_Duplicate.py) |
+| 228 | Summary Ranges | Easy | Array Linear Scan | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0228_Summary_Ranges.py](../01_Arrays/0228_Summary_Ranges.py) |
+| 229 | Majority Element II | Medium | Boyer-Moore Voting Algorithm | `O(n)` | `O(1)` | Implemented & Tested | [0229_Majority_Element_II.py](../01_Arrays/0229_Majority_Element_II.py) |
