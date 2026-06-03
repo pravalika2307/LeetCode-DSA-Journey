@@ -154,6 +154,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.searchMatrix([[1, 4, 7, 11, 15], [2, 5, 8, 12, 19], [3, 6, 9, 16, 22]], 5))
 
+    def test_0268(self):
+        mod = load_solution("01_Arrays/0268_Missing_Number.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.missingNumber([3, 0, 1]), 2)
+
 
 
 if __name__ == "__main__":
