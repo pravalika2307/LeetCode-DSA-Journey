@@ -164,6 +164,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.hIndex([3, 0, 6, 1, 5]), 3)
 
+    def test_0283(self):
+        mod = load_solution("01_Arrays/0283_Move_Zeroes.py")
+        sol = mod.Solution()
+        a = [0, 1, 0, 3, 12]; sol.moveZeroes(a); self.assertEqual(a, [1, 3, 12, 0, 0])
+
 
 
 if __name__ == "__main__":
