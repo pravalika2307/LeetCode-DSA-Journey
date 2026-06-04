@@ -70,3 +70,9 @@ All counts below are verified directly against the solution files in this reposi
 | Binary Search | 36 | 11 | 21 | 4 |
 | Sliding Window | 33 | 3 | 23 | 7 |
 | Linked List Pointer Manipulation | 18 | 5 | 11 | 2 |
+| Greedy, Kadane & Voting | 12 | 4 | 6 | 2 |
+| Matrix Traversal & In-Place Ops | 10 | 3 | 7 | 0 |
+| Array Scanning, Reversal & Math | 8 | 6 | 2 | 0 |
+| Cyclic Placement / Marking | 4 | 2 | 1 | 1 |
+| Prefix / Suffix Computations | 4 | 3 | 1 | 0 |
+| Dynamic Programming Basics | 3 | 2 | 1 | 0 |
