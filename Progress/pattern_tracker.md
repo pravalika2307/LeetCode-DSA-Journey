@@ -52,3 +52,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 344 | Reverse String | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0344_Reverse_String.py](../04_Two_Pointers/0344_Reverse_String.py) |
 | 345 | Reverse Vowels of a String | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0345_Reverse_Vowels_Of_A_String.py](../04_Two_Pointers/0345_Reverse_Vowels_Of_A_String.py) |
 | 392 | Is Subsequence | Two Pointers | Two Pointers | Easy | [0392_Is_Subsequence.py](../04_Two_Pointers/0392_Is_Subsequence.py) |
+| 443 | String Compression | Two Pointers | Two Pointers (In-Place) | Medium | [0443_String_Compression.py](../04_Two_Pointers/0443_String_Compression.py) |
+| 455 | Assign Cookies | Two Pointers | Two Pointers + Greedy Sorting | Easy | [0455_Assign_Cookies.py](../04_Two_Pointers/0455_Assign_Cookies.py) |
+| 475 | Heaters | Two Pointers | Two Pointers + Sorting | Medium | [0475_Heaters.py](../04_Two_Pointers/0475_Heaters.py) |
+| 524 | Longest Word in Dictionary through Deleting | Two Pointers | Two Pointers (Subsequence Matching) | Medium | [0524_Longest_Word_In_Dictionary_Through_Deleting.py](../04_Two_Pointers/0524_Longest_Word_In_Dictionary_Through_Deleting.py) |
