@@ -169,6 +169,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         a = [0, 1, 0, 3, 12]; sol.moveZeroes(a); self.assertEqual(a, [1, 3, 12, 0, 0])
 
+    def test_0289(self):
+        mod = load_solution("01_Arrays/0289_Game_Of_Life.py")
+        sol = mod.Solution()
+        b = [[0, 1, 0], [0, 0, 1], [1, 1, 1], [0, 0, 0]]; sol.gameOfLife(b); self.assertEqual(b, [[0, 0, 0], [1, 0, 1], [0, 1, 1], [0, 1, 0]])
+
 
 
 if __name__ == "__main__":
