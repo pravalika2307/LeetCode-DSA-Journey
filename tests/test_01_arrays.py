@@ -174,6 +174,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         b = [[0, 1, 0], [0, 0, 1], [1, 1, 1], [0, 0, 0]]; sol.gameOfLife(b); self.assertEqual(b, [[0, 0, 0], [1, 0, 1], [0, 1, 1], [0, 1, 0]])
 
+    def test_0315(self):
+        mod = load_solution("01_Arrays/0315_Count_Of_Smaller_Numbers_After_Self.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.countSmaller([5, 2, 6, 1]), [2, 1, 1, 0])
+
 
 
 if __name__ == "__main__":
