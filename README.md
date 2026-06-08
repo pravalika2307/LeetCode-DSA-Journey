@@ -76,3 +76,9 @@ All counts below are verified directly against the solution files in this reposi
 | Cyclic Placement / Marking | 4 | 2 | 1 | 1 |
 | Prefix / Suffix Computations | 4 | 3 | 1 | 0 |
 | Dynamic Programming Basics | 3 | 2 | 1 | 0 |
+| Bit Manipulation (XOR) | 2 | 2 | 0 | 0 |
+| Divide and Conquer / Merge Sort | 2 | 0 | 0 | 2 |
+| Sorting & Interval Merging | 2 | 0 | 2 | 0 |
+| **Total** | **218** | **84** | **112** | **22** |
+
+See [`Progress/pattern_tracker.md`](Progress/pattern_tracker.md) for the full problem-to-pattern mapping.
