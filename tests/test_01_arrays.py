@@ -179,6 +179,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.countSmaller([5, 2, 6, 1]), [2, 1, 1, 0])
 
+    def test_0330(self):
+        mod = load_solution("01_Arrays/0330_Patching_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.minPatches([1, 3], 6), 1)
+
 
 
 if __name__ == "__main__":
