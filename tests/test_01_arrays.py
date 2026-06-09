@@ -184,6 +184,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.minPatches([1, 3], 6), 1)
 
+    def test_0414(self):
+        mod = load_solution("01_Arrays/0414_Third_Maximum_Number.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.thirdMax([3, 2, 1]), 1); self.assertEqual(sol.thirdMax([1, 2]), 2)
+
 
 
 if __name__ == "__main__":
