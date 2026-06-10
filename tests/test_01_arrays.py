@@ -194,6 +194,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sorted(sol.findDuplicates([4, 3, 2, 7, 8, 2, 3, 1])), [2, 3])
 
+    def test_0448(self):
+        mod = load_solution("01_Arrays/0448_Find_All_Numbers_Disappeared_In_An_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findDisappearedNumbers([4, 3, 2, 7, 8, 2, 3, 1]), [5, 6])
+
 
 
 if __name__ == "__main__":
