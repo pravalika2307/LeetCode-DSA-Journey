@@ -56,3 +56,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 455 | Assign Cookies | Two Pointers | Two Pointers + Greedy Sorting | Easy | [0455_Assign_Cookies.py](../04_Two_Pointers/0455_Assign_Cookies.py) |
 | 475 | Heaters | Two Pointers | Two Pointers + Sorting | Medium | [0475_Heaters.py](../04_Two_Pointers/0475_Heaters.py) |
 | 524 | Longest Word in Dictionary through Deleting | Two Pointers | Two Pointers (Subsequence Matching) | Medium | [0524_Longest_Word_In_Dictionary_Through_Deleting.py](../04_Two_Pointers/0524_Longest_Word_In_Dictionary_Through_Deleting.py) |
+| 541 | Reverse String II | Two Pointers | Two Pointers | Easy | [0541_Reverse_String_II.py](../04_Two_Pointers/0541_Reverse_String_II.py) |
+| 557 | Reverse Words in a String III | Two Pointers | Two Pointers | Easy | [0557_Reverse_Words_In_A_String_III.py](../04_Two_Pointers/0557_Reverse_Words_In_A_String_III.py) |
+| 611 | Valid Triangle Number | Two Pointers | Two Pointers + Sorting | Medium | [0611_Valid_Triangle_Number.py](../04_Two_Pointers/0611_Valid_Triangle_Number.py) |
+| 633 | Sum of Square Numbers | Two Pointers | Two Pointers (Search Space) | Medium | [0633_Sum_Of_Square_Numbers.py](../04_Two_Pointers/0633_Sum_Of_Square_Numbers.py) |
