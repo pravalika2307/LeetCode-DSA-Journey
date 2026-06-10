@@ -189,6 +189,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.thirdMax([3, 2, 1]), 1); self.assertEqual(sol.thirdMax([1, 2]), 2)
 
+    def test_0442(self):
+        mod = load_solution("01_Arrays/0442_Find_All_Duplicates_In_An_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sorted(sol.findDuplicates([4, 3, 2, 7, 8, 2, 3, 1])), [2, 3])
+
 
 
 if __name__ == "__main__":
