@@ -199,6 +199,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findDisappearedNumbers([4, 3, 2, 7, 8, 2, 3, 1]), [5, 6])
 
+    def test_0485(self):
+        mod = load_solution("01_Arrays/0485_Max_Consecutive_Ones.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]), 3)
+
 
 
 if __name__ == "__main__":
