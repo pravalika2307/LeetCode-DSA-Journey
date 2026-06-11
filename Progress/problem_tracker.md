@@ -44,3 +44,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 240 | Search a 2D Matrix II | Medium | Matrix Staircase Search | `O(m + n)` | `O(1)` | Implemented & Tested | [0240_Search_A_2D_Matrix_II.py](../01_Arrays/0240_Search_A_2D_Matrix_II.py) |
 | 268 | Missing Number | Easy | Bit Manipulation (XOR) | `O(n)` | `O(1)` | Implemented & Tested | [0268_Missing_Number.py](../01_Arrays/0268_Missing_Number.py) |
 | 274 | H-Index | Medium | Counting / Bucket Sort | `O(n)` | `O(n)` | Implemented & Tested | [0274_H_Index.py](../01_Arrays/0274_H_Index.py) |
+| 283 | Move Zeroes | Easy | Two Pointers (In-Place) | `O(n)` | `O(1)` | Implemented & Tested | [0283_Move_Zeroes.py](../01_Arrays/0283_Move_Zeroes.py) |
+| 289 | Game of Life | Medium | Matrix In-Place State Encoding | `O(m * n)` | `O(1)` | Implemented & Tested | [0289_Game_Of_Life.py](../01_Arrays/0289_Game_Of_Life.py) |
+| 315 | Count of Smaller Numbers After Self | Hard | Merge Sort / Divide and Conquer | `O(n log n)` | `O(n)` | Implemented & Tested | [0315_Count_Of_Smaller_Numbers_After_Self.py](../01_Arrays/0315_Count_Of_Smaller_Numbers_After_Self.py) |
+| 330 | Patching Array | Hard | Greedy (Reachable Range) | `O(m + log n)` | `O(1)` | Implemented & Tested | [0330_Patching_Array.py](../01_Arrays/0330_Patching_Array.py) |
