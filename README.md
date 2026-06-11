@@ -82,3 +82,9 @@ All counts below are verified directly against the solution files in this reposi
 | **Total** | **218** | **84** | **112** | **22** |
 
 See [`Progress/pattern_tracker.md`](Progress/pattern_tracker.md) for the full problem-to-pattern mapping.
+
+---
+
+## Topics Covered
+
+1. **Arrays & Matrix** ([`01_Arrays/`](01_Arrays/)) — 55 problems
