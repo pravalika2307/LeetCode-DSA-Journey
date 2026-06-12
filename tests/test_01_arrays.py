@@ -204,6 +204,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]), 3)
 
+    def test_0493(self):
+        mod = load_solution("01_Arrays/0493_Reverse_Pairs.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.reversePairs([1, 3, 2, 3, 1]), 2)
+
 
 
 if __name__ == "__main__":
