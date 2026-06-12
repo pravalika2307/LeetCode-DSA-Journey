@@ -34,3 +34,5 @@ This document records my Data Structures & Algorithms learning progression from 
 ### August 2026: Two Pointers
 - **Focus Folder:** [`04_Two_Pointers/`](../04_Two_Pointers/)
 - **Problems Covered:** **30** (11 Easy, 17 Medium, 2 Hard)
+- **Key Patterns:** Opposite-end pointers, expand-around-center palindromes (`0005`, `0647`), k-sum sorting (`0015`, `0016`, `0018`), greedy expansion (`0011`, `0042`, `1793`), and Floyd's cycle detection (`0287`).
+
