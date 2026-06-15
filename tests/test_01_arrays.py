@@ -214,6 +214,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findDiagonalOrder([[1, 2, 3], [4, 5, 6], [7, 8, 9]]), [1, 2, 4, 7, 5, 3, 6, 8, 9])
 
+    def test_0561(self):
+        mod = load_solution("01_Arrays/0561_Array_Partition.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.arrayPairSum([1, 4, 3, 2]), 4)
+
 
 
 if __name__ == "__main__":
