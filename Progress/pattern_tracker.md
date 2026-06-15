@@ -60,3 +60,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 557 | Reverse Words in a String III | Two Pointers | Two Pointers | Easy | [0557_Reverse_Words_In_A_String_III.py](../04_Two_Pointers/0557_Reverse_Words_In_A_String_III.py) |
 | 611 | Valid Triangle Number | Two Pointers | Two Pointers + Sorting | Medium | [0611_Valid_Triangle_Number.py](../04_Two_Pointers/0611_Valid_Triangle_Number.py) |
 | 633 | Sum of Square Numbers | Two Pointers | Two Pointers (Search Space) | Medium | [0633_Sum_Of_Square_Numbers.py](../04_Two_Pointers/0633_Sum_Of_Square_Numbers.py) |
+| 647 | Palindromic Substrings | Two Pointers | Two Pointers (Expand Around Center) | Medium | [0647_Palindromic_Substrings.py](../04_Two_Pointers/0647_Palindromic_Substrings.py) |
+| 680 | Valid Palindrome II | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0680_Valid_Palindrome_II.py](../04_Two_Pointers/0680_Valid_Palindrome_II.py) |
+| 763 | Partition Labels | Two Pointers | Two Pointers / Greedy Intervals | Medium | [0763_Partition_Labels.py](../04_Two_Pointers/0763_Partition_Labels.py) |
+| 844 | Backspace String Compare | Two Pointers | Two Pointers (Reverse Scan) | Easy | [0844_Backspace_String_Compare.py](../04_Two_Pointers/0844_Backspace_String_Compare.py) |
