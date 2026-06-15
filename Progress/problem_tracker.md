@@ -48,3 +48,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 289 | Game of Life | Medium | Matrix In-Place State Encoding | `O(m * n)` | `O(1)` | Implemented & Tested | [0289_Game_Of_Life.py](../01_Arrays/0289_Game_Of_Life.py) |
 | 315 | Count of Smaller Numbers After Self | Hard | Merge Sort / Divide and Conquer | `O(n log n)` | `O(n)` | Implemented & Tested | [0315_Count_Of_Smaller_Numbers_After_Self.py](../01_Arrays/0315_Count_Of_Smaller_Numbers_After_Self.py) |
 | 330 | Patching Array | Hard | Greedy (Reachable Range) | `O(m + log n)` | `O(1)` | Implemented & Tested | [0330_Patching_Array.py](../01_Arrays/0330_Patching_Array.py) |
+| 414 | Third Maximum Number | Easy | Array Linear Scan | `O(n)` | `O(1)` | Implemented & Tested | [0414_Third_Maximum_Number.py](../01_Arrays/0414_Third_Maximum_Number.py) |
+| 442 | Find All Duplicates in an Array | Medium | In-Place Cyclic Marking | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0442_Find_All_Duplicates_In_An_Array.py](../01_Arrays/0442_Find_All_Duplicates_In_An_Array.py) |
+| 448 | Find All Numbers Disappeared in an Array | Easy | In-Place Cyclic Marking | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0448_Find_All_Numbers_Disappeared_In_An_Array.py](../01_Arrays/0448_Find_All_Numbers_Disappeared_In_An_Array.py) |
+| 485 | Max Consecutive Ones | Easy | Array Linear Scan | `O(n)` | `O(1)` | Implemented & Tested | [0485_Max_Consecutive_Ones.py](../01_Arrays/0485_Max_Consecutive_Ones.py) |
