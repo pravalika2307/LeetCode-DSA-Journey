@@ -224,6 +224,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.matrixReshape([[1, 2], [3, 4]], 1, 4), [[1, 2, 3, 4]])
 
+    def test_0605(self):
+        mod = load_solution("01_Arrays/0605_Can_Place_Flowers.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.canPlaceFlowers([1, 0, 0, 0, 1], 1)); self.assertFalse(sol.canPlaceFlowers([1, 0, 0, 0, 1], 2))
+
 
 
 if __name__ == "__main__":
