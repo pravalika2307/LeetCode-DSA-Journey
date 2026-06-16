@@ -88,3 +88,9 @@ See [`Progress/pattern_tracker.md`](Progress/pattern_tracker.md) for the full pr
 ## Topics Covered
 
 1. **Arrays & Matrix** ([`01_Arrays/`](01_Arrays/)) — 55 problems
+2. **Hashing** ([`03_Hashing/`](03_Hashing/)) — 40 problems
+3. **Two Pointers** ([`04_Two_Pointers/`](04_Two_Pointers/)) — 30 problems
+4. **Sliding Window** ([`05_Sliding_Window/`](05_Sliding_Window/)) — 33 problems
+5. **Binary Search** ([`06_Binary_Search/`](06_Binary_Search/)) — 36 problems
+6. **Linked List** ([`07_Linked_List/`](07_Linked_List/)) — 24 problems
+
