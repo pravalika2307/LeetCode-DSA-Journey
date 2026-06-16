@@ -219,6 +219,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.arrayPairSum([1, 4, 3, 2]), 4)
 
+    def test_0566(self):
+        mod = load_solution("01_Arrays/0566_Reshape_The_Matrix.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.matrixReshape([[1, 2], [3, 4]], 1, 4), [[1, 2, 3, 4]])
+
 
 
 if __name__ == "__main__":
