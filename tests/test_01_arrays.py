@@ -229,6 +229,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.canPlaceFlowers([1, 0, 0, 0, 1], 1)); self.assertFalse(sol.canPlaceFlowers([1, 0, 0, 0, 1], 2))
 
+    def test_0628(self):
+        mod = load_solution("01_Arrays/0628_Maximum_Product_Of_Three_Numbers.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maximumProduct([-10, -10, 5, 2]), 500)
+
 
 
 if __name__ == "__main__":
