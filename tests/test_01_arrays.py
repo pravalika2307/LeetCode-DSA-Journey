@@ -234,6 +234,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maximumProduct([-10, -10, 5, 2]), 500)
 
+    def test_0645(self):
+        mod = load_solution("01_Arrays/0645_Set_Mismatch.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findErrorNums([1, 2, 2, 4]), [2, 3])
+
 
 
 if __name__ == "__main__":
