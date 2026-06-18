@@ -64,3 +64,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 680 | Valid Palindrome II | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0680_Valid_Palindrome_II.py](../04_Two_Pointers/0680_Valid_Palindrome_II.py) |
 | 763 | Partition Labels | Two Pointers | Two Pointers / Greedy Intervals | Medium | [0763_Partition_Labels.py](../04_Two_Pointers/0763_Partition_Labels.py) |
 | 844 | Backspace String Compare | Two Pointers | Two Pointers (Reverse Scan) | Easy | [0844_Backspace_String_Compare.py](../04_Two_Pointers/0844_Backspace_String_Compare.py) |
+| 876 | Middle of the Linked List | Linked List | Linked List Two Pointers (Fast & Slow) | Easy | [0876_Middle_Of_The_Linked_List.py](../07_Linked_List/0876_Middle_Of_The_Linked_List.py) |
+| 881 | Boats to Save People | Two Pointers | Two Pointers + Greedy Sorting | Medium | [0881_Boats_To_Save_People.py](../04_Two_Pointers/0881_Boats_To_Save_People.py) |
+| 905 | Sort Array By Parity | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0905_Sort_Array_By_Parity.py](../04_Two_Pointers/0905_Sort_Array_By_Parity.py) |
+| 977 | Squares of a Sorted Array | Arrays & Matrix | Two Pointers | Easy | [0977_Squares_Of_A_Sorted_Array.py](../01_Arrays/0977_Squares_Of_A_Sorted_Array.py) |
