@@ -52,3 +52,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 442 | Find All Duplicates in an Array | Medium | In-Place Cyclic Marking | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0442_Find_All_Duplicates_In_An_Array.py](../01_Arrays/0442_Find_All_Duplicates_In_An_Array.py) |
 | 448 | Find All Numbers Disappeared in an Array | Easy | In-Place Cyclic Marking | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0448_Find_All_Numbers_Disappeared_In_An_Array.py](../01_Arrays/0448_Find_All_Numbers_Disappeared_In_An_Array.py) |
 | 485 | Max Consecutive Ones | Easy | Array Linear Scan | `O(n)` | `O(1)` | Implemented & Tested | [0485_Max_Consecutive_Ones.py](../01_Arrays/0485_Max_Consecutive_Ones.py) |
+| 493 | Reverse Pairs | Hard | Merge Sort / Divide and Conquer | `O(n log n)` | `O(n)` | Implemented & Tested | [0493_Reverse_Pairs.py](../01_Arrays/0493_Reverse_Pairs.py) |
+| 498 | Diagonal Traverse | Medium | Matrix Diagonal Simulation | `O(m * n)` | `O(1) auxiliary` | Implemented & Tested | [0498_Diagonal_Traverse.py](../01_Arrays/0498_Diagonal_Traverse.py) |
+| 561 | Array Partition | Easy | Greedy + Sorting | `O(n log n)` | `O(1) auxiliary` | Implemented & Tested | [0561_Array_Partition.py](../01_Arrays/0561_Array_Partition.py) |
+| 566 | Reshape the Matrix | Easy | Matrix Index Mapping | `O(m * n)` | `O(r * c)` | Implemented & Tested | [0566_Reshape_The_Matrix.py](../01_Arrays/0566_Reshape_The_Matrix.py) |
