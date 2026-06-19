@@ -94,3 +94,9 @@ See [`Progress/pattern_tracker.md`](Progress/pattern_tracker.md) for the full pr
 5. **Binary Search** ([`06_Binary_Search/`](06_Binary_Search/)) — 36 problems
 6. **Linked List** ([`07_Linked_List/`](07_Linked_List/)) — 24 problems
 
+---
+
+## Solutions
+
+Every solution uses the official LeetCode `class Solution` format with documented pattern, time complexity, and space complexity. Duplicate files are avoided when a problem spans multiple patterns.
+
