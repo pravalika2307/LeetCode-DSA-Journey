@@ -239,6 +239,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findErrorNums([1, 2, 2, 4]), [2, 3])
 
+    def test_0724(self):
+        mod = load_solution("01_Arrays/0724_Find_Pivot_Index.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.pivotIndex([1, 7, 3, 6, 5, 6]), 3)
+
 
 
 if __name__ == "__main__":
