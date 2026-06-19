@@ -244,6 +244,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.pivotIndex([1, 7, 3, 6, 5, 6]), 3)
 
+    def test_0867(self):
+        mod = load_solution("01_Arrays/0867_Transpose_Matrix.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.transpose([[1, 2, 3], [4, 5, 6]]), [[1, 4], [2, 5], [3, 6]])
+
 
 
 if __name__ == "__main__":
