@@ -38,3 +38,5 @@ This document records my Data Structures & Algorithms learning progression from 
 
 ---
 
+### September 2026: Sliding Window
+- **Focus Folder:** [`05_Sliding_Window/`](../05_Sliding_Window/)
