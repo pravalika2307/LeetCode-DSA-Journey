@@ -249,6 +249,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.transpose([[1, 2, 3], [4, 5, 6]]), [[1, 4], [2, 5], [3, 6]])
 
+    def test_0918(self):
+        mod = load_solution("01_Arrays/0918_Maximum_Sum_Circular_Subarray.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxSubarraySumCircular([5, -3, 5]), 10)
+
 
 
 if __name__ == "__main__":
