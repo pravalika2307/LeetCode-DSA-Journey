@@ -254,6 +254,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxSubarraySumCircular([5, -3, 5]), 10)
 
+    def test_0977(self):
+        mod = load_solution("01_Arrays/0977_Squares_Of_A_Sorted_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.sortedSquares([-4, -1, 0, 3, 10]), [0, 1, 9, 16, 100])
+
 
 
 if __name__ == "__main__":
