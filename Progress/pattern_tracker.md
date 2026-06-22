@@ -68,3 +68,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 881 | Boats to Save People | Two Pointers | Two Pointers + Greedy Sorting | Medium | [0881_Boats_To_Save_People.py](../04_Two_Pointers/0881_Boats_To_Save_People.py) |
 | 905 | Sort Array By Parity | Two Pointers | Two Pointers (Opposite Ends) | Easy | [0905_Sort_Array_By_Parity.py](../04_Two_Pointers/0905_Sort_Array_By_Parity.py) |
 | 977 | Squares of a Sorted Array | Arrays & Matrix | Two Pointers | Easy | [0977_Squares_Of_A_Sorted_Array.py](../01_Arrays/0977_Squares_Of_A_Sorted_Array.py) |
+| 1793 | Maximum Score of a Good Subarray | Two Pointers | Two Pointers (Greedy Expansion) | Hard | [1793_Maximum_Score_Of_A_Good_Subarray.py](../04_Two_Pointers/1793_Maximum_Score_Of_A_Good_Subarray.py) |
+
+## Hashing & Frequency Maps (41)
+
