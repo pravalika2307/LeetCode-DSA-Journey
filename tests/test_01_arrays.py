@@ -259,6 +259,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.sortedSquares([-4, -1, 0, 3, 10]), [0, 1, 9, 16, 100])
 
+    def test_1013(self):
+        mod = load_solution("01_Arrays/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.canThreePartsEqualSum([0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1]))
+
 
 
 if __name__ == "__main__":
