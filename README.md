@@ -100,3 +100,9 @@ See [`Progress/pattern_tracker.md`](Progress/pattern_tracker.md) for the full pr
 
 Every solution uses the official LeetCode `class Solution` format with documented pattern, time complexity, and space complexity. Duplicate files are avoided when a problem spans multiple patterns.
 
+### Arrays & Matrix (55)
+
+| # | Problem | Difficulty | Pattern | Time | Space | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- |
+| 1 | Two Sum | Easy | Hashing (Hash Map) | `O(n)` | `O(n)` | [0001_Two_Sum.py](01_Arrays/0001_Two_Sum.py) |
+| 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers (In-Place) | `O(n)` | `O(1)` | [0026_Remove_Duplicates_From_Sorted_Array.py](01_Arrays/0026_Remove_Duplicates_From_Sorted_Array.py) |
