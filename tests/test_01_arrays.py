@@ -264,6 +264,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.canThreePartsEqualSum([0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1]))
 
+    def test_1299(self):
+        mod = load_solution("01_Arrays/1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.replaceElements([17, 18, 5, 4, 6, 1]), [18, 6, 6, 6, 1, -1])
+
 
 
 if __name__ == "__main__":
