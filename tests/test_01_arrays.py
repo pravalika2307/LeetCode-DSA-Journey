@@ -269,6 +269,11 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.replaceElements([17, 18, 5, 4, 6, 1]), [18, 6, 6, 6, 1, -1])
 
+    def test_1480(self):
+        mod = load_solution("01_Arrays/1480_Running_Sum_Of_1d_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.runningSum([1, 2, 3, 4]), [1, 3, 6, 10])
+
 
 
 if __name__ == "__main__":
