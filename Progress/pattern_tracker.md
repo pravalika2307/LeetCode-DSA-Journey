@@ -72,3 +72,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 
 ## Hashing & Frequency Maps (41)
 
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 1 | Two Sum | Arrays & Matrix | Hashing (Hash Map) | Easy | [0001_Two_Sum.py](../01_Arrays/0001_Two_Sum.py) |
+| 36 | Valid Sudoku | Hashing | Hashing (Hash Set) | Medium | [0036_Valid_Sudoku.py](../03_Hashing/0036_Valid_Sudoku.py) |
