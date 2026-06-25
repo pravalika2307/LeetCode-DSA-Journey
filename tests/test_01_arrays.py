@@ -274,6 +274,10 @@ class TestArrays(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.runningSum([1, 2, 3, 4]), [1, 3, 6, 10])
 
+    def test_1672(self):
+        mod = load_solution("01_Arrays/1672_Richest_Customer_Wealth.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maximumWealth([[1, 2, 3], [3, 2, 1]]), 6)
 
 
 if __name__ == "__main__":
