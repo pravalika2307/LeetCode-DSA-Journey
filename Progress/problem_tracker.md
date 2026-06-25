@@ -60,3 +60,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 628 | Maximum Product of Three Numbers | Easy | Array Linear Scan (Top/Bottom Tracking) | `O(n)` | `O(1)` | Implemented & Tested | [0628_Maximum_Product_Of_Three_Numbers.py](../01_Arrays/0628_Maximum_Product_Of_Three_Numbers.py) |
 | 645 | Set Mismatch | Easy | In-Place Cyclic Marking | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0645_Set_Mismatch.py](../01_Arrays/0645_Set_Mismatch.py) |
 | 724 | Find Pivot Index | Easy | Prefix Sum | `O(n)` | `O(1)` | Implemented & Tested | [0724_Find_Pivot_Index.py](../01_Arrays/0724_Find_Pivot_Index.py) |
+| 867 | Transpose Matrix | Easy | Matrix Manipulation | `O(m * n)` | `O(m * n)` | Implemented & Tested | [0867_Transpose_Matrix.py](../01_Arrays/0867_Transpose_Matrix.py) |
+| 918 | Maximum Sum Circular Subarray | Medium | Kadane's Algorithm (Circular Variant) | `O(n)` | `O(1)` | Implemented & Tested | [0918_Maximum_Sum_Circular_Subarray.py](../01_Arrays/0918_Maximum_Sum_Circular_Subarray.py) |
+| 977 | Squares of a Sorted Array | Easy | Two Pointers | `O(n)` | `O(n)` | Implemented & Tested | [0977_Squares_Of_A_Sorted_Array.py](../01_Arrays/0977_Squares_Of_A_Sorted_Array.py) |
+| 1013 | Partition Array Into Three Parts With Equal Sum | Easy | Prefix Sum / Greedy | `O(n)` | `O(1)` | Implemented & Tested | [1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py](../01_Arrays/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py) |
