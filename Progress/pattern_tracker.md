@@ -76,3 +76,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | 1 | Two Sum | Arrays & Matrix | Hashing (Hash Map) | Easy | [0001_Two_Sum.py](../01_Arrays/0001_Two_Sum.py) |
 | 36 | Valid Sudoku | Hashing | Hashing (Hash Set) | Medium | [0036_Valid_Sudoku.py](../03_Hashing/0036_Valid_Sudoku.py) |
+| 49 | Group Anagrams | Hashing | Hashing (Character Frequency Key) | Medium | [0049_Group_Anagrams.py](../03_Hashing/0049_Group_Anagrams.py) |
+| 128 | Longest Consecutive Sequence | Hashing | Hashing (Hash Set) | Medium | [0128_Longest_Consecutive_Sequence.py](../03_Hashing/0128_Longest_Consecutive_Sequence.py) |
+| 149 | Max Points on a Line | Hashing | Hashing (Slope Frequency Map) | Hard | [0149_Max_Points_On_A_Line.py](../03_Hashing/0149_Max_Points_On_A_Line.py) |
+| 187 | Repeated DNA Sequences | Hashing | Hashing (Hash Set) | Medium | [0187_Repeated_DNA_Sequences.py](../03_Hashing/0187_Repeated_DNA_Sequences.py) |
