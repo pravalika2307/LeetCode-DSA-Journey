@@ -4,5 +4,12 @@ from tests.helpers import ListNode, from_linked_list, load_solution, to_linked_l
 
 
 class TestHashing(unittest.TestCase):
+    def test_0036(self):
+        mod = load_solution("03_Hashing/0036_Valid_Sudoku.py")
+        sol = mod.Solution()
+        board = [["5","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]]; self.assertTrue(sol.isValidSudoku(board))
+
+
+
 if __name__ == "__main__":
     unittest.main()
