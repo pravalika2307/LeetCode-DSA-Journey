@@ -64,3 +64,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 918 | Maximum Sum Circular Subarray | Medium | Kadane's Algorithm (Circular Variant) | `O(n)` | `O(1)` | Implemented & Tested | [0918_Maximum_Sum_Circular_Subarray.py](../01_Arrays/0918_Maximum_Sum_Circular_Subarray.py) |
 | 977 | Squares of a Sorted Array | Easy | Two Pointers | `O(n)` | `O(n)` | Implemented & Tested | [0977_Squares_Of_A_Sorted_Array.py](../01_Arrays/0977_Squares_Of_A_Sorted_Array.py) |
 | 1013 | Partition Array Into Three Parts With Equal Sum | Easy | Prefix Sum / Greedy | `O(n)` | `O(1)` | Implemented & Tested | [1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py](../01_Arrays/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py) |
+| 1299 | Replace Elements with Greatest Element on Right Side | Easy | Array Reverse Scan | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py](../01_Arrays/1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py) |
+| 1480 | Running Sum of 1d Array | Easy | Prefix Sum | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [1480_Running_Sum_Of_1d_Array.py](../01_Arrays/1480_Running_Sum_Of_1d_Array.py) |
+| 1672 | Richest Customer Wealth | Easy | Matrix Row Sum | `O(m * n)` | `O(1)` | Implemented & Tested | [1672_Richest_Customer_Wealth.py](../01_Arrays/1672_Richest_Customer_Wealth.py) |
+
