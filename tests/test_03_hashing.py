@@ -14,6 +14,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         groups = sol.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]); self.assertEqual(sorted(sorted(g) for g in groups), [["ate", "eat", "tea"], ["bat"], ["nat", "tan"]])
 
+    def test_0128(self):
+        mod = load_solution("03_Hashing/0128_Longest_Consecutive_Sequence.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.longestConsecutive([100, 4, 200, 1, 3, 2]), 4)
+
 
 
 if __name__ == "__main__":
