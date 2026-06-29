@@ -9,6 +9,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         board = [["5","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]]; self.assertTrue(sol.isValidSudoku(board))
 
+    def test_0049(self):
+        mod = load_solution("03_Hashing/0049_Group_Anagrams.py")
+        sol = mod.Solution()
+        groups = sol.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]); self.assertEqual(sorted(sorted(g) for g in groups), [["ate", "eat", "tea"], ["bat"], ["nat", "tan"]])
+
 
 
 if __name__ == "__main__":
