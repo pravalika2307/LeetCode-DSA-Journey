@@ -19,6 +19,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.longestConsecutive([100, 4, 200, 1, 3, 2]), 4)
 
+    def test_0136(self):
+        mod = load_solution("03_Hashing/0136_Single_Number.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.singleNumber([4, 1, 2, 1, 2]), 4)
+
 
 
 if __name__ == "__main__":
