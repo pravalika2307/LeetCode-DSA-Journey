@@ -42,3 +42,5 @@ This document records my Data Structures & Algorithms learning progression from 
 - **Focus Folder:** [`05_Sliding_Window/`](../05_Sliding_Window/)
 - **Problems Covered:** **33** (3 Easy, 23 Medium, 7 Hard)
 - **Key Patterns:** Fixed-size windows, variable shrinkable windows, monotonic deques (`0239`, `1438`), bucketing (`0220`), fixed-bound tracking (`2444`), and `atMost(K) - atMost(K - 1)` counting (`0930`, `0992`, `1248`).
+
+---
