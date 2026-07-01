@@ -80,3 +80,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 128 | Longest Consecutive Sequence | Hashing | Hashing (Hash Set) | Medium | [0128_Longest_Consecutive_Sequence.py](../03_Hashing/0128_Longest_Consecutive_Sequence.py) |
 | 149 | Max Points on a Line | Hashing | Hashing (Slope Frequency Map) | Hard | [0149_Max_Points_On_A_Line.py](../03_Hashing/0149_Max_Points_On_A_Line.py) |
 | 187 | Repeated DNA Sequences | Hashing | Hashing (Hash Set) | Medium | [0187_Repeated_DNA_Sequences.py](../03_Hashing/0187_Repeated_DNA_Sequences.py) |
+| 202 | Happy Number | Hashing | Hashing (Cycle Detection with Hash Set) | Easy | [0202_Happy_Number.py](../03_Hashing/0202_Happy_Number.py) |
+| 205 | Isomorphic Strings | Hashing | Hashing (Bijective Mapping) | Easy | [0205_Isomorphic_Strings.py](../03_Hashing/0205_Isomorphic_Strings.py) |
+| 217 | Contains Duplicate | Arrays & Matrix | Hashing (Hash Set) | Easy | [0217_Contains_Duplicate.py](../01_Arrays/0217_Contains_Duplicate.py) |
+| 219 | Contains Duplicate II | Hashing | Hashing (Last Seen Index) | Easy | [0219_Contains_Duplicate_II.py](../03_Hashing/0219_Contains_Duplicate_II.py) |
