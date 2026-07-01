@@ -24,6 +24,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.singleNumber([4, 1, 2, 1, 2]), 4)
 
+    def test_0149(self):
+        mod = load_solution("03_Hashing/0149_Max_Points_On_A_Line.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxPoints([[1, 1], [2, 2], [3, 3]]), 3)
+
 
 
 if __name__ == "__main__":
