@@ -29,6 +29,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxPoints([[1, 1], [2, 2], [3, 3]]), 3)
 
+    def test_0187(self):
+        mod = load_solution("03_Hashing/0187_Repeated_DNA_Sequences.py")
+        sol = mod.Solution()
+        self.assertEqual(sorted(sol.findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT")), ["AAAAACCCCC", "CCCCCAAAAA"])
+
 
 
 if __name__ == "__main__":
