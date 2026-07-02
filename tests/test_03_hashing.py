@@ -34,6 +34,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sorted(sol.findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT")), ["AAAAACCCCC", "CCCCCAAAAA"])
 
+    def test_0202(self):
+        mod = load_solution("03_Hashing/0202_Happy_Number.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.isHappy(19)); self.assertFalse(sol.isHappy(2))
+
 
 
 if __name__ == "__main__":
