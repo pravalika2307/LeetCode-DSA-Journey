@@ -68,3 +68,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 1480 | Running Sum of 1d Array | Easy | Prefix Sum | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [1480_Running_Sum_Of_1d_Array.py](../01_Arrays/1480_Running_Sum_Of_1d_Array.py) |
 | 1672 | Richest Customer Wealth | Easy | Matrix Row Sum | `O(m * n)` | `O(1)` | Implemented & Tested | [1672_Richest_Customer_Wealth.py](../01_Arrays/1672_Richest_Customer_Wealth.py) |
 
+## Hashing (`03_Hashing/`) — 40 Problems
+*Easy: 22 | Medium: 16 | Hard: 2*
+
+| # | Title | Difficulty | Pattern | Time | Space | Status | Solution |
