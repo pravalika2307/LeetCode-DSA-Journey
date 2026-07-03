@@ -39,6 +39,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.isHappy(19)); self.assertFalse(sol.isHappy(2))
 
+    def test_0205(self):
+        mod = load_solution("03_Hashing/0205_Isomorphic_Strings.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.isIsomorphic("egg", "add")); self.assertFalse(sol.isIsomorphic("foo", "bar"))
+
 
 
 if __name__ == "__main__":
