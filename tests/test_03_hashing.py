@@ -44,6 +44,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.isIsomorphic("egg", "add")); self.assertFalse(sol.isIsomorphic("foo", "bar"))
 
+    def test_0219(self):
+        mod = load_solution("03_Hashing/0219_Contains_Duplicate_II.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.containsNearbyDuplicate([1, 2, 3, 1], 3)); self.assertFalse(sol.containsNearbyDuplicate([1, 2, 3, 1, 2, 3], 2))
+
 
 
 if __name__ == "__main__":
