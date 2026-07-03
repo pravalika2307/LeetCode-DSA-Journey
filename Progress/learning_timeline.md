@@ -44,3 +44,5 @@ This document records my Data Structures & Algorithms learning progression from 
 - **Key Patterns:** Fixed-size windows, variable shrinkable windows, monotonic deques (`0239`, `1438`), bucketing (`0220`), fixed-bound tracking (`2444`), and `atMost(K) - atMost(K - 1)` counting (`0930`, `0992`, `1248`).
 
 ---
+
+### October 2026: Binary Search & Search on Answer
