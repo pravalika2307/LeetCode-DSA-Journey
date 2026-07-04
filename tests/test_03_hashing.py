@@ -49,6 +49,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.containsNearbyDuplicate([1, 2, 3, 1], 3)); self.assertFalse(sol.containsNearbyDuplicate([1, 2, 3, 1, 2, 3], 2))
 
+    def test_0242(self):
+        mod = load_solution("03_Hashing/0242_Valid_Anagram.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.isAnagram("anagram", "nagaram"))
+
 
 
 if __name__ == "__main__":
