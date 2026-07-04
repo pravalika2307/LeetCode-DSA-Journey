@@ -84,3 +84,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 205 | Isomorphic Strings | Hashing | Hashing (Bijective Mapping) | Easy | [0205_Isomorphic_Strings.py](../03_Hashing/0205_Isomorphic_Strings.py) |
 | 217 | Contains Duplicate | Arrays & Matrix | Hashing (Hash Set) | Easy | [0217_Contains_Duplicate.py](../01_Arrays/0217_Contains_Duplicate.py) |
 | 219 | Contains Duplicate II | Hashing | Hashing (Last Seen Index) | Easy | [0219_Contains_Duplicate_II.py](../03_Hashing/0219_Contains_Duplicate_II.py) |
+| 242 | Valid Anagram | Hashing | Hashing (Frequency Counting) | Easy | [0242_Valid_Anagram.py](../03_Hashing/0242_Valid_Anagram.py) |
+| 290 | Word Pattern | Hashing | Hashing (Bijective Mapping) | Easy | [0290_Word_Pattern.py](../03_Hashing/0290_Word_Pattern.py) |
+| 299 | Bulls and Cows | Hashing | Hashing (Frequency Counting) | Medium | [0299_Bulls_And_Cows.py](../03_Hashing/0299_Bulls_And_Cows.py) |
+| 349 | Intersection of Two Arrays | Hashing | Hashing (Hash Set) | Easy | [0349_Intersection_Of_Two_Arrays.py](../03_Hashing/0349_Intersection_Of_Two_Arrays.py) |
