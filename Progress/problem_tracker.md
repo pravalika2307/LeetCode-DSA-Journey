@@ -72,3 +72,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 *Easy: 22 | Medium: 16 | Hard: 2*
 
 | # | Title | Difficulty | Pattern | Time | Space | Status | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| 36 | Valid Sudoku | Medium | Hashing (Hash Set) | `O(1)` | `O(1)` | Implemented & Tested | [0036_Valid_Sudoku.py](../03_Hashing/0036_Valid_Sudoku.py) |
+| 49 | Group Anagrams | Medium | Hashing (Character Frequency Key) | `O(n * k)` | `O(n * k)` | Implemented & Tested | [0049_Group_Anagrams.py](../03_Hashing/0049_Group_Anagrams.py) |
+| 128 | Longest Consecutive Sequence | Medium | Hashing (Hash Set) | `O(n)` | `O(n)` | Implemented & Tested | [0128_Longest_Consecutive_Sequence.py](../03_Hashing/0128_Longest_Consecutive_Sequence.py) |
