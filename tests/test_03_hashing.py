@@ -54,6 +54,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.isAnagram("anagram", "nagaram"))
 
+    def test_0290(self):
+        mod = load_solution("03_Hashing/0290_Word_Pattern.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.wordPattern("abba", "dog cat cat dog"))
+
 
 
 if __name__ == "__main__":
