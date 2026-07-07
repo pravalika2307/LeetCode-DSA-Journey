@@ -59,6 +59,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.wordPattern("abba", "dog cat cat dog"))
 
+    def test_0299(self):
+        mod = load_solution("03_Hashing/0299_Bulls_And_Cows.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.getHint("1807", "7810"), "1A3B")
+
 
 
 if __name__ == "__main__":
