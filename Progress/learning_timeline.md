@@ -46,3 +46,5 @@ This document records my Data Structures & Algorithms learning progression from 
 ---
 
 ### October 2026: Binary Search & Search on Answer
+- **Focus Folder:** [`06_Binary_Search/`](../06_Binary_Search/)
+- **Problems Covered:** **36** (11 Easy, 21 Medium, 4 Hard)
