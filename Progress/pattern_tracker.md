@@ -88,3 +88,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 290 | Word Pattern | Hashing | Hashing (Bijective Mapping) | Easy | [0290_Word_Pattern.py](../03_Hashing/0290_Word_Pattern.py) |
 | 299 | Bulls and Cows | Hashing | Hashing (Frequency Counting) | Medium | [0299_Bulls_And_Cows.py](../03_Hashing/0299_Bulls_And_Cows.py) |
 | 349 | Intersection of Two Arrays | Hashing | Hashing (Hash Set) | Easy | [0349_Intersection_Of_Two_Arrays.py](../03_Hashing/0349_Intersection_Of_Two_Arrays.py) |
+| 350 | Intersection of Two Arrays II | Hashing | Hashing (Frequency Counter) | Easy | [0350_Intersection_Of_Two_Arrays_II.py](../03_Hashing/0350_Intersection_Of_Two_Arrays_II.py) |
+| 383 | Ransom Note | Hashing | Hashing (Frequency Counting) | Easy | [0383_Ransom_Note.py](../03_Hashing/0383_Ransom_Note.py) |
+| 387 | First Unique Character in a String | Hashing | Hashing (Frequency Counting) | Easy | [0387_First_Unique_Character_In_A_String.py](../03_Hashing/0387_First_Unique_Character_In_A_String.py) |
+| 389 | Find the Difference | Hashing | Bit Manipulation (XOR) / Hashing | Easy | [0389_Find_The_Difference.py](../03_Hashing/0389_Find_The_Difference.py) |
