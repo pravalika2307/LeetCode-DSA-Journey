@@ -64,6 +64,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.getHint("1807", "7810"), "1A3B")
 
+    def test_0349(self):
+        mod = load_solution("03_Hashing/0349_Intersection_Of_Two_Arrays.py")
+        sol = mod.Solution()
+        self.assertEqual(sorted(sol.intersection([1, 2, 2, 1], [2, 2])), [2])
+
 
 
 if __name__ == "__main__":
