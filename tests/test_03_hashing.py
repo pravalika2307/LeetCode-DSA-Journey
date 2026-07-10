@@ -79,6 +79,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.canConstruct("aa", "aab"))
 
+    def test_0387(self):
+        mod = load_solution("03_Hashing/0387_First_Unique_Character_In_A_String.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.firstUniqChar("loveleetcode"), 2)
+
 
 
 if __name__ == "__main__":
