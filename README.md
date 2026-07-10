@@ -124,3 +124,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 119 | Pascal's Triangle II | Easy | 1D Rolling Dynamic Programming | `O(rowIndex^2)` | `O(rowIndex)` | [0119_Pascals_Triangle_II.py](01_Arrays/0119_Pascals_Triangle_II.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Greedy / Running Minimum | `O(n)` | `O(1)` | [0121_Best_Time_To_Buy_And_Sell_Stock.py](01_Arrays/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Greedy | `O(n)` | `O(1)` | [0122_Best_Time_To_Buy_And_Sell_Stock_II.py](01_Arrays/0122_Best_Time_To_Buy_And_Sell_Stock_II.py) |
+| 134 | Gas Station | Medium | Greedy | `O(n)` | `O(1)` | [0134_Gas_Station.py](01_Arrays/0134_Gas_Station.py) |
+| 135 | Candy | Hard | Greedy (Two-Pass Left/Right Scan) | `O(n)` | `O(n)` | [0135_Candy.py](01_Arrays/0135_Candy.py) |
+| 152 | Maximum Product Subarray | Medium | Dynamic Programming / Running Min-Max | `O(n)` | `O(1)` | [0152_Maximum_Product_Subarray.py](01_Arrays/0152_Maximum_Product_Subarray.py) |
+| 169 | Majority Element | Easy | Boyer-Moore Voting Algorithm | `O(n)` | `O(1)` | [0169_Majority_Element.py](01_Arrays/0169_Majority_Element.py) |
+| 189 | Rotate Array | Medium | Array Reversal | `O(n)` | `O(1)` | [0189_Rotate_Array.py](01_Arrays/0189_Rotate_Array.py) |
+| 217 | Contains Duplicate | Easy | Hashing (Hash Set) | `O(n)` | `O(n)` | [0217_Contains_Duplicate.py](01_Arrays/0217_Contains_Duplicate.py) |
