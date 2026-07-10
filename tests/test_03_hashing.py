@@ -74,6 +74,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sorted(sol.intersect([1, 2, 2, 1], [2, 2])), [2, 2])
 
+    def test_0383(self):
+        mod = load_solution("03_Hashing/0383_Ransom_Note.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.canConstruct("aa", "aab"))
+
 
 
 if __name__ == "__main__":
