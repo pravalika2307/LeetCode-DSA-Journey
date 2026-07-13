@@ -84,6 +84,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.firstUniqChar("loveleetcode"), 2)
 
+    def test_0389(self):
+        mod = load_solution("03_Hashing/0389_Find_The_Difference.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findTheDifference("abcd", "abcde"), "e")
+
 
 
 if __name__ == "__main__":
