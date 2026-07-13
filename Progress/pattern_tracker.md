@@ -92,3 +92,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 383 | Ransom Note | Hashing | Hashing (Frequency Counting) | Easy | [0383_Ransom_Note.py](../03_Hashing/0383_Ransom_Note.py) |
 | 387 | First Unique Character in a String | Hashing | Hashing (Frequency Counting) | Easy | [0387_First_Unique_Character_In_A_String.py](../03_Hashing/0387_First_Unique_Character_In_A_String.py) |
 | 389 | Find the Difference | Hashing | Bit Manipulation (XOR) / Hashing | Easy | [0389_Find_The_Difference.py](../03_Hashing/0389_Find_The_Difference.py) |
+| 409 | Longest Palindrome | Hashing | Hashing (Frequency Counting) | Easy | [0409_Longest_Palindrome.py](../03_Hashing/0409_Longest_Palindrome.py) |
+| 447 | Number of Boomerangs | Hashing | Hashing (Distance Frequency Map) | Medium | [0447_Number_Of_Boomerangs.py](../03_Hashing/0447_Number_Of_Boomerangs.py) |
+| 451 | Sort Characters By Frequency | Hashing | Hashing + Bucket Sort | Medium | [0451_Sort_Characters_By_Frequency.py](../03_Hashing/0451_Sort_Characters_By_Frequency.py) |
+| 454 | 4Sum II | Hashing | Hashing (Hash Map Pair Sums) | Medium | [0454_4Sum_II.py](../03_Hashing/0454_4Sum_II.py) |
