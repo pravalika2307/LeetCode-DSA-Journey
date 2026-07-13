@@ -89,6 +89,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findTheDifference("abcd", "abcde"), "e")
 
+    def test_0409(self):
+        mod = load_solution("03_Hashing/0409_Longest_Palindrome.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.longestPalindrome("abccccdd"), 7)
+
 
 
 if __name__ == "__main__":
