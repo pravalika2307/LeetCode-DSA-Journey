@@ -94,6 +94,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.longestPalindrome("abccccdd"), 7)
 
+    def test_0447(self):
+        mod = load_solution("03_Hashing/0447_Number_Of_Boomerangs.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numberOfBoomerangs([[0, 0], [1, 0], [2, 0]]), 2)
+
 
 
 if __name__ == "__main__":
