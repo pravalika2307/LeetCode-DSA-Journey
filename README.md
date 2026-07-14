@@ -130,3 +130,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 169 | Majority Element | Easy | Boyer-Moore Voting Algorithm | `O(n)` | `O(1)` | [0169_Majority_Element.py](01_Arrays/0169_Majority_Element.py) |
 | 189 | Rotate Array | Medium | Array Reversal | `O(n)` | `O(1)` | [0189_Rotate_Array.py](01_Arrays/0189_Rotate_Array.py) |
 | 217 | Contains Duplicate | Easy | Hashing (Hash Set) | `O(n)` | `O(n)` | [0217_Contains_Duplicate.py](01_Arrays/0217_Contains_Duplicate.py) |
+| 228 | Summary Ranges | Easy | Array Linear Scan | `O(n)` | `O(1) auxiliary` | [0228_Summary_Ranges.py](01_Arrays/0228_Summary_Ranges.py) |
+| 229 | Majority Element II | Medium | Boyer-Moore Voting Algorithm | `O(n)` | `O(1)` | [0229_Majority_Element_II.py](01_Arrays/0229_Majority_Element_II.py) |
+| 238 | Product of Array Except Self | Medium | Prefix and Suffix Products | `O(n)` | `O(1) auxiliary` | [0238_Product_Of_Array_Except_Self.py](01_Arrays/0238_Product_Of_Array_Except_Self.py) |
+| 240 | Search a 2D Matrix II | Medium | Matrix Staircase Search | `O(m + n)` | `O(1)` | [0240_Search_A_2D_Matrix_II.py](01_Arrays/0240_Search_A_2D_Matrix_II.py) |
+| 268 | Missing Number | Easy | Bit Manipulation (XOR) | `O(n)` | `O(1)` | [0268_Missing_Number.py](01_Arrays/0268_Missing_Number.py) |
+| 274 | H-Index | Medium | Counting / Bucket Sort | `O(n)` | `O(n)` | [0274_H_Index.py](01_Arrays/0274_H_Index.py) |
