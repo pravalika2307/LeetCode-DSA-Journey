@@ -80,3 +80,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 149 | Max Points on a Line | Hard | Hashing (Slope Frequency Map) | `O(n^2)` | `O(n)` | Implemented & Tested | [0149_Max_Points_On_A_Line.py](../03_Hashing/0149_Max_Points_On_A_Line.py) |
 | 187 | Repeated DNA Sequences | Medium | Hashing (Hash Set) | `O(n)` | `O(n)` | Implemented & Tested | [0187_Repeated_DNA_Sequences.py](../03_Hashing/0187_Repeated_DNA_Sequences.py) |
 | 202 | Happy Number | Easy | Hashing (Cycle Detection with Hash Set) | `O(log n)` | `O(log n)` | Implemented & Tested | [0202_Happy_Number.py](../03_Hashing/0202_Happy_Number.py) |
+| 205 | Isomorphic Strings | Easy | Hashing (Bijective Mapping) | `O(n)` | `O(1)` | Implemented & Tested | [0205_Isomorphic_Strings.py](../03_Hashing/0205_Isomorphic_Strings.py) |
+| 219 | Contains Duplicate II | Easy | Hashing (Last Seen Index) | `O(n)` | `O(n)` | Implemented & Tested | [0219_Contains_Duplicate_II.py](../03_Hashing/0219_Contains_Duplicate_II.py) |
+| 242 | Valid Anagram | Easy | Hashing (Frequency Counting) | `O(n)` | `O(1)` | Implemented & Tested | [0242_Valid_Anagram.py](../03_Hashing/0242_Valid_Anagram.py) |
+| 290 | Word Pattern | Easy | Hashing (Bijective Mapping) | `O(n + m)` | `O(n + m)` | Implemented & Tested | [0290_Word_Pattern.py](../03_Hashing/0290_Word_Pattern.py) |
