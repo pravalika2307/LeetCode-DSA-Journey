@@ -99,6 +99,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numberOfBoomerangs([[0, 0], [1, 0], [2, 0]]), 2)
 
+    def test_0451(self):
+        mod = load_solution("03_Hashing/0451_Sort_Characters_By_Frequency.py")
+        sol = mod.Solution()
+        self.assertIn(sol.frequencySort("tree"), ("eert", "eetr"))
+
 
 
 if __name__ == "__main__":
