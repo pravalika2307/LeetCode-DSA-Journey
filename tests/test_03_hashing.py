@@ -104,6 +104,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertIn(sol.frequencySort("tree"), ("eert", "eetr"))
 
+    def test_0454(self):
+        mod = load_solution("03_Hashing/0454_4Sum_II.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.fourSumCount([1, 2], [-2, -1], [-1, 2], [0, 2]), 2)
+
 
 
 if __name__ == "__main__":
