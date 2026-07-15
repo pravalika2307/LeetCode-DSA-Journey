@@ -50,3 +50,5 @@ This document records my Data Structures & Algorithms learning progression from 
 - **Problems Covered:** **36** (11 Easy, 21 Medium, 4 Hard)
 - **Key Patterns:** Lower/upper bounds, rotated arrays, 1D/2D peak finding (`0162`, `1901`), median partitioning (`0004`), and parametric binary search on answer (`0410`, `0668`, `0875`, `1011`, `1482`, `1552`, `1760`, `1898`, `2064`, `2187`).
 
+---
+
