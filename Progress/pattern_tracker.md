@@ -96,3 +96,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 447 | Number of Boomerangs | Hashing | Hashing (Distance Frequency Map) | Medium | [0447_Number_Of_Boomerangs.py](../03_Hashing/0447_Number_Of_Boomerangs.py) |
 | 451 | Sort Characters By Frequency | Hashing | Hashing + Bucket Sort | Medium | [0451_Sort_Characters_By_Frequency.py](../03_Hashing/0451_Sort_Characters_By_Frequency.py) |
 | 454 | 4Sum II | Hashing | Hashing (Hash Map Pair Sums) | Medium | [0454_4Sum_II.py](../03_Hashing/0454_4Sum_II.py) |
+| 500 | Keyboard Row | Hashing | Hashing (Hash Set) | Easy | [0500_Keyboard_Row.py](../03_Hashing/0500_Keyboard_Row.py) |
+| 523 | Continuous Subarray Sum | Hashing | Prefix Sum + Hash Map | Medium | [0523_Continuous_Subarray_Sum.py](../03_Hashing/0523_Continuous_Subarray_Sum.py) |
+| 525 | Contiguous Array | Hashing | Prefix Sum + Hash Map | Medium | [0525_Contiguous_Array.py](../03_Hashing/0525_Contiguous_Array.py) |
+| 532 | K-diff Pairs in an Array | Hashing | Hashing (Frequency Counter) | Medium | [0532_K_Diff_Pairs_In_An_Array.py](../03_Hashing/0532_K_Diff_Pairs_In_An_Array.py) |
