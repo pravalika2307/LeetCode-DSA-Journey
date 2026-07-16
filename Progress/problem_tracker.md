@@ -84,3 +84,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 219 | Contains Duplicate II | Easy | Hashing (Last Seen Index) | `O(n)` | `O(n)` | Implemented & Tested | [0219_Contains_Duplicate_II.py](../03_Hashing/0219_Contains_Duplicate_II.py) |
 | 242 | Valid Anagram | Easy | Hashing (Frequency Counting) | `O(n)` | `O(1)` | Implemented & Tested | [0242_Valid_Anagram.py](../03_Hashing/0242_Valid_Anagram.py) |
 | 290 | Word Pattern | Easy | Hashing (Bijective Mapping) | `O(n + m)` | `O(n + m)` | Implemented & Tested | [0290_Word_Pattern.py](../03_Hashing/0290_Word_Pattern.py) |
+| 299 | Bulls and Cows | Medium | Hashing (Frequency Counting) | `O(n)` | `O(1)` | Implemented & Tested | [0299_Bulls_And_Cows.py](../03_Hashing/0299_Bulls_And_Cows.py) |
+| 349 | Intersection of Two Arrays | Easy | Hashing (Hash Set) | `O(n + m)` | `O(min(n, m))` | Implemented & Tested | [0349_Intersection_Of_Two_Arrays.py](../03_Hashing/0349_Intersection_Of_Two_Arrays.py) |
+| 350 | Intersection of Two Arrays II | Easy | Hashing (Frequency Counter) | `O(n + m)` | `O(min(n, m))` | Implemented & Tested | [0350_Intersection_Of_Two_Arrays_II.py](../03_Hashing/0350_Intersection_Of_Two_Arrays_II.py) |
+| 383 | Ransom Note | Easy | Hashing (Frequency Counting) | `O(n + m)` | `O(1)` | Implemented & Tested | [0383_Ransom_Note.py](../03_Hashing/0383_Ransom_Note.py) |
