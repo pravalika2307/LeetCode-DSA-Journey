@@ -114,6 +114,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findWords(["Hello", "Alaska", "Dad", "Peace"]), ["Alaska", "Dad"])
 
+    def test_0523(self):
+        mod = load_solution("03_Hashing/0523_Continuous_Subarray_Sum.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.checkSubarraySum([23, 2, 4, 6, 7], 6))
+
 
 
 if __name__ == "__main__":
