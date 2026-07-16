@@ -109,6 +109,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.fourSumCount([1, 2], [-2, -1], [-1, 2], [0, 2]), 2)
 
+    def test_0500(self):
+        mod = load_solution("03_Hashing/0500_Keyboard_Row.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findWords(["Hello", "Alaska", "Dad", "Peace"]), ["Alaska", "Dad"])
+
 
 
 if __name__ == "__main__":
