@@ -119,6 +119,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.checkSubarraySum([23, 2, 4, 6, 7], 6))
 
+    def test_0525(self):
+        mod = load_solution("03_Hashing/0525_Contiguous_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findMaxLength([0, 1, 0]), 2)
+
 
 
 if __name__ == "__main__":
