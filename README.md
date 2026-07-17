@@ -136,3 +136,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 240 | Search a 2D Matrix II | Medium | Matrix Staircase Search | `O(m + n)` | `O(1)` | [0240_Search_A_2D_Matrix_II.py](01_Arrays/0240_Search_A_2D_Matrix_II.py) |
 | 268 | Missing Number | Easy | Bit Manipulation (XOR) | `O(n)` | `O(1)` | [0268_Missing_Number.py](01_Arrays/0268_Missing_Number.py) |
 | 274 | H-Index | Medium | Counting / Bucket Sort | `O(n)` | `O(n)` | [0274_H_Index.py](01_Arrays/0274_H_Index.py) |
+| 283 | Move Zeroes | Easy | Two Pointers (In-Place) | `O(n)` | `O(1)` | [0283_Move_Zeroes.py](01_Arrays/0283_Move_Zeroes.py) |
+| 289 | Game of Life | Medium | Matrix In-Place State Encoding | `O(m * n)` | `O(1)` | [0289_Game_Of_Life.py](01_Arrays/0289_Game_Of_Life.py) |
+| 315 | Count of Smaller Numbers After Self | Hard | Merge Sort / Divide and Conquer | `O(n log n)` | `O(n)` | [0315_Count_Of_Smaller_Numbers_After_Self.py](01_Arrays/0315_Count_Of_Smaller_Numbers_After_Self.py) |
+| 330 | Patching Array | Hard | Greedy (Reachable Range) | `O(m + log n)` | `O(1)` | [0330_Patching_Array.py](01_Arrays/0330_Patching_Array.py) |
+| 414 | Third Maximum Number | Easy | Array Linear Scan | `O(n)` | `O(1)` | [0414_Third_Maximum_Number.py](01_Arrays/0414_Third_Maximum_Number.py) |
+| 442 | Find All Duplicates in an Array | Medium | In-Place Cyclic Marking | `O(n)` | `O(1) auxiliary` | [0442_Find_All_Duplicates_In_An_Array.py](01_Arrays/0442_Find_All_Duplicates_In_An_Array.py) |
