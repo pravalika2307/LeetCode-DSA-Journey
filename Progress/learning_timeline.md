@@ -52,3 +52,5 @@ This document records my Data Structures & Algorithms learning progression from 
 
 ---
 
+### November 2026: Linked Lists & Portfolio Finalization
+- **Focus Folder:** [`07_Linked_List/`](../07_Linked_List/)
