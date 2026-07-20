@@ -124,6 +124,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findMaxLength([0, 1, 0]), 2)
 
+    def test_0532(self):
+        mod = load_solution("03_Hashing/0532_K_Diff_Pairs_In_An_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findPairs([3, 1, 4, 1, 5], 2), 2)
+
 
 
 if __name__ == "__main__":
