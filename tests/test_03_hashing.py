@@ -129,6 +129,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findPairs([3, 1, 4, 1, 5], 2), 2)
 
+    def test_0554(self):
+        mod = load_solution("03_Hashing/0554_Brick_Wall.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.leastBricks([[1, 2, 2, 1], [3, 1, 2], [1, 3, 2], [2, 4], [3, 1, 2], [1, 3, 1, 1]]), 2)
+
 
 
 if __name__ == "__main__":
