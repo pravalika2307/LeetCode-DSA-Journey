@@ -100,3 +100,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 523 | Continuous Subarray Sum | Hashing | Prefix Sum + Hash Map | Medium | [0523_Continuous_Subarray_Sum.py](../03_Hashing/0523_Continuous_Subarray_Sum.py) |
 | 525 | Contiguous Array | Hashing | Prefix Sum + Hash Map | Medium | [0525_Contiguous_Array.py](../03_Hashing/0525_Contiguous_Array.py) |
 | 532 | K-diff Pairs in an Array | Hashing | Hashing (Frequency Counter) | Medium | [0532_K_Diff_Pairs_In_An_Array.py](../03_Hashing/0532_K_Diff_Pairs_In_An_Array.py) |
+| 554 | Brick Wall | Hashing | Hashing (Edge Frequency Map) | Medium | [0554_Brick_Wall.py](../03_Hashing/0554_Brick_Wall.py) |
+| 560 | Subarray Sum Equals K | Hashing | Prefix Sum + Hash Map | Medium | [0560_Subarray_Sum_Equals_K.py](../03_Hashing/0560_Subarray_Sum_Equals_K.py) |
+| 594 | Longest Harmonious Subsequence | Hashing | Hashing (Frequency Counter) | Easy | [0594_Longest_Harmonious_Subsequence.py](../03_Hashing/0594_Longest_Harmonious_Subsequence.py) |
+| 599 | Minimum Index Sum of Two Lists | Hashing | Hashing (Index Map) | Easy | [0599_Minimum_Index_Sum_Of_Two_Lists.py](../03_Hashing/0599_Minimum_Index_Sum_Of_Two_Lists.py) |
