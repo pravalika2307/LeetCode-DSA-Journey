@@ -88,3 +88,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 349 | Intersection of Two Arrays | Easy | Hashing (Hash Set) | `O(n + m)` | `O(min(n, m))` | Implemented & Tested | [0349_Intersection_Of_Two_Arrays.py](../03_Hashing/0349_Intersection_Of_Two_Arrays.py) |
 | 350 | Intersection of Two Arrays II | Easy | Hashing (Frequency Counter) | `O(n + m)` | `O(min(n, m))` | Implemented & Tested | [0350_Intersection_Of_Two_Arrays_II.py](../03_Hashing/0350_Intersection_Of_Two_Arrays_II.py) |
 | 383 | Ransom Note | Easy | Hashing (Frequency Counting) | `O(n + m)` | `O(1)` | Implemented & Tested | [0383_Ransom_Note.py](../03_Hashing/0383_Ransom_Note.py) |
+| 387 | First Unique Character in a String | Easy | Hashing (Frequency Counting) | `O(n)` | `O(1)` | Implemented & Tested | [0387_First_Unique_Character_In_A_String.py](../03_Hashing/0387_First_Unique_Character_In_A_String.py) |
+| 389 | Find the Difference | Easy | Bit Manipulation (XOR) / Hashing | `O(n)` | `O(1)` | Implemented & Tested | [0389_Find_The_Difference.py](../03_Hashing/0389_Find_The_Difference.py) |
+| 409 | Longest Palindrome | Easy | Hashing (Frequency Counting) | `O(n)` | `O(1)` | Implemented & Tested | [0409_Longest_Palindrome.py](../03_Hashing/0409_Longest_Palindrome.py) |
+| 447 | Number of Boomerangs | Medium | Hashing (Distance Frequency Map) | `O(n^2)` | `O(n)` | Implemented & Tested | [0447_Number_Of_Boomerangs.py](../03_Hashing/0447_Number_Of_Boomerangs.py) |
