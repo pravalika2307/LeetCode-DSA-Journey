@@ -139,6 +139,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.subarraySum([1, 1, 1], 2), 2)
 
+    def test_0594(self):
+        mod = load_solution("03_Hashing/0594_Longest_Harmonious_Subsequence.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findLHS([1, 3, 2, 2, 5, 2, 3, 7]), 5)
+
 
 
 if __name__ == "__main__":
