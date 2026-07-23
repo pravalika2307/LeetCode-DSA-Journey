@@ -144,6 +144,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findLHS([1, 3, 2, 2, 5, 2, 3, 7]), 5)
 
+    def test_0599(self):
+        mod = load_solution("03_Hashing/0599_Minimum_Index_Sum_Of_Two_Lists.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findRestaurant(["Shogun", "Tapioca Express", "Burger King", "KFC"], ["KFC", "Shogun", "Burger King"]), ["Shogun"])
+
 
 
 if __name__ == "__main__":
