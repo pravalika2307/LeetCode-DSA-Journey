@@ -149,6 +149,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findRestaurant(["Shogun", "Tapioca Express", "Burger King", "KFC"], ["KFC", "Shogun", "Burger King"]), ["Shogun"])
 
+    def test_0692(self):
+        mod = load_solution("03_Hashing/0692_Top_K_Frequent_Words.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.topKFrequent(["i", "love", "leetcode", "i", "love", "coding"], 2), ["i", "love"])
+
 
 
 if __name__ == "__main__":
