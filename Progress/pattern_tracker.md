@@ -104,3 +104,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 560 | Subarray Sum Equals K | Hashing | Prefix Sum + Hash Map | Medium | [0560_Subarray_Sum_Equals_K.py](../03_Hashing/0560_Subarray_Sum_Equals_K.py) |
 | 594 | Longest Harmonious Subsequence | Hashing | Hashing (Frequency Counter) | Easy | [0594_Longest_Harmonious_Subsequence.py](../03_Hashing/0594_Longest_Harmonious_Subsequence.py) |
 | 599 | Minimum Index Sum of Two Lists | Hashing | Hashing (Index Map) | Easy | [0599_Minimum_Index_Sum_Of_Two_Lists.py](../03_Hashing/0599_Minimum_Index_Sum_Of_Two_Lists.py) |
+| 692 | Top K Frequent Words | Hashing | Hashing + Sorting | Medium | [0692_Top_K_Frequent_Words.py](../03_Hashing/0692_Top_K_Frequent_Words.py) |
+| 771 | Jewels and Stones | Hashing | Hashing (Hash Set) | Easy | [0771_Jewels_And_Stones.py](../03_Hashing/0771_Jewels_And_Stones.py) |
+| 791 | Custom Sort String | Hashing | Hashing (Frequency Counting) | Medium | [0791_Custom_Sort_String.py](../03_Hashing/0791_Custom_Sort_String.py) |
+| 819 | Most Common Word | Hashing | Hashing (Frequency Counter + Hash Set) | Easy | [0819_Most_Common_Word.py](../03_Hashing/0819_Most_Common_Word.py) |
