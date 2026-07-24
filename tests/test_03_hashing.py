@@ -154,6 +154,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.topKFrequent(["i", "love", "leetcode", "i", "love", "coding"], 2), ["i", "love"])
 
+    def test_0771(self):
+        mod = load_solution("03_Hashing/0771_Jewels_And_Stones.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numJewelsInStones("aA", "aAAbbbb"), 3)
+
 
 
 if __name__ == "__main__":
