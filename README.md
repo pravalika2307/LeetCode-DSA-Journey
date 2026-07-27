@@ -148,3 +148,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 498 | Diagonal Traverse | Medium | Matrix Diagonal Simulation | `O(m * n)` | `O(1) auxiliary` | [0498_Diagonal_Traverse.py](01_Arrays/0498_Diagonal_Traverse.py) |
 | 561 | Array Partition | Easy | Greedy + Sorting | `O(n log n)` | `O(1) auxiliary` | [0561_Array_Partition.py](01_Arrays/0561_Array_Partition.py) |
 | 566 | Reshape the Matrix | Easy | Matrix Index Mapping | `O(m * n)` | `O(r * c)` | [0566_Reshape_The_Matrix.py](01_Arrays/0566_Reshape_The_Matrix.py) |
+| 605 | Can Place Flowers | Easy | Greedy Array Scan | `O(m)` | `O(1)` | [0605_Can_Place_Flowers.py](01_Arrays/0605_Can_Place_Flowers.py) |
+| 628 | Maximum Product of Three Numbers | Easy | Array Linear Scan (Top/Bottom Tracking) | `O(n)` | `O(1)` | [0628_Maximum_Product_Of_Three_Numbers.py](01_Arrays/0628_Maximum_Product_Of_Three_Numbers.py) |
+| 645 | Set Mismatch | Easy | In-Place Cyclic Marking | `O(n)` | `O(1) auxiliary` | [0645_Set_Mismatch.py](01_Arrays/0645_Set_Mismatch.py) |
+| 724 | Find Pivot Index | Easy | Prefix Sum | `O(n)` | `O(1)` | [0724_Find_Pivot_Index.py](01_Arrays/0724_Find_Pivot_Index.py) |
+| 867 | Transpose Matrix | Easy | Matrix Manipulation | `O(m * n)` | `O(m * n)` | [0867_Transpose_Matrix.py](01_Arrays/0867_Transpose_Matrix.py) |
+| 918 | Maximum Sum Circular Subarray | Medium | Kadane's Algorithm (Circular Variant) | `O(n)` | `O(1)` | [0918_Maximum_Sum_Circular_Subarray.py](01_Arrays/0918_Maximum_Sum_Circular_Subarray.py) |
