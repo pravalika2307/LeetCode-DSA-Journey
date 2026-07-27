@@ -159,6 +159,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numJewelsInStones("aA", "aAAbbbb"), 3)
 
+    def test_0791(self):
+        mod = load_solution("03_Hashing/0791_Custom_Sort_String.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.customSortString("cba", "abcd")[:3], "cba")
+
 
 
 if __name__ == "__main__":
