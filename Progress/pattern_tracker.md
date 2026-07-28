@@ -108,3 +108,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 771 | Jewels and Stones | Hashing | Hashing (Hash Set) | Easy | [0771_Jewels_And_Stones.py](../03_Hashing/0771_Jewels_And_Stones.py) |
 | 791 | Custom Sort String | Hashing | Hashing (Frequency Counting) | Medium | [0791_Custom_Sort_String.py](../03_Hashing/0791_Custom_Sort_String.py) |
 | 819 | Most Common Word | Hashing | Hashing (Frequency Counter + Hash Set) | Easy | [0819_Most_Common_Word.py](../03_Hashing/0819_Most_Common_Word.py) |
+| 884 | Uncommon Words from Two Sentences | Hashing | Hashing (Frequency Counting) | Easy | [0884_Uncommon_Words_From_Two_Sentences.py](../03_Hashing/0884_Uncommon_Words_From_Two_Sentences.py) |
+| 974 | Subarray Sums Divisible by K | Hashing | Prefix Sum + Hash Map | Medium | [0974_Subarray_Sums_Divisible_By_K.py](../03_Hashing/0974_Subarray_Sums_Divisible_By_K.py) |
+| 1002 | Find Common Characters | Hashing | Hashing (Frequency Intersection) | Easy | [1002_Find_Common_Characters.py](../03_Hashing/1002_Find_Common_Characters.py) |
+| 1074 | Number of Submatrices That Sum to Target | Hashing | Prefix Sum + Hash Map (2D Reduction) | Hard | [1074_Number_Of_Submatrices_That_Sum_To_Target.py](../03_Hashing/1074_Number_Of_Submatrices_That_Sum_To_Target.py) |
