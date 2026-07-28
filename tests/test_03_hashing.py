@@ -169,6 +169,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.mostCommonWord("Bob hit a ball, the hit BALL flew far after it was hit.", ["hit"]), "ball")
 
+    def test_0884(self):
+        mod = load_solution("03_Hashing/0884_Uncommon_Words_From_Two_Sentences.py")
+        sol = mod.Solution()
+        self.assertEqual(sorted(sol.uncommonFromSentences("this apple is sweet", "this apple is sour")), ["sour", "sweet"])
+
 
 
 if __name__ == "__main__":
