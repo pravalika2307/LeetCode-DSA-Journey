@@ -164,6 +164,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.customSortString("cba", "abcd")[:3], "cba")
 
+    def test_0819(self):
+        mod = load_solution("03_Hashing/0819_Most_Common_Word.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.mostCommonWord("Bob hit a ball, the hit BALL flew far after it was hit.", ["hit"]), "ball")
+
 
 
 if __name__ == "__main__":
