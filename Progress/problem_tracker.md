@@ -96,3 +96,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 454 | 4Sum II | Medium | Hashing (Hash Map Pair Sums) | `O(n^2)` | `O(n^2)` | Implemented & Tested | [0454_4Sum_II.py](../03_Hashing/0454_4Sum_II.py) |
 | 500 | Keyboard Row | Easy | Hashing (Hash Set) | `O(total chars)` | `O(1)` | Implemented & Tested | [0500_Keyboard_Row.py](../03_Hashing/0500_Keyboard_Row.py) |
 | 523 | Continuous Subarray Sum | Medium | Prefix Sum + Hash Map | `O(n)` | `O(min(n, k))` | Implemented & Tested | [0523_Continuous_Subarray_Sum.py](../03_Hashing/0523_Continuous_Subarray_Sum.py) |
+| 525 | Contiguous Array | Medium | Prefix Sum + Hash Map | `O(n)` | `O(n)` | Implemented & Tested | [0525_Contiguous_Array.py](../03_Hashing/0525_Contiguous_Array.py) |
+| 532 | K-diff Pairs in an Array | Medium | Hashing (Frequency Counter) | `O(n)` | `O(n)` | Implemented & Tested | [0532_K_Diff_Pairs_In_An_Array.py](../03_Hashing/0532_K_Diff_Pairs_In_An_Array.py) |
+| 554 | Brick Wall | Medium | Hashing (Edge Frequency Map) | `O(total bricks)` | `O(width)` | Implemented & Tested | [0554_Brick_Wall.py](../03_Hashing/0554_Brick_Wall.py) |
+| 560 | Subarray Sum Equals K | Medium | Prefix Sum + Hash Map | `O(n)` | `O(n)` | Implemented & Tested | [0560_Subarray_Sum_Equals_K.py](../03_Hashing/0560_Subarray_Sum_Equals_K.py) |
