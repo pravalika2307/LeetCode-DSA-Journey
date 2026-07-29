@@ -174,6 +174,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sorted(sol.uncommonFromSentences("this apple is sweet", "this apple is sour")), ["sour", "sweet"])
 
+    def test_0974(self):
+        mod = load_solution("03_Hashing/0974_Subarray_Sums_Divisible_By_K.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.subarraysDivByK([4, 5, 0, -2, -3, 1], 5), 7)
+
 
 
 if __name__ == "__main__":
