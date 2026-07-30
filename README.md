@@ -154,3 +154,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 724 | Find Pivot Index | Easy | Prefix Sum | `O(n)` | `O(1)` | [0724_Find_Pivot_Index.py](01_Arrays/0724_Find_Pivot_Index.py) |
 | 867 | Transpose Matrix | Easy | Matrix Manipulation | `O(m * n)` | `O(m * n)` | [0867_Transpose_Matrix.py](01_Arrays/0867_Transpose_Matrix.py) |
 | 918 | Maximum Sum Circular Subarray | Medium | Kadane's Algorithm (Circular Variant) | `O(n)` | `O(1)` | [0918_Maximum_Sum_Circular_Subarray.py](01_Arrays/0918_Maximum_Sum_Circular_Subarray.py) |
+| 977 | Squares of a Sorted Array | Easy | Two Pointers | `O(n)` | `O(n)` | [0977_Squares_Of_A_Sorted_Array.py](01_Arrays/0977_Squares_Of_A_Sorted_Array.py) |
+| 1013 | Partition Array Into Three Parts With Equal Sum | Easy | Prefix Sum / Greedy | `O(n)` | `O(1)` | [1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py](01_Arrays/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py) |
+| 1299 | Replace Elements with Greatest Element on Right Side | Easy | Array Reverse Scan | `O(n)` | `O(1) auxiliary` | [1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py](01_Arrays/1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py) |
+| 1480 | Running Sum of 1d Array | Easy | Prefix Sum | `O(n)` | `O(1) auxiliary` | [1480_Running_Sum_Of_1d_Array.py](01_Arrays/1480_Running_Sum_Of_1d_Array.py) |
+| 1672 | Richest Customer Wealth | Easy | Matrix Row Sum | `O(m * n)` | `O(1)` | [1672_Richest_Customer_Wealth.py](01_Arrays/1672_Richest_Customer_Wealth.py) |
+
