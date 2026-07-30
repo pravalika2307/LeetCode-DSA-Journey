@@ -58,3 +58,5 @@ This document records my Data Structures & Algorithms learning progression from 
 - **Key Patterns:** Dummy-head construction, merging & k-way merge (`0021`, `0023`), fast/slow pointers & cycle detection (`0141`, `0142`, `0160`, `0876`), and in-place pointer reversal (`0024`, `0025`, `0092`, `0206`).
 
 ---
+
+## Upcoming Topics
