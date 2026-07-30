@@ -179,6 +179,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.subarraysDivByK([4, 5, 0, -2, -3, 1], 5), 7)
 
+    def test_1002(self):
+        mod = load_solution("03_Hashing/1002_Find_Common_Characters.py")
+        sol = mod.Solution()
+        self.assertEqual(sorted(sol.commonChars(["bella", "label", "roller"])), ["e", "l", "l"])
+
 
 
 if __name__ == "__main__":
