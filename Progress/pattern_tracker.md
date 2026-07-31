@@ -112,3 +112,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 974 | Subarray Sums Divisible by K | Hashing | Prefix Sum + Hash Map | Medium | [0974_Subarray_Sums_Divisible_By_K.py](../03_Hashing/0974_Subarray_Sums_Divisible_By_K.py) |
 | 1002 | Find Common Characters | Hashing | Hashing (Frequency Intersection) | Easy | [1002_Find_Common_Characters.py](../03_Hashing/1002_Find_Common_Characters.py) |
 | 1074 | Number of Submatrices That Sum to Target | Hashing | Prefix Sum + Hash Map (2D Reduction) | Hard | [1074_Number_Of_Submatrices_That_Sum_To_Target.py](../03_Hashing/1074_Number_Of_Submatrices_That_Sum_To_Target.py) |
+| 1160 | Find Words That Can Be Formed by Characters | Hashing | Hashing (Frequency Counting) | Easy | [1160_Find_Words_That_Can_Be_Formed_By_Characters.py](../03_Hashing/1160_Find_Words_That_Can_Be_Formed_By_Characters.py) |
+| 1207 | Unique Number of Occurrences | Hashing | Hashing (Hash Map + Hash Set) | Easy | [1207_Unique_Number_Of_Occurrences.py](../03_Hashing/1207_Unique_Number_Of_Occurrences.py) |
+| 1394 | Find Lucky Integer in an Array | Hashing | Hashing (Frequency Counter) | Easy | [1394_Find_Lucky_Integer_In_An_Array.py](../03_Hashing/1394_Find_Lucky_Integer_In_An_Array.py) |
+
