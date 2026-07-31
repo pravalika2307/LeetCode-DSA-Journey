@@ -100,3 +100,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 532 | K-diff Pairs in an Array | Medium | Hashing (Frequency Counter) | `O(n)` | `O(n)` | Implemented & Tested | [0532_K_Diff_Pairs_In_An_Array.py](../03_Hashing/0532_K_Diff_Pairs_In_An_Array.py) |
 | 554 | Brick Wall | Medium | Hashing (Edge Frequency Map) | `O(total bricks)` | `O(width)` | Implemented & Tested | [0554_Brick_Wall.py](../03_Hashing/0554_Brick_Wall.py) |
 | 560 | Subarray Sum Equals K | Medium | Prefix Sum + Hash Map | `O(n)` | `O(n)` | Implemented & Tested | [0560_Subarray_Sum_Equals_K.py](../03_Hashing/0560_Subarray_Sum_Equals_K.py) |
+| 594 | Longest Harmonious Subsequence | Easy | Hashing (Frequency Counter) | `O(n)` | `O(n)` | Implemented & Tested | [0594_Longest_Harmonious_Subsequence.py](../03_Hashing/0594_Longest_Harmonious_Subsequence.py) |
+| 599 | Minimum Index Sum of Two Lists | Easy | Hashing (Index Map) | `O(n + m)` | `O(n)` | Implemented & Tested | [0599_Minimum_Index_Sum_Of_Two_Lists.py](../03_Hashing/0599_Minimum_Index_Sum_Of_Two_Lists.py) |
+| 692 | Top K Frequent Words | Medium | Hashing + Sorting | `O(n log n)` | `O(n)` | Implemented & Tested | [0692_Top_K_Frequent_Words.py](../03_Hashing/0692_Top_K_Frequent_Words.py) |
+| 771 | Jewels and Stones | Easy | Hashing (Hash Set) | `O(J + S)` | `O(J)` | Implemented & Tested | [0771_Jewels_And_Stones.py](../03_Hashing/0771_Jewels_And_Stones.py) |
