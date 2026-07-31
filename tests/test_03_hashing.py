@@ -184,6 +184,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sorted(sol.commonChars(["bella", "label", "roller"])), ["e", "l", "l"])
 
+    def test_1074(self):
+        mod = load_solution("03_Hashing/1074_Number_Of_Submatrices_That_Sum_To_Target.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numSubmatrixSumTarget([[0, 1, 0], [1, 1, 1], [0, 1, 0]], 0), 4)
+
 
 
 if __name__ == "__main__":
