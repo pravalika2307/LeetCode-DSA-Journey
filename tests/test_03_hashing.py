@@ -189,6 +189,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numSubmatrixSumTarget([[0, 1, 0], [1, 1, 1], [0, 1, 0]], 0), 4)
 
+    def test_1160(self):
+        mod = load_solution("03_Hashing/1160_Find_Words_That_Can_Be_Formed_By_Characters.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.countCharacters(["cat", "bt", "hat", "tree"], "atach"), 6)
+
 
 
 if __name__ == "__main__":
