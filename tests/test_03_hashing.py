@@ -194,6 +194,11 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.countCharacters(["cat", "bt", "hat", "tree"], "atach"), 6)
 
+    def test_1207(self):
+        mod = load_solution("03_Hashing/1207_Unique_Number_Of_Occurrences.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.uniqueOccurrences([1, 2, 2, 1, 1, 3]))
+
 
 
 if __name__ == "__main__":
