@@ -160,3 +160,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 1480 | Running Sum of 1d Array | Easy | Prefix Sum | `O(n)` | `O(1) auxiliary` | [1480_Running_Sum_Of_1d_Array.py](01_Arrays/1480_Running_Sum_Of_1d_Array.py) |
 | 1672 | Richest Customer Wealth | Easy | Matrix Row Sum | `O(m * n)` | `O(1)` | [1672_Richest_Customer_Wealth.py](01_Arrays/1672_Richest_Customer_Wealth.py) |
 
+### Hashing (40)
+
+| # | Problem | Difficulty | Pattern | Time | Space | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- |
+| 36 | Valid Sudoku | Medium | Hashing (Hash Set) | `O(1)` | `O(1)` | [0036_Valid_Sudoku.py](03_Hashing/0036_Valid_Sudoku.py) |
+| 49 | Group Anagrams | Medium | Hashing (Character Frequency Key) | `O(n * k)` | `O(n * k)` | [0049_Group_Anagrams.py](03_Hashing/0049_Group_Anagrams.py) |
