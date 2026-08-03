@@ -199,6 +199,10 @@ class TestHashing(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.uniqueOccurrences([1, 2, 2, 1, 1, 3]))
 
+    def test_1394(self):
+        mod = load_solution("03_Hashing/1394_Find_Lucky_Integer_In_An_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findLucky([2, 2, 3, 4]), 2)
 
 
 if __name__ == "__main__":
