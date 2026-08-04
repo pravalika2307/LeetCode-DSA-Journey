@@ -166,3 +166,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
 | 36 | Valid Sudoku | Medium | Hashing (Hash Set) | `O(1)` | `O(1)` | [0036_Valid_Sudoku.py](03_Hashing/0036_Valid_Sudoku.py) |
 | 49 | Group Anagrams | Medium | Hashing (Character Frequency Key) | `O(n * k)` | `O(n * k)` | [0049_Group_Anagrams.py](03_Hashing/0049_Group_Anagrams.py) |
+| 128 | Longest Consecutive Sequence | Medium | Hashing (Hash Set) | `O(n)` | `O(n)` | [0128_Longest_Consecutive_Sequence.py](03_Hashing/0128_Longest_Consecutive_Sequence.py) |
+| 136 | Single Number | Easy | Bit Manipulation (XOR) | `O(n)` | `O(1)` | [0136_Single_Number.py](03_Hashing/0136_Single_Number.py) |
+| 149 | Max Points on a Line | Hard | Hashing (Slope Frequency Map) | `O(n^2)` | `O(n)` | [0149_Max_Points_On_A_Line.py](03_Hashing/0149_Max_Points_On_A_Line.py) |
+| 187 | Repeated DNA Sequences | Medium | Hashing (Hash Set) | `O(n)` | `O(n)` | [0187_Repeated_DNA_Sequences.py](03_Hashing/0187_Repeated_DNA_Sequences.py) |
+| 202 | Happy Number | Easy | Hashing (Cycle Detection with Hash Set) | `O(log n)` | `O(log n)` | [0202_Happy_Number.py](03_Hashing/0202_Happy_Number.py) |
+| 205 | Isomorphic Strings | Easy | Hashing (Bijective Mapping) | `O(n)` | `O(1)` | [0205_Isomorphic_Strings.py](03_Hashing/0205_Isomorphic_Strings.py) |
