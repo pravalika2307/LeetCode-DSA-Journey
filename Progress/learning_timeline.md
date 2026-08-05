@@ -62,3 +62,5 @@ This document records my Data Structures & Algorithms learning progression from 
 ## Upcoming Topics
 
 The following folders remain initialized as **Upcoming** for future practice:
+- [`02_Strings/`](../02_Strings/)
+- [`08_Stack_Queue/`](../08_Stack_Queue/)
