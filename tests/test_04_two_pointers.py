@@ -14,6 +14,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxArea([1, 8, 6, 2, 5, 4, 8, 3, 7]), 49)
 
+    def test_0015(self):
+        mod = load_solution("04_Two_Pointers/0015_3Sum.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.threeSum([-1, 0, 1, 2, -1, -4]), [[-1, -1, 2], [-1, 0, 1]])
+
 
 
 if __name__ == "__main__":
