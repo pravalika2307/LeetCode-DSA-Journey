@@ -116,3 +116,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 1207 | Unique Number of Occurrences | Hashing | Hashing (Hash Map + Hash Set) | Easy | [1207_Unique_Number_Of_Occurrences.py](../03_Hashing/1207_Unique_Number_Of_Occurrences.py) |
 | 1394 | Find Lucky Integer in an Array | Hashing | Hashing (Frequency Counter) | Easy | [1394_Find_Lucky_Integer_In_An_Array.py](../03_Hashing/1394_Find_Lucky_Integer_In_An_Array.py) |
 
+## Binary Search (36)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
