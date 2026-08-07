@@ -104,3 +104,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 599 | Minimum Index Sum of Two Lists | Easy | Hashing (Index Map) | `O(n + m)` | `O(n)` | Implemented & Tested | [0599_Minimum_Index_Sum_Of_Two_Lists.py](../03_Hashing/0599_Minimum_Index_Sum_Of_Two_Lists.py) |
 | 692 | Top K Frequent Words | Medium | Hashing + Sorting | `O(n log n)` | `O(n)` | Implemented & Tested | [0692_Top_K_Frequent_Words.py](../03_Hashing/0692_Top_K_Frequent_Words.py) |
 | 771 | Jewels and Stones | Easy | Hashing (Hash Set) | `O(J + S)` | `O(J)` | Implemented & Tested | [0771_Jewels_And_Stones.py](../03_Hashing/0771_Jewels_And_Stones.py) |
+| 791 | Custom Sort String | Medium | Hashing (Frequency Counting) | `O(n + m)` | `O(n)` | Implemented & Tested | [0791_Custom_Sort_String.py](../03_Hashing/0791_Custom_Sort_String.py) |
+| 819 | Most Common Word | Easy | Hashing (Frequency Counter + Hash Set) | `O(n + m)` | `O(n + m)` | Implemented & Tested | [0819_Most_Common_Word.py](../03_Hashing/0819_Most_Common_Word.py) |
+| 884 | Uncommon Words from Two Sentences | Easy | Hashing (Frequency Counting) | `O(n + m)` | `O(n + m)` | Implemented & Tested | [0884_Uncommon_Words_From_Two_Sentences.py](../03_Hashing/0884_Uncommon_Words_From_Two_Sentences.py) |
+| 974 | Subarray Sums Divisible by K | Medium | Prefix Sum + Hash Map | `O(n)` | `O(k)` | Implemented & Tested | [0974_Subarray_Sums_Divisible_By_K.py](../03_Hashing/0974_Subarray_Sums_Divisible_By_K.py) |
