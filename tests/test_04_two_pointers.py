@@ -24,6 +24,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.threeSumClosest([-1, 2, 1, -4], 1), 2)
 
+    def test_0018(self):
+        mod = load_solution("04_Two_Pointers/0018_4Sum.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.fourSum([1, 0, -1, 0, -2, 2], 0), [[-2, -1, 1, 2], [-2, 0, 0, 2], [-1, 0, 0, 1]])
+
 
 
 if __name__ == "__main__":
