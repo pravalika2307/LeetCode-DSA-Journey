@@ -172,3 +172,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 187 | Repeated DNA Sequences | Medium | Hashing (Hash Set) | `O(n)` | `O(n)` | [0187_Repeated_DNA_Sequences.py](03_Hashing/0187_Repeated_DNA_Sequences.py) |
 | 202 | Happy Number | Easy | Hashing (Cycle Detection with Hash Set) | `O(log n)` | `O(log n)` | [0202_Happy_Number.py](03_Hashing/0202_Happy_Number.py) |
 | 205 | Isomorphic Strings | Easy | Hashing (Bijective Mapping) | `O(n)` | `O(1)` | [0205_Isomorphic_Strings.py](03_Hashing/0205_Isomorphic_Strings.py) |
+| 219 | Contains Duplicate II | Easy | Hashing (Last Seen Index) | `O(n)` | `O(n)` | [0219_Contains_Duplicate_II.py](03_Hashing/0219_Contains_Duplicate_II.py) |
+| 242 | Valid Anagram | Easy | Hashing (Frequency Counting) | `O(n)` | `O(1)` | [0242_Valid_Anagram.py](03_Hashing/0242_Valid_Anagram.py) |
+| 290 | Word Pattern | Easy | Hashing (Bijective Mapping) | `O(n + m)` | `O(n + m)` | [0290_Word_Pattern.py](03_Hashing/0290_Word_Pattern.py) |
+| 299 | Bulls and Cows | Medium | Hashing (Frequency Counting) | `O(n)` | `O(1)` | [0299_Bulls_And_Cows.py](03_Hashing/0299_Bulls_And_Cows.py) |
+| 349 | Intersection of Two Arrays | Easy | Hashing (Hash Set) | `O(n + m)` | `O(min(n, m))` | [0349_Intersection_Of_Two_Arrays.py](03_Hashing/0349_Intersection_Of_Two_Arrays.py) |
+| 350 | Intersection of Two Arrays II | Easy | Hashing (Frequency Counter) | `O(n + m)` | `O(min(n, m))` | [0350_Intersection_Of_Two_Arrays_II.py](03_Hashing/0350_Intersection_Of_Two_Arrays_II.py) |
