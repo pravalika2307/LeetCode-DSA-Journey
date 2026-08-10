@@ -29,6 +29,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.fourSum([1, 0, -1, 0, -2, 2], 0), [[-2, -1, 1, 2], [-2, 0, 0, 2], [-1, 0, 0, 1]])
 
+    def test_0028(self):
+        mod = load_solution("04_Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.strStr("sadbutsad", "sad"), 0); self.assertEqual(sol.strStr("leetcode", "leeto"), -1)
+
 
 
 if __name__ == "__main__":
