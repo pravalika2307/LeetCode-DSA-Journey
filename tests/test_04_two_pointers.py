@@ -34,6 +34,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.strStr("sadbutsad", "sad"), 0); self.assertEqual(sol.strStr("leetcode", "leeto"), -1)
 
+    def test_0042(self):
+        mod = load_solution("04_Two_Pointers/0042_Trapping_Rain_Water.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.trap([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]), 6)
+
 
 
 if __name__ == "__main__":
