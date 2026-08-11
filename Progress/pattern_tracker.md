@@ -120,3 +120,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 
 | # | Title | Topic | Specific Pattern | Difficulty | Solution |
 | :---: | :--- | :--- | :--- | :---: | :--- |
+| 4 | Median of Two Sorted Arrays | Binary Search | Binary Search (Partitioning) | Hard | [0004_Median_Of_Two_Sorted_Arrays.py](../06_Binary_Search/0004_Median_Of_Two_Sorted_Arrays.py) |
+| 33 | Search in Rotated Sorted Array | Binary Search | Binary Search (Rotated Array) | Medium | [0033_Search_In_Rotated_Sorted_Array.py](../06_Binary_Search/0033_Search_In_Rotated_Sorted_Array.py) |
+| 34 | Find First and Last Position of Element in Sorted Array | Binary Search | Binary Search (Lower and Upper Bounds) | Medium | [0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py](../06_Binary_Search/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py) |
+| 35 | Search Insert Position | Binary Search | Binary Search (Lower Bound) | Easy | [0035_Search_Insert_Position.py](../06_Binary_Search/0035_Search_Insert_Position.py) |
