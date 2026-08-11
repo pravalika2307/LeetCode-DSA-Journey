@@ -39,6 +39,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.trap([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]), 6)
 
+    def test_0080(self):
+        mod = load_solution("04_Two_Pointers/0080_Remove_Duplicates_From_Sorted_Array_II.py")
+        sol = mod.Solution()
+        a = [1, 1, 1, 2, 2, 3]; k = sol.removeDuplicates(a); self.assertEqual((k, a[:k]), (5, [1, 1, 2, 2, 3]))
+
 
 
 if __name__ == "__main__":
