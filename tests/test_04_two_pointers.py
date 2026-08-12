@@ -44,6 +44,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         a = [1, 1, 1, 2, 2, 3]; k = sol.removeDuplicates(a); self.assertEqual((k, a[:k]), (5, [1, 1, 2, 2, 3]))
 
+    def test_0125(self):
+        mod = load_solution("04_Two_Pointers/0125_Valid_Palindrome.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.isPalindrome("A man, a plan, a canal: Panama"))
+
 
 
 if __name__ == "__main__":
