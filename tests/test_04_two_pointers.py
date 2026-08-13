@@ -49,6 +49,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.isPalindrome("A man, a plan, a canal: Panama"))
 
+    def test_0151(self):
+        mod = load_solution("04_Two_Pointers/0151_Reverse_Words_In_A_String.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.reverseWords("  hello world  "), "world hello")
+
 
 
 if __name__ == "__main__":
