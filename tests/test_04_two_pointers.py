@@ -54,6 +54,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.reverseWords("  hello world  "), "world hello")
 
+    def test_0167(self):
+        mod = load_solution("04_Two_Pointers/0167_Two_Sum_II_Input_Array_Is_Sorted.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.twoSum([2, 7, 11, 15], 9), [1, 2])
+
 
 
 if __name__ == "__main__":
