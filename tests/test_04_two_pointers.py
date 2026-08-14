@@ -59,6 +59,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.twoSum([2, 7, 11, 15], 9), [1, 2])
 
+    def test_0287(self):
+        mod = load_solution("04_Two_Pointers/0287_Find_The_Duplicate_Number.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findDuplicate([1, 3, 4, 2, 2]), 2)
+
 
 
 if __name__ == "__main__":
