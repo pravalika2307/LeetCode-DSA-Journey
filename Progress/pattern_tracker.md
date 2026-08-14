@@ -124,3 +124,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 33 | Search in Rotated Sorted Array | Binary Search | Binary Search (Rotated Array) | Medium | [0033_Search_In_Rotated_Sorted_Array.py](../06_Binary_Search/0033_Search_In_Rotated_Sorted_Array.py) |
 | 34 | Find First and Last Position of Element in Sorted Array | Binary Search | Binary Search (Lower and Upper Bounds) | Medium | [0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py](../06_Binary_Search/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py) |
 | 35 | Search Insert Position | Binary Search | Binary Search (Lower Bound) | Easy | [0035_Search_Insert_Position.py](../06_Binary_Search/0035_Search_Insert_Position.py) |
+| 69 | Sqrt(x) | Binary Search | Binary Search on Answer | Easy | [0069_Sqrt_X.py](../06_Binary_Search/0069_Sqrt_X.py) |
+| 74 | Search a 2D Matrix | Binary Search | Binary Search (2D Matrix) | Medium | [0074_Search_A_2D_Matrix.py](../06_Binary_Search/0074_Search_A_2D_Matrix.py) |
+| 81 | Search in Rotated Sorted Array II | Binary Search | Binary Search (Rotated Array with Duplicates) | Medium | [0081_Search_In_Rotated_Sorted_Array_II.py](../06_Binary_Search/0081_Search_In_Rotated_Sorted_Array_II.py) |
+| 153 | Find Minimum in Rotated Sorted Array | Binary Search | Binary Search (Rotated Array) | Medium | [0153_Find_Minimum_In_Rotated_Sorted_Array.py](../06_Binary_Search/0153_Find_Minimum_In_Rotated_Sorted_Array.py) |
