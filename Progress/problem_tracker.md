@@ -112,3 +112,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 1074 | Number of Submatrices That Sum to Target | Hard | Prefix Sum + Hash Map (2D Reduction) | `O(rows^2 * cols)` | `O(cols)` | Implemented & Tested | [1074_Number_Of_Submatrices_That_Sum_To_Target.py](../03_Hashing/1074_Number_Of_Submatrices_That_Sum_To_Target.py) |
 | 1160 | Find Words That Can Be Formed by Characters | Easy | Hashing (Frequency Counting) | `O(total chars)` | `O(1)` | Implemented & Tested | [1160_Find_Words_That_Can_Be_Formed_By_Characters.py](../03_Hashing/1160_Find_Words_That_Can_Be_Formed_By_Characters.py) |
 | 1207 | Unique Number of Occurrences | Easy | Hashing (Hash Map + Hash Set) | `O(n)` | `O(n)` | Implemented & Tested | [1207_Unique_Number_Of_Occurrences.py](../03_Hashing/1207_Unique_Number_Of_Occurrences.py) |
+| 1394 | Find Lucky Integer in an Array | Easy | Hashing (Frequency Counter) | `O(n)` | `O(n)` | Implemented & Tested | [1394_Find_Lucky_Integer_In_An_Array.py](../03_Hashing/1394_Find_Lucky_Integer_In_An_Array.py) |
+
+## Two Pointers (`04_Two_Pointers/`) — 30 Problems
+*Easy: 11 | Medium: 17 | Hard: 2*
