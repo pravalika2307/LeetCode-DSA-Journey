@@ -184,3 +184,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 409 | Longest Palindrome | Easy | Hashing (Frequency Counting) | `O(n)` | `O(1)` | [0409_Longest_Palindrome.py](03_Hashing/0409_Longest_Palindrome.py) |
 | 447 | Number of Boomerangs | Medium | Hashing (Distance Frequency Map) | `O(n^2)` | `O(n)` | [0447_Number_Of_Boomerangs.py](03_Hashing/0447_Number_Of_Boomerangs.py) |
 | 451 | Sort Characters By Frequency | Medium | Hashing + Bucket Sort | `O(n)` | `O(n)` | [0451_Sort_Characters_By_Frequency.py](03_Hashing/0451_Sort_Characters_By_Frequency.py) |
+| 454 | 4Sum II | Medium | Hashing (Hash Map Pair Sums) | `O(n^2)` | `O(n^2)` | [0454_4Sum_II.py](03_Hashing/0454_4Sum_II.py) |
+| 500 | Keyboard Row | Easy | Hashing (Hash Set) | `O(total chars)` | `O(1)` | [0500_Keyboard_Row.py](03_Hashing/0500_Keyboard_Row.py) |
+| 523 | Continuous Subarray Sum | Medium | Prefix Sum + Hash Map | `O(n)` | `O(min(n, k))` | [0523_Continuous_Subarray_Sum.py](03_Hashing/0523_Continuous_Subarray_Sum.py) |
+| 525 | Contiguous Array | Medium | Prefix Sum + Hash Map | `O(n)` | `O(n)` | [0525_Contiguous_Array.py](03_Hashing/0525_Contiguous_Array.py) |
+| 532 | K-diff Pairs in an Array | Medium | Hashing (Frequency Counter) | `O(n)` | `O(n)` | [0532_K_Diff_Pairs_In_An_Array.py](03_Hashing/0532_K_Diff_Pairs_In_An_Array.py) |
+| 554 | Brick Wall | Medium | Hashing (Edge Frequency Map) | `O(total bricks)` | `O(width)` | [0554_Brick_Wall.py](03_Hashing/0554_Brick_Wall.py) |
