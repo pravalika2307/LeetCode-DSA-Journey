@@ -190,3 +190,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 525 | Contiguous Array | Medium | Prefix Sum + Hash Map | `O(n)` | `O(n)` | [0525_Contiguous_Array.py](03_Hashing/0525_Contiguous_Array.py) |
 | 532 | K-diff Pairs in an Array | Medium | Hashing (Frequency Counter) | `O(n)` | `O(n)` | [0532_K_Diff_Pairs_In_An_Array.py](03_Hashing/0532_K_Diff_Pairs_In_An_Array.py) |
 | 554 | Brick Wall | Medium | Hashing (Edge Frequency Map) | `O(total bricks)` | `O(width)` | [0554_Brick_Wall.py](03_Hashing/0554_Brick_Wall.py) |
+| 560 | Subarray Sum Equals K | Medium | Prefix Sum + Hash Map | `O(n)` | `O(n)` | [0560_Subarray_Sum_Equals_K.py](03_Hashing/0560_Subarray_Sum_Equals_K.py) |
+| 594 | Longest Harmonious Subsequence | Easy | Hashing (Frequency Counter) | `O(n)` | `O(n)` | [0594_Longest_Harmonious_Subsequence.py](03_Hashing/0594_Longest_Harmonious_Subsequence.py) |
+| 599 | Minimum Index Sum of Two Lists | Easy | Hashing (Index Map) | `O(n + m)` | `O(n)` | [0599_Minimum_Index_Sum_Of_Two_Lists.py](03_Hashing/0599_Minimum_Index_Sum_Of_Two_Lists.py) |
+| 692 | Top K Frequent Words | Medium | Hashing + Sorting | `O(n log n)` | `O(n)` | [0692_Top_K_Frequent_Words.py](03_Hashing/0692_Top_K_Frequent_Words.py) |
+| 771 | Jewels and Stones | Easy | Hashing (Hash Set) | `O(J + S)` | `O(J)` | [0771_Jewels_And_Stones.py](03_Hashing/0771_Jewels_And_Stones.py) |
+| 791 | Custom Sort String | Medium | Hashing (Frequency Counting) | `O(n + m)` | `O(n)` | [0791_Custom_Sort_String.py](03_Hashing/0791_Custom_Sort_String.py) |
