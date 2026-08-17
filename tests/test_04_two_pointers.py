@@ -69,6 +69,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         s = list("hello"); sol.reverseString(s); self.assertEqual(s, list("olleh"))
 
+    def test_0345(self):
+        mod = load_solution("04_Two_Pointers/0345_Reverse_Vowels_Of_A_String.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.reverseVowels("hello"), "holle")
+
 
 
 if __name__ == "__main__":
