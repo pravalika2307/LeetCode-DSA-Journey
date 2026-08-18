@@ -74,6 +74,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.reverseVowels("hello"), "holle")
 
+    def test_0392(self):
+        mod = load_solution("04_Two_Pointers/0392_Is_Subsequence.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.isSubsequence("abc", "ahbgdc"))
+
 
 
 if __name__ == "__main__":
