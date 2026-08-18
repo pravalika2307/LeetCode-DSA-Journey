@@ -128,3 +128,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 74 | Search a 2D Matrix | Binary Search | Binary Search (2D Matrix) | Medium | [0074_Search_A_2D_Matrix.py](../06_Binary_Search/0074_Search_A_2D_Matrix.py) |
 | 81 | Search in Rotated Sorted Array II | Binary Search | Binary Search (Rotated Array with Duplicates) | Medium | [0081_Search_In_Rotated_Sorted_Array_II.py](../06_Binary_Search/0081_Search_In_Rotated_Sorted_Array_II.py) |
 | 153 | Find Minimum in Rotated Sorted Array | Binary Search | Binary Search (Rotated Array) | Medium | [0153_Find_Minimum_In_Rotated_Sorted_Array.py](../06_Binary_Search/0153_Find_Minimum_In_Rotated_Sorted_Array.py) |
+| 154 | Find Minimum in Rotated Sorted Array II | Binary Search | Binary Search (Rotated Array with Duplicates) | Hard | [0154_Find_Minimum_In_Rotated_Sorted_Array_II.py](../06_Binary_Search/0154_Find_Minimum_In_Rotated_Sorted_Array_II.py) |
+| 162 | Find Peak Element | Binary Search | Binary Search (Peak Finding) | Medium | [0162_Find_Peak_Element.py](../06_Binary_Search/0162_Find_Peak_Element.py) |
+| 275 | H-Index II | Binary Search | Binary Search (Index Offset) | Medium | [0275_H_Index_II.py](../06_Binary_Search/0275_H_Index_II.py) |
+| 278 | First Bad Version | Binary Search | Binary Search (Lower Bound) | Easy | [0278_First_Bad_Version.py](../06_Binary_Search/0278_First_Bad_Version.py) |
