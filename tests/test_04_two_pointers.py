@@ -79,6 +79,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.isSubsequence("abc", "ahbgdc"))
 
+    def test_0443(self):
+        mod = load_solution("04_Two_Pointers/0443_String_Compression.py")
+        sol = mod.Solution()
+        ch = ["a", "a", "b", "b", "c", "c", "c"]; k = sol.compress(ch); self.assertEqual((k, ch[:k]), (6, ["a", "2", "b", "2", "c", "3"]))
+
 
 
 if __name__ == "__main__":
