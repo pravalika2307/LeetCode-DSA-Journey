@@ -116,3 +116,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 
 ## Two Pointers (`04_Two_Pointers/`) — 30 Problems
 *Easy: 11 | Medium: 17 | Hard: 2*
+
+| # | Title | Difficulty | Pattern | Time | Space | Status | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| 5 | Longest Palindromic Substring | Medium | Two Pointers (Expand Around Center) | `O(n^2)` | `O(1)` | Implemented & Tested | [0005_Longest_Palindromic_Substring.py](../04_Two_Pointers/0005_Longest_Palindromic_Substring.py) |
