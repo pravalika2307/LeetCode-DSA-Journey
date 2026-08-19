@@ -84,6 +84,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         ch = ["a", "a", "b", "b", "c", "c", "c"]; k = sol.compress(ch); self.assertEqual((k, ch[:k]), (6, ["a", "2", "b", "2", "c", "3"]))
 
+    def test_0455(self):
+        mod = load_solution("04_Two_Pointers/0455_Assign_Cookies.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findContentChildren([1, 2, 3], [1, 1]), 1)
+
 
 
 if __name__ == "__main__":
