@@ -196,3 +196,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 692 | Top K Frequent Words | Medium | Hashing + Sorting | `O(n log n)` | `O(n)` | [0692_Top_K_Frequent_Words.py](03_Hashing/0692_Top_K_Frequent_Words.py) |
 | 771 | Jewels and Stones | Easy | Hashing (Hash Set) | `O(J + S)` | `O(J)` | [0771_Jewels_And_Stones.py](03_Hashing/0771_Jewels_And_Stones.py) |
 | 791 | Custom Sort String | Medium | Hashing (Frequency Counting) | `O(n + m)` | `O(n)` | [0791_Custom_Sort_String.py](03_Hashing/0791_Custom_Sort_String.py) |
+| 819 | Most Common Word | Easy | Hashing (Frequency Counter + Hash Set) | `O(n + m)` | `O(n + m)` | [0819_Most_Common_Word.py](03_Hashing/0819_Most_Common_Word.py) |
+| 884 | Uncommon Words from Two Sentences | Easy | Hashing (Frequency Counting) | `O(n + m)` | `O(n + m)` | [0884_Uncommon_Words_From_Two_Sentences.py](03_Hashing/0884_Uncommon_Words_From_Two_Sentences.py) |
+| 974 | Subarray Sums Divisible by K | Medium | Prefix Sum + Hash Map | `O(n)` | `O(k)` | [0974_Subarray_Sums_Divisible_By_K.py](03_Hashing/0974_Subarray_Sums_Divisible_By_K.py) |
+| 1002 | Find Common Characters | Easy | Hashing (Frequency Intersection) | `O(n * k)` | `O(1)` | [1002_Find_Common_Characters.py](03_Hashing/1002_Find_Common_Characters.py) |
+| 1074 | Number of Submatrices That Sum to Target | Hard | Prefix Sum + Hash Map (2D Reduction) | `O(rows^2 * cols)` | `O(cols)` | [1074_Number_Of_Submatrices_That_Sum_To_Target.py](03_Hashing/1074_Number_Of_Submatrices_That_Sum_To_Target.py) |
+| 1160 | Find Words That Can Be Formed by Characters | Easy | Hashing (Frequency Counting) | `O(total chars)` | `O(1)` | [1160_Find_Words_That_Can_Be_Formed_By_Characters.py](03_Hashing/1160_Find_Words_That_Can_Be_Formed_By_Characters.py) |
