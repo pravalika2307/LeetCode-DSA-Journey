@@ -202,3 +202,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 1002 | Find Common Characters | Easy | Hashing (Frequency Intersection) | `O(n * k)` | `O(1)` | [1002_Find_Common_Characters.py](03_Hashing/1002_Find_Common_Characters.py) |
 | 1074 | Number of Submatrices That Sum to Target | Hard | Prefix Sum + Hash Map (2D Reduction) | `O(rows^2 * cols)` | `O(cols)` | [1074_Number_Of_Submatrices_That_Sum_To_Target.py](03_Hashing/1074_Number_Of_Submatrices_That_Sum_To_Target.py) |
 | 1160 | Find Words That Can Be Formed by Characters | Easy | Hashing (Frequency Counting) | `O(total chars)` | `O(1)` | [1160_Find_Words_That_Can_Be_Formed_By_Characters.py](03_Hashing/1160_Find_Words_That_Can_Be_Formed_By_Characters.py) |
+| 1207 | Unique Number of Occurrences | Easy | Hashing (Hash Map + Hash Set) | `O(n)` | `O(n)` | [1207_Unique_Number_Of_Occurrences.py](03_Hashing/1207_Unique_Number_Of_Occurrences.py) |
+| 1394 | Find Lucky Integer in an Array | Easy | Hashing (Frequency Counter) | `O(n)` | `O(n)` | [1394_Find_Lucky_Integer_In_An_Array.py](03_Hashing/1394_Find_Lucky_Integer_In_An_Array.py) |
+
+### Two Pointers (30)
+
+| # | Problem | Difficulty | Pattern | Time | Space | Solution |
