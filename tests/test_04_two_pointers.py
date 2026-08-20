@@ -94,6 +94,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findRadius([1, 2, 3], [2]), 1)
 
+    def test_0524(self):
+        mod = load_solution("04_Two_Pointers/0524_Longest_Word_In_Dictionary_Through_Deleting.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findLongestWord("abpcplea", ["ale", "apple", "monkey", "plea"]), "apple")
+
 
 
 if __name__ == "__main__":
