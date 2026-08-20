@@ -89,6 +89,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findContentChildren([1, 2, 3], [1, 1]), 1)
 
+    def test_0475(self):
+        mod = load_solution("04_Two_Pointers/0475_Heaters.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findRadius([1, 2, 3], [2]), 1)
+
 
 
 if __name__ == "__main__":
