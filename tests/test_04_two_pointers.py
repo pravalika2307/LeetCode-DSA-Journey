@@ -99,6 +99,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findLongestWord("abpcplea", ["ale", "apple", "monkey", "plea"]), "apple")
 
+    def test_0541(self):
+        mod = load_solution("04_Two_Pointers/0541_Reverse_String_II.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.reverseStr("abcdefg", 2), "bacdfeg")
+
 
 
 if __name__ == "__main__":
