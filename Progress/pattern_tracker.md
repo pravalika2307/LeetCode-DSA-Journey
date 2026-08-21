@@ -132,3 +132,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 162 | Find Peak Element | Binary Search | Binary Search (Peak Finding) | Medium | [0162_Find_Peak_Element.py](../06_Binary_Search/0162_Find_Peak_Element.py) |
 | 275 | H-Index II | Binary Search | Binary Search (Index Offset) | Medium | [0275_H_Index_II.py](../06_Binary_Search/0275_H_Index_II.py) |
 | 278 | First Bad Version | Binary Search | Binary Search (Lower Bound) | Easy | [0278_First_Bad_Version.py](../06_Binary_Search/0278_First_Bad_Version.py) |
+| 367 | Valid Perfect Square | Binary Search | Binary Search on Answer | Easy | [0367_Valid_Perfect_Square.py](../06_Binary_Search/0367_Valid_Perfect_Square.py) |
+| 374 | Guess Number Higher or Lower | Binary Search | Binary Search (Classic) | Easy | [0374_Guess_Number_Higher_Or_Lower.py](../06_Binary_Search/0374_Guess_Number_Higher_Or_Lower.py) |
+| 410 | Split Array Largest Sum | Binary Search | Binary Search on Answer | Hard | [0410_Split_Array_Largest_Sum.py](../06_Binary_Search/0410_Split_Array_Largest_Sum.py) |
+| 441 | Arranging Coins | Binary Search | Binary Search on Answer | Easy | [0441_Arranging_Coins.py](../06_Binary_Search/0441_Arranging_Coins.py) |
