@@ -104,6 +104,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.reverseStr("abcdefg", 2), "bacdfeg")
 
+    def test_0557(self):
+        mod = load_solution("04_Two_Pointers/0557_Reverse_Words_In_A_String_III.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.reverseWords("Let's take LeetCode contest"), "s'teL ekat edoCteeL tsetnoc")
+
 
 
 if __name__ == "__main__":
