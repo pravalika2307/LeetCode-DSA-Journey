@@ -208,3 +208,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 ### Two Pointers (30)
 
 | # | Problem | Difficulty | Pattern | Time | Space | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- |
+| 5 | Longest Palindromic Substring | Medium | Two Pointers (Expand Around Center) | `O(n^2)` | `O(1)` | [0005_Longest_Palindromic_Substring.py](04_Two_Pointers/0005_Longest_Palindromic_Substring.py) |
+| 11 | Container With Most Water | Medium | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | [0011_Container_With_Most_Water.py](04_Two_Pointers/0011_Container_With_Most_Water.py) |
+| 15 | 3Sum | Medium | Two Pointers + Sorting | `O(n^2)` | `O(1) auxiliary` | [0015_3Sum.py](04_Two_Pointers/0015_3Sum.py) |
+| 16 | 3Sum Closest | Medium | Two Pointers + Sorting | `O(n^2)` | `O(1) auxiliary` | [0016_3Sum_Closest.py](04_Two_Pointers/0016_3Sum_Closest.py) |
+| 18 | 4Sum | Medium | Two Pointers + Sorting | `O(n^3)` | `O(1) auxiliary` | [0018_4Sum.py](04_Two_Pointers/0018_4Sum.py) |
