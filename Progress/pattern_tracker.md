@@ -136,3 +136,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 374 | Guess Number Higher or Lower | Binary Search | Binary Search (Classic) | Easy | [0374_Guess_Number_Higher_Or_Lower.py](../06_Binary_Search/0374_Guess_Number_Higher_Or_Lower.py) |
 | 410 | Split Array Largest Sum | Binary Search | Binary Search on Answer | Hard | [0410_Split_Array_Largest_Sum.py](../06_Binary_Search/0410_Split_Array_Largest_Sum.py) |
 | 441 | Arranging Coins | Binary Search | Binary Search on Answer | Easy | [0441_Arranging_Coins.py](../06_Binary_Search/0441_Arranging_Coins.py) |
+| 540 | Single Element in a Sorted Array | Binary Search | Binary Search (Index Parity) | Medium | [0540_Single_Element_In_A_Sorted_Array.py](../06_Binary_Search/0540_Single_Element_In_A_Sorted_Array.py) |
+| 658 | Find K Closest Elements | Binary Search | Binary Search (Window Start Search) | Medium | [0658_Find_K_Closest_Elements.py](../06_Binary_Search/0658_Find_K_Closest_Elements.py) |
+| 668 | Kth Smallest Number in Multiplication Table | Binary Search | Binary Search on Answer | Hard | [0668_Kth_Smallest_Number_In_Multiplication_Table.py](../06_Binary_Search/0668_Kth_Smallest_Number_In_Multiplication_Table.py) |
+| 704 | Binary Search | Binary Search | Binary Search (Classic) | Easy | [0704_Binary_Search.py](../06_Binary_Search/0704_Binary_Search.py) |
