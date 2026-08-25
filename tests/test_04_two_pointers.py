@@ -114,6 +114,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.triangleNumber([2, 2, 3, 4]), 3)
 
+    def test_0633(self):
+        mod = load_solution("04_Two_Pointers/0633_Sum_Of_Square_Numbers.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.judgeSquareSum(5)); self.assertFalse(sol.judgeSquareSum(3))
+
 
 
 if __name__ == "__main__":
