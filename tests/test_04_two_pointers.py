@@ -109,6 +109,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.reverseWords("Let's take LeetCode contest"), "s'teL ekat edoCteeL tsetnoc")
 
+    def test_0611(self):
+        mod = load_solution("04_Two_Pointers/0611_Valid_Triangle_Number.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.triangleNumber([2, 2, 3, 4]), 3)
+
 
 
 if __name__ == "__main__":
