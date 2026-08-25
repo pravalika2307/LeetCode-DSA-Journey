@@ -214,3 +214,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 15 | 3Sum | Medium | Two Pointers + Sorting | `O(n^2)` | `O(1) auxiliary` | [0015_3Sum.py](04_Two_Pointers/0015_3Sum.py) |
 | 16 | 3Sum Closest | Medium | Two Pointers + Sorting | `O(n^2)` | `O(1) auxiliary` | [0016_3Sum_Closest.py](04_Two_Pointers/0016_3Sum_Closest.py) |
 | 18 | 4Sum | Medium | Two Pointers + Sorting | `O(n^3)` | `O(1) auxiliary` | [0018_4Sum.py](04_Two_Pointers/0018_4Sum.py) |
+| 28 | Find the Index of the First Occurrence in a String | Easy | Two Pointers / String Matching | `O(n * m)` | `O(1)` | [0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py](04_Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py) |
+| 42 | Trapping Rain Water | Hard | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | [0042_Trapping_Rain_Water.py](04_Two_Pointers/0042_Trapping_Rain_Water.py) |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Two Pointers (In-Place) | `O(n)` | `O(1)` | [0080_Remove_Duplicates_From_Sorted_Array_II.py](04_Two_Pointers/0080_Remove_Duplicates_From_Sorted_Array_II.py) |
+| 125 | Valid Palindrome | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | [0125_Valid_Palindrome.py](04_Two_Pointers/0125_Valid_Palindrome.py) |
+| 151 | Reverse Words in a String | Medium | Two Pointers | `O(n)` | `O(n)` | [0151_Reverse_Words_In_A_String.py](04_Two_Pointers/0151_Reverse_Words_In_A_String.py) |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | [0167_Two_Sum_II_Input_Array_Is_Sorted.py](04_Two_Pointers/0167_Two_Sum_II_Input_Array_Is_Sorted.py) |
