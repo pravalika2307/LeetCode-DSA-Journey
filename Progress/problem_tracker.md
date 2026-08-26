@@ -124,3 +124,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 15 | 3Sum | Medium | Two Pointers + Sorting | `O(n^2)` | `O(1) auxiliary` | Implemented & Tested | [0015_3Sum.py](../04_Two_Pointers/0015_3Sum.py) |
 | 16 | 3Sum Closest | Medium | Two Pointers + Sorting | `O(n^2)` | `O(1) auxiliary` | Implemented & Tested | [0016_3Sum_Closest.py](../04_Two_Pointers/0016_3Sum_Closest.py) |
 | 18 | 4Sum | Medium | Two Pointers + Sorting | `O(n^3)` | `O(1) auxiliary` | Implemented & Tested | [0018_4Sum.py](../04_Two_Pointers/0018_4Sum.py) |
+| 28 | Find the Index of the First Occurrence in a String | Easy | Two Pointers / String Matching | `O(n * m)` | `O(1)` | Implemented & Tested | [0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py](../04_Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String.py) |
+| 42 | Trapping Rain Water | Hard | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0042_Trapping_Rain_Water.py](../04_Two_Pointers/0042_Trapping_Rain_Water.py) |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Two Pointers (In-Place) | `O(n)` | `O(1)` | Implemented & Tested | [0080_Remove_Duplicates_From_Sorted_Array_II.py](../04_Two_Pointers/0080_Remove_Duplicates_From_Sorted_Array_II.py) |
+| 125 | Valid Palindrome | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0125_Valid_Palindrome.py](../04_Two_Pointers/0125_Valid_Palindrome.py) |
