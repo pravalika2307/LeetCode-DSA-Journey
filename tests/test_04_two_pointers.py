@@ -119,6 +119,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.judgeSquareSum(5)); self.assertFalse(sol.judgeSquareSum(3))
 
+    def test_0647(self):
+        mod = load_solution("04_Two_Pointers/0647_Palindromic_Substrings.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.countSubstrings("aaa"), 6)
+
 
 
 if __name__ == "__main__":
