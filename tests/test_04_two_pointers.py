@@ -124,6 +124,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.countSubstrings("aaa"), 6)
 
+    def test_0680(self):
+        mod = load_solution("04_Two_Pointers/0680_Valid_Palindrome_II.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.validPalindrome("abca")); self.assertFalse(sol.validPalindrome("abc"))
+
 
 
 if __name__ == "__main__":
