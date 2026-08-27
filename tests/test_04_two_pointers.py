@@ -129,6 +129,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.validPalindrome("abca")); self.assertFalse(sol.validPalindrome("abc"))
 
+    def test_0763(self):
+        mod = load_solution("04_Two_Pointers/0763_Partition_Labels.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.partitionLabels("ababcbacadefegdehijhklij"), [9, 7, 8])
+
 
 
 if __name__ == "__main__":
