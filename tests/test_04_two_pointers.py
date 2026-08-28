@@ -134,6 +134,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.partitionLabels("ababcbacadefegdehijhklij"), [9, 7, 8])
 
+    def test_0844(self):
+        mod = load_solution("04_Two_Pointers/0844_Backspace_String_Compare.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.backspaceCompare("ab#c", "ad#c"))
+
 
 
 if __name__ == "__main__":
