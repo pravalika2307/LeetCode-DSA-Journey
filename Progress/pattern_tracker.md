@@ -140,3 +140,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 658 | Find K Closest Elements | Binary Search | Binary Search (Window Start Search) | Medium | [0658_Find_K_Closest_Elements.py](../06_Binary_Search/0658_Find_K_Closest_Elements.py) |
 | 668 | Kth Smallest Number in Multiplication Table | Binary Search | Binary Search on Answer | Hard | [0668_Kth_Smallest_Number_In_Multiplication_Table.py](../06_Binary_Search/0668_Kth_Smallest_Number_In_Multiplication_Table.py) |
 | 704 | Binary Search | Binary Search | Binary Search (Classic) | Easy | [0704_Binary_Search.py](../06_Binary_Search/0704_Binary_Search.py) |
+| 744 | Find Smallest Letter Greater Than Target | Binary Search | Binary Search (Upper Bound) | Easy | [0744_Find_Smallest_Letter_Greater_Than_Target.py](../06_Binary_Search/0744_Find_Smallest_Letter_Greater_Than_Target.py) |
+| 852 | Peak Index in a Mountain Array | Binary Search | Binary Search (Mountain Array) | Medium | [0852_Peak_Index_In_A_Mountain_Array.py](../06_Binary_Search/0852_Peak_Index_In_A_Mountain_Array.py) |
+| 875 | Koko Eating Bananas | Binary Search | Binary Search on Answer | Medium | [0875_Koko_Eating_Bananas.py](../06_Binary_Search/0875_Koko_Eating_Bananas.py) |
+| 1011 | Capacity To Ship Packages Within D Days | Binary Search | Binary Search on Answer | Medium | [1011_Capacity_To_Ship_Packages_Within_D_Days.py](../06_Binary_Search/1011_Capacity_To_Ship_Packages_Within_D_Days.py) |
