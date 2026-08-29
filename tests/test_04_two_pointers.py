@@ -139,6 +139,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.backspaceCompare("ab#c", "ad#c"))
 
+    def test_0881(self):
+        mod = load_solution("04_Two_Pointers/0881_Boats_To_Save_People.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numRescueBoats([3, 2, 2, 1], 3), 3)
+
 
 
 if __name__ == "__main__":
