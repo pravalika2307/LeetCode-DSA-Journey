@@ -128,3 +128,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 42 | Trapping Rain Water | Hard | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0042_Trapping_Rain_Water.py](../04_Two_Pointers/0042_Trapping_Rain_Water.py) |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Two Pointers (In-Place) | `O(n)` | `O(1)` | Implemented & Tested | [0080_Remove_Duplicates_From_Sorted_Array_II.py](../04_Two_Pointers/0080_Remove_Duplicates_From_Sorted_Array_II.py) |
 | 125 | Valid Palindrome | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0125_Valid_Palindrome.py](../04_Two_Pointers/0125_Valid_Palindrome.py) |
+| 151 | Reverse Words in a String | Medium | Two Pointers | `O(n)` | `O(n)` | Implemented & Tested | [0151_Reverse_Words_In_A_String.py](../04_Two_Pointers/0151_Reverse_Words_In_A_String.py) |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0167_Two_Sum_II_Input_Array_Is_Sorted.py](../04_Two_Pointers/0167_Two_Sum_II_Input_Array_Is_Sorted.py) |
+| 287 | Find the Duplicate Number | Medium | Two Pointers (Floyd's Cycle Detection) | `O(n)` | `O(1)` | Implemented & Tested | [0287_Find_The_Duplicate_Number.py](../04_Two_Pointers/0287_Find_The_Duplicate_Number.py) |
+| 344 | Reverse String | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0344_Reverse_String.py](../04_Two_Pointers/0344_Reverse_String.py) |
