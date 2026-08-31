@@ -144,6 +144,11 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numRescueBoats([3, 2, 2, 1], 3), 3)
 
+    def test_0905(self):
+        mod = load_solution("04_Two_Pointers/0905_Sort_Array_By_Parity.py")
+        sol = mod.Solution()
+        res = sol.sortArrayByParity([3, 1, 2, 4]); self.assertTrue(all(x % 2 == 0 for x in res[:2]) and all(x % 2 == 1 for x in res[2:]))
+
 
 
 if __name__ == "__main__":
