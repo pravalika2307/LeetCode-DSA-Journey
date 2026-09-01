@@ -149,6 +149,10 @@ class TestTwoPointers(unittest.TestCase):
         sol = mod.Solution()
         res = sol.sortArrayByParity([3, 1, 2, 4]); self.assertTrue(all(x % 2 == 0 for x in res[:2]) and all(x % 2 == 1 for x in res[2:]))
 
+    def test_1793(self):
+        mod = load_solution("04_Two_Pointers/1793_Maximum_Score_Of_A_Good_Subarray.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maximumScore([1, 4, 3, 7, 4, 5], 3), 15)
 
 
 if __name__ == "__main__":
