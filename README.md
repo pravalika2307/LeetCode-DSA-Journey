@@ -238,3 +238,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 844 | Backspace String Compare | Easy | Two Pointers (Reverse Scan) | `O(n + m)` | `O(1)` | [0844_Backspace_String_Compare.py](04_Two_Pointers/0844_Backspace_String_Compare.py) |
 | 881 | Boats to Save People | Medium | Two Pointers + Greedy Sorting | `O(n log n)` | `O(1) auxiliary` | [0881_Boats_To_Save_People.py](04_Two_Pointers/0881_Boats_To_Save_People.py) |
 | 905 | Sort Array By Parity | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1) auxiliary` | [0905_Sort_Array_By_Parity.py](04_Two_Pointers/0905_Sort_Array_By_Parity.py) |
+| 1793 | Maximum Score of a Good Subarray | Hard | Two Pointers (Greedy Expansion) | `O(n)` | `O(1)` | [1793_Maximum_Score_Of_A_Good_Subarray.py](04_Two_Pointers/1793_Maximum_Score_Of_A_Good_Subarray.py) |
+
+### Sliding Window (33)
+
+| # | Problem | Difficulty | Pattern | Time | Space | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- |
