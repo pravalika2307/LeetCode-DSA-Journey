@@ -244,3 +244,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 
 | # | Problem | Difficulty | Pattern | Time | Space | Solution |
 | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
+| 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window (Variable) + Hash Map | `O(n)` | `O(min(n, m))` | [0003_Longest_Substring_Without_Repeating_Characters.py](05_Sliding_Window/0003_Longest_Substring_Without_Repeating_Characters.py) |
+| 30 | Substring with Concatenation of All Words | Hard | Sliding Window (Word-Length Offset) + Hash Map | `O(n * word_len)` | `O(k * word_len)` | [0030_Substring_With_Concatenation_Of_All_Words.py](05_Sliding_Window/0030_Substring_With_Concatenation_Of_All_Words.py) |
+| 76 | Minimum Window Substring | Hard | Sliding Window (Variable) + Hash Map | `O(n + m)` | `O(m)` | [0076_Minimum_Window_Substring.py](05_Sliding_Window/0076_Minimum_Window_Substring.py) |
+| 209 | Minimum Size Subarray Sum | Medium | Sliding Window (Variable) | `O(n)` | `O(1)` | [0209_Minimum_Size_Subarray_Sum.py](05_Sliding_Window/0209_Minimum_Size_Subarray_Sum.py) |
+| 220 | Contains Duplicate III | Hard | Sliding Window + Bucketing | `O(n)` | `O(min(n, indexDiff))` | [0220_Contains_Duplicate_III.py](05_Sliding_Window/0220_Contains_Duplicate_III.py) |
+| 239 | Sliding Window Maximum | Hard | Sliding Window + Monotonic Deque | `O(n)` | `O(k)` | [0239_Sliding_Window_Maximum.py](05_Sliding_Window/0239_Sliding_Window_Maximum.py) |
