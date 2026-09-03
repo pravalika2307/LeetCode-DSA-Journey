@@ -9,6 +9,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.lengthOfLongestSubstring("abcabcbb"), 3)
 
+    def test_0030(self):
+        mod = load_solution("05_Sliding_Window/0030_Substring_With_Concatenation_Of_All_Words.py")
+        sol = mod.Solution()
+        self.assertEqual(sorted(sol.findSubstring("barfoothefoobarman", ["foo", "bar"])), [0, 9])
+
 
 
 if __name__ == "__main__":
