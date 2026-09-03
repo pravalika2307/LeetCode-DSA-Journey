@@ -250,3 +250,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 209 | Minimum Size Subarray Sum | Medium | Sliding Window (Variable) | `O(n)` | `O(1)` | [0209_Minimum_Size_Subarray_Sum.py](05_Sliding_Window/0209_Minimum_Size_Subarray_Sum.py) |
 | 220 | Contains Duplicate III | Hard | Sliding Window + Bucketing | `O(n)` | `O(min(n, indexDiff))` | [0220_Contains_Duplicate_III.py](05_Sliding_Window/0220_Contains_Duplicate_III.py) |
 | 239 | Sliding Window Maximum | Hard | Sliding Window + Monotonic Deque | `O(n)` | `O(k)` | [0239_Sliding_Window_Maximum.py](05_Sliding_Window/0239_Sliding_Window_Maximum.py) |
+| 340 | Longest Substring with At Most K Distinct Characters | Medium | Sliding Window (Variable) + Hash Map | `O(n)` | `O(k)` | [0340_Longest_Substring_With_At_Most_K_Distinct_Characters.py](05_Sliding_Window/0340_Longest_Substring_With_At_Most_K_Distinct_Characters.py) |
+| 424 | Longest Repeating Character Replacement | Medium | Sliding Window (Variable) + Frequency Array | `O(n)` | `O(1)` | [0424_Longest_Repeating_Character_Replacement.py](05_Sliding_Window/0424_Longest_Repeating_Character_Replacement.py) |
+| 438 | Find All Anagrams in a String | Medium | Sliding Window (Fixed) + Frequency Array | `O(n)` | `O(1)` | [0438_Find_All_Anagrams_In_A_String.py](05_Sliding_Window/0438_Find_All_Anagrams_In_A_String.py) |
+| 567 | Permutation in String | Medium | Sliding Window (Fixed) + Frequency Array | `O(n)` | `O(1)` | [0567_Permutation_In_String.py](05_Sliding_Window/0567_Permutation_In_String.py) |
+| 643 | Maximum Average Subarray I | Easy | Sliding Window (Fixed) | `O(n)` | `O(1)` | [0643_Maximum_Average_Subarray_I.py](05_Sliding_Window/0643_Maximum_Average_Subarray_I.py) |
+| 713 | Subarray Product Less Than K | Medium | Sliding Window (Variable) | `O(n)` | `O(1)` | [0713_Subarray_Product_Less_Than_K.py](05_Sliding_Window/0713_Subarray_Product_Less_Than_K.py) |
