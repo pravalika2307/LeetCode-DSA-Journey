@@ -14,6 +14,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sorted(sol.findSubstring("barfoothefoobarman", ["foo", "bar"])), [0, 9])
 
+    def test_0076(self):
+        mod = load_solution("05_Sliding_Window/0076_Minimum_Window_Substring.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.minWindow("ADOBECODEBANC", "ABC"), "BANC")
+
 
 
 if __name__ == "__main__":
