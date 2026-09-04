@@ -144,3 +144,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 852 | Peak Index in a Mountain Array | Binary Search | Binary Search (Mountain Array) | Medium | [0852_Peak_Index_In_A_Mountain_Array.py](../06_Binary_Search/0852_Peak_Index_In_A_Mountain_Array.py) |
 | 875 | Koko Eating Bananas | Binary Search | Binary Search on Answer | Medium | [0875_Koko_Eating_Bananas.py](../06_Binary_Search/0875_Koko_Eating_Bananas.py) |
 | 1011 | Capacity To Ship Packages Within D Days | Binary Search | Binary Search on Answer | Medium | [1011_Capacity_To_Ship_Packages_Within_D_Days.py](../06_Binary_Search/1011_Capacity_To_Ship_Packages_Within_D_Days.py) |
+| 1283 | Find the Smallest Divisor Given a Threshold | Binary Search | Binary Search on Answer | Medium | [1283_Find_The_Smallest_Divisor_Given_A_Threshold.py](../06_Binary_Search/1283_Find_The_Smallest_Divisor_Given_A_Threshold.py) |
+| 1351 | Count Negative Numbers in a Sorted Matrix | Binary Search | Matrix Staircase / Binary Search | Easy | [1351_Count_Negative_Numbers_In_A_Sorted_Matrix.py](../06_Binary_Search/1351_Count_Negative_Numbers_In_A_Sorted_Matrix.py) |
+| 1482 | Minimum Number of Days to Make m Bouquets | Binary Search | Binary Search on Answer | Medium | [1482_Minimum_Number_Of_Days_To_Make_M_Bouquets.py](../06_Binary_Search/1482_Minimum_Number_Of_Days_To_Make_M_Bouquets.py) |
+| 1539 | Kth Missing Positive Number | Binary Search | Binary Search (Index Offset) | Easy | [1539_Kth_Missing_Positive_Number.py](../06_Binary_Search/1539_Kth_Missing_Positive_Number.py) |
