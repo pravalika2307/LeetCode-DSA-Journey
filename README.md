@@ -256,3 +256,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 567 | Permutation in String | Medium | Sliding Window (Fixed) + Frequency Array | `O(n)` | `O(1)` | [0567_Permutation_In_String.py](05_Sliding_Window/0567_Permutation_In_String.py) |
 | 643 | Maximum Average Subarray I | Easy | Sliding Window (Fixed) | `O(n)` | `O(1)` | [0643_Maximum_Average_Subarray_I.py](05_Sliding_Window/0643_Maximum_Average_Subarray_I.py) |
 | 713 | Subarray Product Less Than K | Medium | Sliding Window (Variable) | `O(n)` | `O(1)` | [0713_Subarray_Product_Less_Than_K.py](05_Sliding_Window/0713_Subarray_Product_Less_Than_K.py) |
+| 904 | Fruit Into Baskets | Medium | Sliding Window (At Most 2 Distinct) | `O(n)` | `O(1)` | [0904_Fruit_Into_Baskets.py](05_Sliding_Window/0904_Fruit_Into_Baskets.py) |
+| 930 | Binary Subarrays With Sum | Medium | Sliding Window (At Most Goal Difference) | `O(n)` | `O(1)` | [0930_Binary_Subarrays_With_Sum.py](05_Sliding_Window/0930_Binary_Subarrays_With_Sum.py) |
+| 992 | Subarrays with K Different Integers | Hard | Sliding Window (At Most K Difference) | `O(n)` | `O(n)` | [0992_Subarrays_With_K_Different_Integers.py](05_Sliding_Window/0992_Subarrays_With_K_Different_Integers.py) |
+| 1004 | Max Consecutive Ones III | Medium | Sliding Window (Variable) | `O(n)` | `O(1)` | [1004_Max_Consecutive_Ones_III.py](05_Sliding_Window/1004_Max_Consecutive_Ones_III.py) |
+| 1052 | Grumpy Bookstore Owner | Medium | Sliding Window (Fixed) | `O(n)` | `O(1)` | [1052_Grumpy_Bookstore_Owner.py](05_Sliding_Window/1052_Grumpy_Bookstore_Owner.py) |
+| 1208 | Get Equal Substrings Within Budget | Medium | Sliding Window (Variable) | `O(n)` | `O(1)` | [1208_Get_Equal_Substrings_Within_Budget.py](05_Sliding_Window/1208_Get_Equal_Substrings_Within_Budget.py) |
