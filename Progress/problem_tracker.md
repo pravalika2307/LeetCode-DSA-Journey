@@ -132,3 +132,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0167_Two_Sum_II_Input_Array_Is_Sorted.py](../04_Two_Pointers/0167_Two_Sum_II_Input_Array_Is_Sorted.py) |
 | 287 | Find the Duplicate Number | Medium | Two Pointers (Floyd's Cycle Detection) | `O(n)` | `O(1)` | Implemented & Tested | [0287_Find_The_Duplicate_Number.py](../04_Two_Pointers/0287_Find_The_Duplicate_Number.py) |
 | 344 | Reverse String | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0344_Reverse_String.py](../04_Two_Pointers/0344_Reverse_String.py) |
+| 345 | Reverse Vowels of a String | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(n)` | Implemented & Tested | [0345_Reverse_Vowels_Of_A_String.py](../04_Two_Pointers/0345_Reverse_Vowels_Of_A_String.py) |
+| 392 | Is Subsequence | Easy | Two Pointers | `O(n + m)` | `O(1)` | Implemented & Tested | [0392_Is_Subsequence.py](../04_Two_Pointers/0392_Is_Subsequence.py) |
+| 443 | String Compression | Medium | Two Pointers (In-Place) | `O(n)` | `O(1)` | Implemented & Tested | [0443_String_Compression.py](../04_Two_Pointers/0443_String_Compression.py) |
+| 455 | Assign Cookies | Easy | Two Pointers + Greedy Sorting | `O(n log n + m log m)` | `O(1) auxiliary` | Implemented & Tested | [0455_Assign_Cookies.py](../04_Two_Pointers/0455_Assign_Cookies.py) |
