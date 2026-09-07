@@ -24,6 +24,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.minSubArrayLen(7, [2, 3, 1, 2, 4, 3]), 2)
 
+    def test_0220(self):
+        mod = load_solution("05_Sliding_Window/0220_Contains_Duplicate_III.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.containsNearbyAlmostDuplicate([1, 2, 3, 1], 3, 0)); self.assertFalse(sol.containsNearbyAlmostDuplicate([1, 5, 9, 1, 5, 9], 2, 3))
+
 
 
 if __name__ == "__main__":
