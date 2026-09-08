@@ -29,6 +29,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.containsNearbyAlmostDuplicate([1, 2, 3, 1], 3, 0)); self.assertFalse(sol.containsNearbyAlmostDuplicate([1, 5, 9, 1, 5, 9], 2, 3))
 
+    def test_0239(self):
+        mod = load_solution("05_Sliding_Window/0239_Sliding_Window_Maximum.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxSlidingWindow([1, 3, -1, -3, 5, 3, 6, 7], 3), [3, 3, 5, 5, 6, 7])
+
 
 
 if __name__ == "__main__":
