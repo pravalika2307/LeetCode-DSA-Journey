@@ -34,6 +34,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxSlidingWindow([1, 3, -1, -3, 5, 3, 6, 7], 3), [3, 3, 5, 5, 6, 7])
 
+    def test_0340(self):
+        mod = load_solution("05_Sliding_Window/0340_Longest_Substring_With_At_Most_K_Distinct_Characters.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.lengthOfLongestSubstringKDistinct("eceba", 2), 3)
+
 
 
 if __name__ == "__main__":
