@@ -44,6 +44,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.characterReplacement("AABABBA", 1), 4)
 
+    def test_0438(self):
+        mod = load_solution("05_Sliding_Window/0438_Find_All_Anagrams_In_A_String.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findAnagrams("cbaebabacd", "abc"), [0, 6])
+
 
 
 if __name__ == "__main__":
