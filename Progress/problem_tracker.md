@@ -136,3 +136,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 392 | Is Subsequence | Easy | Two Pointers | `O(n + m)` | `O(1)` | Implemented & Tested | [0392_Is_Subsequence.py](../04_Two_Pointers/0392_Is_Subsequence.py) |
 | 443 | String Compression | Medium | Two Pointers (In-Place) | `O(n)` | `O(1)` | Implemented & Tested | [0443_String_Compression.py](../04_Two_Pointers/0443_String_Compression.py) |
 | 455 | Assign Cookies | Easy | Two Pointers + Greedy Sorting | `O(n log n + m log m)` | `O(1) auxiliary` | Implemented & Tested | [0455_Assign_Cookies.py](../04_Two_Pointers/0455_Assign_Cookies.py) |
+| 475 | Heaters | Medium | Two Pointers + Sorting | `O(n log n + m log m)` | `O(1) auxiliary` | Implemented & Tested | [0475_Heaters.py](../04_Two_Pointers/0475_Heaters.py) |
+| 524 | Longest Word in Dictionary through Deleting | Medium | Two Pointers (Subsequence Matching) | `O(d * (n + k))` | `O(1) auxiliary` | Implemented & Tested | [0524_Longest_Word_In_Dictionary_Through_Deleting.py](../04_Two_Pointers/0524_Longest_Word_In_Dictionary_Through_Deleting.py) |
+| 541 | Reverse String II | Easy | Two Pointers | `O(n)` | `O(n)` | Implemented & Tested | [0541_Reverse_String_II.py](../04_Two_Pointers/0541_Reverse_String_II.py) |
+| 557 | Reverse Words in a String III | Easy | Two Pointers | `O(n)` | `O(n)` | Implemented & Tested | [0557_Reverse_Words_In_A_String_III.py](../04_Two_Pointers/0557_Reverse_Words_In_A_String_III.py) |
