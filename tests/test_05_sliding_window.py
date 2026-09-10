@@ -39,6 +39,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.lengthOfLongestSubstringKDistinct("eceba", 2), 3)
 
+    def test_0424(self):
+        mod = load_solution("05_Sliding_Window/0424_Longest_Repeating_Character_Replacement.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.characterReplacement("AABABBA", 1), 4)
+
 
 
 if __name__ == "__main__":
