@@ -49,6 +49,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findAnagrams("cbaebabacd", "abc"), [0, 6])
 
+    def test_0567(self):
+        mod = load_solution("05_Sliding_Window/0567_Permutation_In_String.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.checkInclusion("ab", "eidbaooo"))
+
 
 
 if __name__ == "__main__":
