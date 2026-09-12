@@ -54,6 +54,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.checkInclusion("ab", "eidbaooo"))
 
+    def test_0643(self):
+        mod = load_solution("05_Sliding_Window/0643_Maximum_Average_Subarray_I.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findMaxAverage([1, 12, -5, -6, 50, 3], 4), 12.75)
+
 
 
 if __name__ == "__main__":
