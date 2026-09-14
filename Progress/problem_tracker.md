@@ -140,3 +140,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 524 | Longest Word in Dictionary through Deleting | Medium | Two Pointers (Subsequence Matching) | `O(d * (n + k))` | `O(1) auxiliary` | Implemented & Tested | [0524_Longest_Word_In_Dictionary_Through_Deleting.py](../04_Two_Pointers/0524_Longest_Word_In_Dictionary_Through_Deleting.py) |
 | 541 | Reverse String II | Easy | Two Pointers | `O(n)` | `O(n)` | Implemented & Tested | [0541_Reverse_String_II.py](../04_Two_Pointers/0541_Reverse_String_II.py) |
 | 557 | Reverse Words in a String III | Easy | Two Pointers | `O(n)` | `O(n)` | Implemented & Tested | [0557_Reverse_Words_In_A_String_III.py](../04_Two_Pointers/0557_Reverse_Words_In_A_String_III.py) |
+| 611 | Valid Triangle Number | Medium | Two Pointers + Sorting | `O(n^2)` | `O(1) auxiliary` | Implemented & Tested | [0611_Valid_Triangle_Number.py](../04_Two_Pointers/0611_Valid_Triangle_Number.py) |
+| 633 | Sum of Square Numbers | Medium | Two Pointers (Search Space) | `O(sqrt(c))` | `O(1)` | Implemented & Tested | [0633_Sum_Of_Square_Numbers.py](../04_Two_Pointers/0633_Sum_Of_Square_Numbers.py) |
+| 647 | Palindromic Substrings | Medium | Two Pointers (Expand Around Center) | `O(n^2)` | `O(1)` | Implemented & Tested | [0647_Palindromic_Substrings.py](../04_Two_Pointers/0647_Palindromic_Substrings.py) |
+| 680 | Valid Palindrome II | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0680_Valid_Palindrome_II.py](../04_Two_Pointers/0680_Valid_Palindrome_II.py) |
