@@ -59,6 +59,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findMaxAverage([1, 12, -5, -6, 50, 3], 4), 12.75)
 
+    def test_0713(self):
+        mod = load_solution("05_Sliding_Window/0713_Subarray_Product_Less_Than_K.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numSubarrayProductLessThanK([10, 5, 2, 6], 100), 8)
+
 
 
 if __name__ == "__main__":
