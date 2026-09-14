@@ -64,6 +64,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numSubarrayProductLessThanK([10, 5, 2, 6], 100), 8)
 
+    def test_0904(self):
+        mod = load_solution("05_Sliding_Window/0904_Fruit_Into_Baskets.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.totalFruit([1, 2, 3, 2, 2]), 4)
+
 
 
 if __name__ == "__main__":
