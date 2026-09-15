@@ -69,6 +69,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.totalFruit([1, 2, 3, 2, 2]), 4)
 
+    def test_0930(self):
+        mod = load_solution("05_Sliding_Window/0930_Binary_Subarrays_With_Sum.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numSubarraysWithSum([1, 0, 1, 0, 1], 2), 4)
+
 
 
 if __name__ == "__main__":
