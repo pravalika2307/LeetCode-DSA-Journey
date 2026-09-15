@@ -286,3 +286,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 33 | Search in Rotated Sorted Array | Medium | Binary Search (Rotated Array) | `O(log n)` | `O(1)` | [0033_Search_In_Rotated_Sorted_Array.py](06_Binary_Search/0033_Search_In_Rotated_Sorted_Array.py) |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search (Lower and Upper Bounds) | `O(log n)` | `O(1)` | [0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py](06_Binary_Search/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py) |
 | 35 | Search Insert Position | Easy | Binary Search (Lower Bound) | `O(log n)` | `O(1)` | [0035_Search_Insert_Position.py](06_Binary_Search/0035_Search_Insert_Position.py) |
+| 69 | Sqrt(x) | Easy | Binary Search on Answer | `O(log x)` | `O(1)` | [0069_Sqrt_X.py](06_Binary_Search/0069_Sqrt_X.py) |
+| 74 | Search a 2D Matrix | Medium | Binary Search (2D Matrix) | `O(log(m * n))` | `O(1)` | [0074_Search_A_2D_Matrix.py](06_Binary_Search/0074_Search_A_2D_Matrix.py) |
+| 81 | Search in Rotated Sorted Array II | Medium | Binary Search (Rotated Array with Duplicates) | `O(log n) average, O(n) worst` | `O(1)` | [0081_Search_In_Rotated_Sorted_Array_II.py](06_Binary_Search/0081_Search_In_Rotated_Sorted_Array_II.py) |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search (Rotated Array) | `O(log n)` | `O(1)` | [0153_Find_Minimum_In_Rotated_Sorted_Array.py](06_Binary_Search/0153_Find_Minimum_In_Rotated_Sorted_Array.py) |
+| 154 | Find Minimum in Rotated Sorted Array II | Hard | Binary Search (Rotated Array with Duplicates) | `O(log n) average, O(n) worst` | `O(1)` | [0154_Find_Minimum_In_Rotated_Sorted_Array_II.py](06_Binary_Search/0154_Find_Minimum_In_Rotated_Sorted_Array_II.py) |
+| 162 | Find Peak Element | Medium | Binary Search (Peak Finding) | `O(log n)` | `O(1)` | [0162_Find_Peak_Element.py](06_Binary_Search/0162_Find_Peak_Element.py) |
