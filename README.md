@@ -280,3 +280,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 
 ### Binary Search (36)
 
+| # | Problem | Difficulty | Pattern | Time | Space | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- |
+| 4 | Median of Two Sorted Arrays | Hard | Binary Search (Partitioning) | `O(log(min(m, n)))` | `O(1)` | [0004_Median_Of_Two_Sorted_Arrays.py](06_Binary_Search/0004_Median_Of_Two_Sorted_Arrays.py) |
+| 33 | Search in Rotated Sorted Array | Medium | Binary Search (Rotated Array) | `O(log n)` | `O(1)` | [0033_Search_In_Rotated_Sorted_Array.py](06_Binary_Search/0033_Search_In_Rotated_Sorted_Array.py) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search (Lower and Upper Bounds) | `O(log n)` | `O(1)` | [0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py](06_Binary_Search/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py) |
+| 35 | Search Insert Position | Easy | Binary Search (Lower Bound) | `O(log n)` | `O(1)` | [0035_Search_Insert_Position.py](06_Binary_Search/0035_Search_Insert_Position.py) |
