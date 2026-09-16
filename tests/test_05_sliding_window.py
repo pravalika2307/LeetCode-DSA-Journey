@@ -74,6 +74,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numSubarraysWithSum([1, 0, 1, 0, 1], 2), 4)
 
+    def test_0992(self):
+        mod = load_solution("05_Sliding_Window/0992_Subarrays_With_K_Different_Integers.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.subarraysWithKDistinct([1, 2, 1, 2, 3], 2), 7)
+
 
 
 if __name__ == "__main__":
