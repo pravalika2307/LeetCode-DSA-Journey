@@ -144,3 +144,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 633 | Sum of Square Numbers | Medium | Two Pointers (Search Space) | `O(sqrt(c))` | `O(1)` | Implemented & Tested | [0633_Sum_Of_Square_Numbers.py](../04_Two_Pointers/0633_Sum_Of_Square_Numbers.py) |
 | 647 | Palindromic Substrings | Medium | Two Pointers (Expand Around Center) | `O(n^2)` | `O(1)` | Implemented & Tested | [0647_Palindromic_Substrings.py](../04_Two_Pointers/0647_Palindromic_Substrings.py) |
 | 680 | Valid Palindrome II | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1)` | Implemented & Tested | [0680_Valid_Palindrome_II.py](../04_Two_Pointers/0680_Valid_Palindrome_II.py) |
+| 763 | Partition Labels | Medium | Two Pointers / Greedy Intervals | `O(n)` | `O(1)` | Implemented & Tested | [0763_Partition_Labels.py](../04_Two_Pointers/0763_Partition_Labels.py) |
+| 844 | Backspace String Compare | Easy | Two Pointers (Reverse Scan) | `O(n + m)` | `O(1)` | Implemented & Tested | [0844_Backspace_String_Compare.py](../04_Two_Pointers/0844_Backspace_String_Compare.py) |
+| 881 | Boats to Save People | Medium | Two Pointers + Greedy Sorting | `O(n log n)` | `O(1) auxiliary` | Implemented & Tested | [0881_Boats_To_Save_People.py](../04_Two_Pointers/0881_Boats_To_Save_People.py) |
+| 905 | Sort Array By Parity | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0905_Sort_Array_By_Parity.py](../04_Two_Pointers/0905_Sort_Array_By_Parity.py) |
