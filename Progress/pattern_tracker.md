@@ -156,3 +156,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Binary Search | Binary Search on Answer | Medium | [2064_Minimized_Maximum_Of_Products_Distributed_To_Any_Store.py](../06_Binary_Search/2064_Minimized_Maximum_Of_Products_Distributed_To_Any_Store.py) |
 | 2187 | Minimum Time to Complete Trips | Binary Search | Binary Search on Answer | Medium | [2187_Minimum_Time_To_Complete_Trips.py](../06_Binary_Search/2187_Minimum_Time_To_Complete_Trips.py) |
 | 2300 | Successful Pairs of Spells and Potions | Binary Search | Binary Search + Sorting | Medium | [2300_Successful_Pairs_Of_Spells_And_Potions.py](../06_Binary_Search/2300_Successful_Pairs_Of_Spells_And_Potions.py) |
+
+## Sliding Window (33)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
