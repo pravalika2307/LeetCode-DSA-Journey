@@ -79,6 +79,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.subarraysWithKDistinct([1, 2, 1, 2, 3], 2), 7)
 
+    def test_1004(self):
+        mod = load_solution("05_Sliding_Window/1004_Max_Consecutive_Ones_III.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.longestOnes([1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0], 2), 6)
+
 
 
 if __name__ == "__main__":
