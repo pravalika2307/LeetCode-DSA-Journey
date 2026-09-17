@@ -292,3 +292,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search (Rotated Array) | `O(log n)` | `O(1)` | [0153_Find_Minimum_In_Rotated_Sorted_Array.py](06_Binary_Search/0153_Find_Minimum_In_Rotated_Sorted_Array.py) |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Binary Search (Rotated Array with Duplicates) | `O(log n) average, O(n) worst` | `O(1)` | [0154_Find_Minimum_In_Rotated_Sorted_Array_II.py](06_Binary_Search/0154_Find_Minimum_In_Rotated_Sorted_Array_II.py) |
 | 162 | Find Peak Element | Medium | Binary Search (Peak Finding) | `O(log n)` | `O(1)` | [0162_Find_Peak_Element.py](06_Binary_Search/0162_Find_Peak_Element.py) |
+| 275 | H-Index II | Medium | Binary Search (Index Offset) | `O(log n)` | `O(1)` | [0275_H_Index_II.py](06_Binary_Search/0275_H_Index_II.py) |
+| 278 | First Bad Version | Easy | Binary Search (Lower Bound) | `O(log n)` | `O(1)` | [0278_First_Bad_Version.py](06_Binary_Search/0278_First_Bad_Version.py) |
+| 367 | Valid Perfect Square | Easy | Binary Search on Answer | `O(log num)` | `O(1)` | [0367_Valid_Perfect_Square.py](06_Binary_Search/0367_Valid_Perfect_Square.py) |
+| 374 | Guess Number Higher or Lower | Easy | Binary Search (Classic) | `O(log n)` | `O(1)` | [0374_Guess_Number_Higher_Or_Lower.py](06_Binary_Search/0374_Guess_Number_Higher_Or_Lower.py) |
+| 410 | Split Array Largest Sum | Hard | Binary Search on Answer | `O(n log(sum(nums)))` | `O(1)` | [0410_Split_Array_Largest_Sum.py](06_Binary_Search/0410_Split_Array_Largest_Sum.py) |
+| 441 | Arranging Coins | Easy | Binary Search on Answer | `O(log n)` | `O(1)` | [0441_Arranging_Coins.py](06_Binary_Search/0441_Arranging_Coins.py) |
