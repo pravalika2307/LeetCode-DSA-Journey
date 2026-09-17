@@ -84,6 +84,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.longestOnes([1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0], 2), 6)
 
+    def test_1052(self):
+        mod = load_solution("05_Sliding_Window/1052_Grumpy_Bookstore_Owner.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxSatisfied([1, 0, 1, 2, 1, 1, 7, 5], [0, 1, 0, 1, 0, 1, 0, 1], 3), 16)
+
 
 
 if __name__ == "__main__":
