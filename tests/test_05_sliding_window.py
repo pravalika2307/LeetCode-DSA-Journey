@@ -89,6 +89,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxSatisfied([1, 0, 1, 2, 1, 1, 7, 5], [0, 1, 0, 1, 0, 1, 0, 1], 3), 16)
 
+    def test_1208(self):
+        mod = load_solution("05_Sliding_Window/1208_Get_Equal_Substrings_Within_Budget.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.equalSubstring("abcd", "bcdf", 3), 3)
+
 
 
 if __name__ == "__main__":
