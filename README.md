@@ -298,3 +298,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 374 | Guess Number Higher or Lower | Easy | Binary Search (Classic) | `O(log n)` | `O(1)` | [0374_Guess_Number_Higher_Or_Lower.py](06_Binary_Search/0374_Guess_Number_Higher_Or_Lower.py) |
 | 410 | Split Array Largest Sum | Hard | Binary Search on Answer | `O(n log(sum(nums)))` | `O(1)` | [0410_Split_Array_Largest_Sum.py](06_Binary_Search/0410_Split_Array_Largest_Sum.py) |
 | 441 | Arranging Coins | Easy | Binary Search on Answer | `O(log n)` | `O(1)` | [0441_Arranging_Coins.py](06_Binary_Search/0441_Arranging_Coins.py) |
+| 540 | Single Element in a Sorted Array | Medium | Binary Search (Index Parity) | `O(log n)` | `O(1)` | [0540_Single_Element_In_A_Sorted_Array.py](06_Binary_Search/0540_Single_Element_In_A_Sorted_Array.py) |
+| 658 | Find K Closest Elements | Medium | Binary Search (Window Start Search) | `O(log(n - k) + k)` | `O(1) auxiliary` | [0658_Find_K_Closest_Elements.py](06_Binary_Search/0658_Find_K_Closest_Elements.py) |
+| 668 | Kth Smallest Number in Multiplication Table | Hard | Binary Search on Answer | `O(m log(m * n))` | `O(1)` | [0668_Kth_Smallest_Number_In_Multiplication_Table.py](06_Binary_Search/0668_Kth_Smallest_Number_In_Multiplication_Table.py) |
+| 704 | Binary Search | Easy | Binary Search (Classic) | `O(log n)` | `O(1)` | [0704_Binary_Search.py](06_Binary_Search/0704_Binary_Search.py) |
+| 744 | Find Smallest Letter Greater Than Target | Easy | Binary Search (Upper Bound) | `O(log n)` | `O(1)` | [0744_Find_Smallest_Letter_Greater_Than_Target.py](06_Binary_Search/0744_Find_Smallest_Letter_Greater_Than_Target.py) |
+| 852 | Peak Index in a Mountain Array | Medium | Binary Search (Mountain Array) | `O(log n)` | `O(1)` | [0852_Peak_Index_In_A_Mountain_Array.py](06_Binary_Search/0852_Peak_Index_In_A_Mountain_Array.py) |
