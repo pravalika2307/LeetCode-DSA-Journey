@@ -94,6 +94,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.equalSubstring("abcd", "bcdf", 3), 3)
 
+    def test_1248(self):
+        mod = load_solution("05_Sliding_Window/1248_Count_Number_Of_Nice_Subarrays.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numberOfSubarrays([1, 1, 2, 1, 1], 3), 2)
+
 
 
 if __name__ == "__main__":
