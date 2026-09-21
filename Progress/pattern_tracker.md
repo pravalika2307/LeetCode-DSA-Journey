@@ -160,3 +160,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 ## Sliding Window (33)
 
 | # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 3 | Longest Substring Without Repeating Characters | Sliding Window | Sliding Window (Variable) + Hash Map | Medium | [0003_Longest_Substring_Without_Repeating_Characters.py](../05_Sliding_Window/0003_Longest_Substring_Without_Repeating_Characters.py) |
+| 30 | Substring with Concatenation of All Words | Sliding Window | Sliding Window (Word-Length Offset) + Hash Map | Hard | [0030_Substring_With_Concatenation_Of_All_Words.py](../05_Sliding_Window/0030_Substring_With_Concatenation_Of_All_Words.py) |
+| 76 | Minimum Window Substring | Sliding Window | Sliding Window (Variable) + Hash Map | Hard | [0076_Minimum_Window_Substring.py](../05_Sliding_Window/0076_Minimum_Window_Substring.py) |
