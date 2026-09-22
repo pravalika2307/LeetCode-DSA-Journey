@@ -104,6 +104,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numOfSubarrays([2, 2, 2, 2, 5, 5, 5, 8], 3, 4), 3)
 
+    def test_1358(self):
+        mod = load_solution("05_Sliding_Window/1358_Number_Of_Substrings_Containing_All_Three_Characters.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.numberOfSubstrings("abcabc"), 10)
+
 
 
 if __name__ == "__main__":
