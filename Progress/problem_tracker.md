@@ -148,3 +148,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 844 | Backspace String Compare | Easy | Two Pointers (Reverse Scan) | `O(n + m)` | `O(1)` | Implemented & Tested | [0844_Backspace_String_Compare.py](../04_Two_Pointers/0844_Backspace_String_Compare.py) |
 | 881 | Boats to Save People | Medium | Two Pointers + Greedy Sorting | `O(n log n)` | `O(1) auxiliary` | Implemented & Tested | [0881_Boats_To_Save_People.py](../04_Two_Pointers/0881_Boats_To_Save_People.py) |
 | 905 | Sort Array By Parity | Easy | Two Pointers (Opposite Ends) | `O(n)` | `O(1) auxiliary` | Implemented & Tested | [0905_Sort_Array_By_Parity.py](../04_Two_Pointers/0905_Sort_Array_By_Parity.py) |
+| 1793 | Maximum Score of a Good Subarray | Hard | Two Pointers (Greedy Expansion) | `O(n)` | `O(1)` | Implemented & Tested | [1793_Maximum_Score_Of_A_Good_Subarray.py](../04_Two_Pointers/1793_Maximum_Score_Of_A_Good_Subarray.py) |
+
+## Sliding Window (`05_Sliding_Window/`) — 33 Problems
+*Easy: 3 | Medium: 23 | Hard: 7*
