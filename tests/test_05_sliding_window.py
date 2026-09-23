@@ -109,6 +109,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.numberOfSubstrings("abcabc"), 10)
 
+    def test_1423(self):
+        mod = load_solution("05_Sliding_Window/1423_Maximum_Points_You_Can_Obtain_From_Cards.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxScore([1, 2, 3, 4, 5, 6, 1], 3), 12)
+
 
 
 if __name__ == "__main__":
