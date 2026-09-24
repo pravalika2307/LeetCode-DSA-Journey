@@ -114,6 +114,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxScore([1, 2, 3, 4, 5, 6, 1], 3), 12)
 
+    def test_1438(self):
+        mod = load_solution("05_Sliding_Window/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_Or_Equal_To_Limit.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.longestSubarray([8, 2, 4, 7], 4), 2)
+
 
 
 if __name__ == "__main__":
