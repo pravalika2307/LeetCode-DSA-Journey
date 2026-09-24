@@ -119,6 +119,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.longestSubarray([8, 2, 4, 7], 4), 2)
 
+    def test_1456(self):
+        mod = load_solution("05_Sliding_Window/1456_Maximum_Number_Of_Vowels_In_A_Substring_Of_Given_Length.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxVowels("abciiidef", 3), 3)
+
 
 
 if __name__ == "__main__":
