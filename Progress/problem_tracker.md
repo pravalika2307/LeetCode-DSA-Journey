@@ -152,3 +152,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 
 ## Sliding Window (`05_Sliding_Window/`) — 33 Problems
 *Easy: 3 | Medium: 23 | Hard: 7*
+
+| # | Title | Difficulty | Pattern | Time | Space | Status | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window (Variable) + Hash Map | `O(n)` | `O(min(n, m))` | Implemented & Tested | [0003_Longest_Substring_Without_Repeating_Characters.py](../05_Sliding_Window/0003_Longest_Substring_Without_Repeating_Characters.py) |
