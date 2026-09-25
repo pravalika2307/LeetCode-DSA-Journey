@@ -124,6 +124,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxVowels("abciiidef", 3), 3)
 
+    def test_1493(self):
+        mod = load_solution("05_Sliding_Window/1493_Longest_Subarray_Of_1s_After_Deleting_One_Element.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.longestSubarray([1, 1, 0, 1]), 3); self.assertEqual(sol.longestSubarray([1, 1, 1]), 2)
+
 
 
 if __name__ == "__main__":
