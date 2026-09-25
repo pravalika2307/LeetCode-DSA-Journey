@@ -316,3 +316,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 1898 | Maximum Number of Removable Characters | Medium | Binary Search on Answer + Two Pointers | `O((|s| + |removable|) * log |removable|)` | `O(|removable|)` | [1898_Maximum_Number_Of_Removable_Characters.py](06_Binary_Search/1898_Maximum_Number_Of_Removable_Characters.py) |
 | 1901 | Find a Peak Element II | Medium | Binary Search (2D Matrix Column Search) | `O(m log n)` | `O(1)` | [1901_Find_A_Peak_Element_II.py](06_Binary_Search/1901_Find_A_Peak_Element_II.py) |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search on Answer | `O(m log(max(quantities)))` | `O(1)` | [2064_Minimized_Maximum_Of_Products_Distributed_To_Any_Store.py](06_Binary_Search/2064_Minimized_Maximum_Of_Products_Distributed_To_Any_Store.py) |
+| 2187 | Minimum Time to Complete Trips | Medium | Binary Search on Answer | `O(n log(min(time) * totalTrips))` | `O(1)` | [2187_Minimum_Time_To_Complete_Trips.py](06_Binary_Search/2187_Minimum_Time_To_Complete_Trips.py) |
+| 2300 | Successful Pairs of Spells and Potions | Medium | Binary Search + Sorting | `O((n + m) log m)` | `O(1) auxiliary` | [2300_Successful_Pairs_Of_Spells_And_Potions.py](06_Binary_Search/2300_Successful_Pairs_Of_Spells_And_Potions.py) |
+
+### Linked List (24)
+
+| # | Problem | Difficulty | Pattern | Time | Space | Solution |
