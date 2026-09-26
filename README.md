@@ -322,3 +322,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 ### Linked List (24)
 
 | # | Problem | Difficulty | Pattern | Time | Space | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- |
+| 2 | Add Two Numbers | Medium | Linked List Traversal / Carry Math | `O(max(m, n))` | `O(max(m, n))` | [0002_Add_Two_Numbers.py](07_Linked_List/0002_Add_Two_Numbers.py) |
+| 19 | Remove Nth Node From End of List | Medium | Linked List Two Pointers (Fast & Slow) | `O(n)` | `O(1)` | [0019_Remove_Nth_Node_From_End_Of_List.py](07_Linked_List/0019_Remove_Nth_Node_From_End_Of_List.py) |
+| 21 | Merge Two Sorted Lists | Easy | Linked List Two Pointers | `O(m + n)` | `O(1)` | [0021_Merge_Two_Sorted_Lists.py](07_Linked_List/0021_Merge_Two_Sorted_Lists.py) |
+| 23 | Merge k Sorted Lists | Hard | Linked List Divide and Conquer | `O(N log k)` | `O(log k)` | [0023_Merge_K_Sorted_Lists.py](07_Linked_List/0023_Merge_K_Sorted_Lists.py) |
+| 24 | Swap Nodes in Pairs | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | [0024_Swap_Nodes_In_Pairs.py](07_Linked_List/0024_Swap_Nodes_In_Pairs.py) |
