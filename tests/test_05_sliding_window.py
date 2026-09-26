@@ -129,6 +129,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.longestSubarray([1, 1, 0, 1]), 3); self.assertEqual(sol.longestSubarray([1, 1, 1]), 2)
 
+    def test_1658(self):
+        mod = load_solution("05_Sliding_Window/1658_Minimum_Operations_To_Reduce_X_To_Zero.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.minOperations([1, 1, 4, 2, 3], 5), 2)
+
 
 
 if __name__ == "__main__":
