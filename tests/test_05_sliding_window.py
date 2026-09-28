@@ -134,6 +134,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.minOperations([1, 1, 4, 2, 3], 5), 2)
 
+    def test_1695(self):
+        mod = load_solution("05_Sliding_Window/1695_Maximum_Erasure_Value.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maximumUniqueSubarray([4, 2, 4, 5, 6]), 17)
+
 
 
 if __name__ == "__main__":
