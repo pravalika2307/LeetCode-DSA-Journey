@@ -156,3 +156,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | # | Title | Difficulty | Pattern | Time | Space | Status | Solution |
 | :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window (Variable) + Hash Map | `O(n)` | `O(min(n, m))` | Implemented & Tested | [0003_Longest_Substring_Without_Repeating_Characters.py](../05_Sliding_Window/0003_Longest_Substring_Without_Repeating_Characters.py) |
+| 30 | Substring with Concatenation of All Words | Hard | Sliding Window (Word-Length Offset) + Hash Map | `O(n * word_len)` | `O(k * word_len)` | Implemented & Tested | [0030_Substring_With_Concatenation_Of_All_Words.py](../05_Sliding_Window/0030_Substring_With_Concatenation_Of_All_Words.py) |
+| 76 | Minimum Window Substring | Hard | Sliding Window (Variable) + Hash Map | `O(n + m)` | `O(m)` | Implemented & Tested | [0076_Minimum_Window_Substring.py](../05_Sliding_Window/0076_Minimum_Window_Substring.py) |
+| 209 | Minimum Size Subarray Sum | Medium | Sliding Window (Variable) | `O(n)` | `O(1)` | Implemented & Tested | [0209_Minimum_Size_Subarray_Sum.py](../05_Sliding_Window/0209_Minimum_Size_Subarray_Sum.py) |
+| 220 | Contains Duplicate III | Hard | Sliding Window + Bucketing | `O(n)` | `O(min(n, indexDiff))` | Implemented & Tested | [0220_Contains_Duplicate_III.py](../05_Sliding_Window/0220_Contains_Duplicate_III.py) |
