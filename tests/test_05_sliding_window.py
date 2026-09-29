@@ -139,6 +139,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maximumUniqueSubarray([4, 2, 4, 5, 6]), 17)
 
+    def test_1838(self):
+        mod = load_solution("05_Sliding_Window/1838_Frequency_Of_The_Most_Frequent_Element.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxFrequency([1, 2, 4], 5), 3)
+
 
 
 if __name__ == "__main__":
