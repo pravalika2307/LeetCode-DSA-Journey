@@ -334,3 +334,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 83 | Remove Duplicates from Sorted List | Easy | Linked List Traversal | `O(n)` | `O(1)` | [0083_Remove_Duplicates_From_Sorted_List.py](07_Linked_List/0083_Remove_Duplicates_From_Sorted_List.py) |
 | 86 | Partition List | Medium | Linked List Two-List Partitioning | `O(n)` | `O(1)` | [0086_Partition_List.py](07_Linked_List/0086_Partition_List.py) |
 | 92 | Reverse Linked List II | Medium | Linked List In-Place Sublist Reversal | `O(n)` | `O(1)` | [0092_Reverse_Linked_List_II.py](07_Linked_List/0092_Reverse_Linked_List_II.py) |
+| 141 | Linked List Cycle | Easy | Linked List Two Pointers (Fast & Slow) | `O(n)` | `O(1)` | [0141_Linked_List_Cycle.py](07_Linked_List/0141_Linked_List_Cycle.py) |
+| 142 | Linked List Cycle II | Medium | Linked List Floyd's Cycle Detection | `O(n)` | `O(1)` | [0142_Linked_List_Cycle_II.py](07_Linked_List/0142_Linked_List_Cycle_II.py) |
+| 143 | Reorder List | Medium | Linked List Fast & Slow + Reversal + Merge | `O(n)` | `O(1)` | [0143_Reorder_List.py](07_Linked_List/0143_Reorder_List.py) |
+| 148 | Sort List | Medium | Linked List Merge Sort | `O(n log n)` | `O(log n)` | [0148_Sort_List.py](07_Linked_List/0148_Sort_List.py) |
+| 160 | Intersection of Two Linked Lists | Easy | Linked List Two Pointers | `O(m + n)` | `O(1)` | [0160_Intersection_Of_Two_Linked_Lists.py](07_Linked_List/0160_Intersection_Of_Two_Linked_Lists.py) |
+| 203 | Remove Linked List Elements | Easy | Linked List Traversal (Dummy Head) | `O(n)` | `O(1)` | [0203_Remove_Linked_List_Elements.py](07_Linked_List/0203_Remove_Linked_List_Elements.py) |
