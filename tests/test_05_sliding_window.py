@@ -149,6 +149,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.countGoodSubstrings("xyzzaz"), 1)
 
+    def test_2269(self):
+        mod = load_solution("05_Sliding_Window/2269_Find_The_K_Beauty_Of_A_Number.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.divisorSubstrings(240, 2), 2)
+
 
 
 if __name__ == "__main__":
