@@ -328,3 +328,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 21 | Merge Two Sorted Lists | Easy | Linked List Two Pointers | `O(m + n)` | `O(1)` | [0021_Merge_Two_Sorted_Lists.py](07_Linked_List/0021_Merge_Two_Sorted_Lists.py) |
 | 23 | Merge k Sorted Lists | Hard | Linked List Divide and Conquer | `O(N log k)` | `O(log k)` | [0023_Merge_K_Sorted_Lists.py](07_Linked_List/0023_Merge_K_Sorted_Lists.py) |
 | 24 | Swap Nodes in Pairs | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | [0024_Swap_Nodes_In_Pairs.py](07_Linked_List/0024_Swap_Nodes_In_Pairs.py) |
+| 25 | Reverse Nodes in k-Group | Hard | Linked List In-Place Group Reversal | `O(n)` | `O(1)` | [0025_Reverse_Nodes_In_K_Group.py](07_Linked_List/0025_Reverse_Nodes_In_K_Group.py) |
+| 61 | Rotate List | Medium | Linked List Cycle / Length Modulo | `O(n)` | `O(1)` | [0061_Rotate_List.py](07_Linked_List/0061_Rotate_List.py) |
+| 82 | Remove Duplicates from Sorted List II | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | [0082_Remove_Duplicates_From_Sorted_List_II.py](07_Linked_List/0082_Remove_Duplicates_From_Sorted_List_II.py) |
+| 83 | Remove Duplicates from Sorted List | Easy | Linked List Traversal | `O(n)` | `O(1)` | [0083_Remove_Duplicates_From_Sorted_List.py](07_Linked_List/0083_Remove_Duplicates_From_Sorted_List.py) |
+| 86 | Partition List | Medium | Linked List Two-List Partitioning | `O(n)` | `O(1)` | [0086_Partition_List.py](07_Linked_List/0086_Partition_List.py) |
+| 92 | Reverse Linked List II | Medium | Linked List In-Place Sublist Reversal | `O(n)` | `O(1)` | [0092_Reverse_Linked_List_II.py](07_Linked_List/0092_Reverse_Linked_List_II.py) |
