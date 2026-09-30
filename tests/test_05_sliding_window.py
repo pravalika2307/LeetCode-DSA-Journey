@@ -144,6 +144,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxFrequency([1, 2, 4], 5), 3)
 
+    def test_1876(self):
+        mod = load_solution("05_Sliding_Window/1876_Substrings_Of_Size_Three_With_Distinct_Characters.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.countGoodSubstrings("xyzzaz"), 1)
+
 
 
 if __name__ == "__main__":
