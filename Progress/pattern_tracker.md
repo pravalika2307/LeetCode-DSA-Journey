@@ -172,3 +172,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 438 | Find All Anagrams in a String | Sliding Window | Sliding Window (Fixed) + Frequency Array | Medium | [0438_Find_All_Anagrams_In_A_String.py](../05_Sliding_Window/0438_Find_All_Anagrams_In_A_String.py) |
 | 567 | Permutation in String | Sliding Window | Sliding Window (Fixed) + Frequency Array | Medium | [0567_Permutation_In_String.py](../05_Sliding_Window/0567_Permutation_In_String.py) |
 | 643 | Maximum Average Subarray I | Sliding Window | Sliding Window (Fixed) | Easy | [0643_Maximum_Average_Subarray_I.py](../05_Sliding_Window/0643_Maximum_Average_Subarray_I.py) |
+| 713 | Subarray Product Less Than K | Sliding Window | Sliding Window (Variable) | Medium | [0713_Subarray_Product_Less_Than_K.py](../05_Sliding_Window/0713_Subarray_Product_Less_Than_K.py) |
+| 904 | Fruit Into Baskets | Sliding Window | Sliding Window (At Most 2 Distinct) | Medium | [0904_Fruit_Into_Baskets.py](../05_Sliding_Window/0904_Fruit_Into_Baskets.py) |
+| 930 | Binary Subarrays With Sum | Sliding Window | Sliding Window (At Most Goal Difference) | Medium | [0930_Binary_Subarrays_With_Sum.py](../05_Sliding_Window/0930_Binary_Subarrays_With_Sum.py) |
+| 992 | Subarrays with K Different Integers | Sliding Window | Sliding Window (At Most K Difference) | Hard | [0992_Subarrays_With_K_Different_Integers.py](../05_Sliding_Window/0992_Subarrays_With_K_Different_Integers.py) |
