@@ -159,6 +159,11 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.countSubarrays([2, 1, 4, 3, 5], 10), 6)
 
+    def test_2444(self):
+        mod = load_solution("05_Sliding_Window/2444_Count_Subarrays_With_Fixed_Bounds.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.countSubarrays([1, 3, 5, 2, 7, 5], 1, 5), 2)
+
 
 
 if __name__ == "__main__":
