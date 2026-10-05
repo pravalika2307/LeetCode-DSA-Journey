@@ -164,6 +164,10 @@ class TestSlidingWindow(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.countSubarrays([1, 3, 5, 2, 7, 5], 1, 5), 2)
 
+    def test_2958(self):
+        mod = load_solution("05_Sliding_Window/2958_Length_Of_Longest_Subarray_With_At_Most_K_Frequency.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxSubarrayLength([1, 2, 3, 1, 2, 3, 1, 2], 2), 6)
 
 
 if __name__ == "__main__":
