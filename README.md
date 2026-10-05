@@ -340,3 +340,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 148 | Sort List | Medium | Linked List Merge Sort | `O(n log n)` | `O(log n)` | [0148_Sort_List.py](07_Linked_List/0148_Sort_List.py) |
 | 160 | Intersection of Two Linked Lists | Easy | Linked List Two Pointers | `O(m + n)` | `O(1)` | [0160_Intersection_Of_Two_Linked_Lists.py](07_Linked_List/0160_Intersection_Of_Two_Linked_Lists.py) |
 | 203 | Remove Linked List Elements | Easy | Linked List Traversal (Dummy Head) | `O(n)` | `O(1)` | [0203_Remove_Linked_List_Elements.py](07_Linked_List/0203_Remove_Linked_List_Elements.py) |
+| 206 | Reverse Linked List | Easy | Linked List Iterative Pointer Reversal | `O(n)` | `O(1)` | [0206_Reverse_Linked_List.py](07_Linked_List/0206_Reverse_Linked_List.py) |
+| 234 | Palindrome Linked List | Easy | Linked List Fast & Slow + Reversal | `O(n)` | `O(1)` | [0234_Palindrome_Linked_List.py](07_Linked_List/0234_Palindrome_Linked_List.py) |
+| 237 | Delete Node in a Linked List | Medium | Linked List Pointer Manipulation | `O(1)` | `O(1)` | [0237_Delete_Node_In_A_Linked_List.py](07_Linked_List/0237_Delete_Node_In_A_Linked_List.py) |
+| 328 | Odd Even Linked List | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | [0328_Odd_Even_Linked_List.py](07_Linked_List/0328_Odd_Even_Linked_List.py) |
+| 445 | Add Two Numbers II | Medium | Linked List + Stack Math | `O(m + n)` | `O(m + n)` | [0445_Add_Two_Numbers_II.py](07_Linked_List/0445_Add_Two_Numbers_II.py) |
+| 876 | Middle of the Linked List | Easy | Linked List Two Pointers (Fast & Slow) | `O(n)` | `O(1)` | [0876_Middle_Of_The_Linked_List.py](07_Linked_List/0876_Middle_Of_The_Linked_List.py) |
