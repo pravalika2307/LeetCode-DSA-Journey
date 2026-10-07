@@ -346,3 +346,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 | 328 | Odd Even Linked List | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | [0328_Odd_Even_Linked_List.py](07_Linked_List/0328_Odd_Even_Linked_List.py) |
 | 445 | Add Two Numbers II | Medium | Linked List + Stack Math | `O(m + n)` | `O(m + n)` | [0445_Add_Two_Numbers_II.py](07_Linked_List/0445_Add_Two_Numbers_II.py) |
 | 876 | Middle of the Linked List | Easy | Linked List Two Pointers (Fast & Slow) | `O(n)` | `O(1)` | [0876_Middle_Of_The_Linked_List.py](07_Linked_List/0876_Middle_Of_The_Linked_List.py) |
+| 1290 | Convert Binary Number in a Linked List to Integer | Easy | Linked List Traversal / Bit Manipulation | `O(n)` | `O(1)` | [1290_Convert_Binary_Number_In_A_Linked_List_To_Integer.py](07_Linked_List/1290_Convert_Binary_Number_In_A_Linked_List_To_Integer.py) |
+
+---
+
+## Running Tests
+
