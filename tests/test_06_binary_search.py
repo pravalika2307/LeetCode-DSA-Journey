@@ -9,6 +9,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findMedianSortedArrays([1, 3], [2]), 2.0); self.assertEqual(sol.findMedianSortedArrays([1, 2], [3, 4]), 2.5)
 
+    def test_0033(self):
+        mod = load_solution("06_Binary_Search/0033_Search_In_Rotated_Sorted_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.search([4, 5, 6, 7, 0, 1, 2], 0), 4)
+
 
 
 if __name__ == "__main__":
