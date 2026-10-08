@@ -14,6 +14,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.search([4, 5, 6, 7, 0, 1, 2], 0), 4)
 
+    def test_0034(self):
+        mod = load_solution("06_Binary_Search/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.searchRange([5, 7, 7, 8, 8, 10], 8), [3, 4])
+
 
 
 if __name__ == "__main__":
