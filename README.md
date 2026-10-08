@@ -352,3 +352,9 @@ Every solution uses the official LeetCode `class Solution` format with documente
 
 ## Running Tests
 
+```bash
+python -m unittest discover -s tests
+```
+
+---
+
