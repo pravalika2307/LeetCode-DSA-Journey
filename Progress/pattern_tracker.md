@@ -176,3 +176,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 904 | Fruit Into Baskets | Sliding Window | Sliding Window (At Most 2 Distinct) | Medium | [0904_Fruit_Into_Baskets.py](../05_Sliding_Window/0904_Fruit_Into_Baskets.py) |
 | 930 | Binary Subarrays With Sum | Sliding Window | Sliding Window (At Most Goal Difference) | Medium | [0930_Binary_Subarrays_With_Sum.py](../05_Sliding_Window/0930_Binary_Subarrays_With_Sum.py) |
 | 992 | Subarrays with K Different Integers | Sliding Window | Sliding Window (At Most K Difference) | Hard | [0992_Subarrays_With_K_Different_Integers.py](../05_Sliding_Window/0992_Subarrays_With_K_Different_Integers.py) |
+| 1004 | Max Consecutive Ones III | Sliding Window | Sliding Window (Variable) | Medium | [1004_Max_Consecutive_Ones_III.py](../05_Sliding_Window/1004_Max_Consecutive_Ones_III.py) |
+| 1052 | Grumpy Bookstore Owner | Sliding Window | Sliding Window (Fixed) | Medium | [1052_Grumpy_Bookstore_Owner.py](../05_Sliding_Window/1052_Grumpy_Bookstore_Owner.py) |
+| 1208 | Get Equal Substrings Within Budget | Sliding Window | Sliding Window (Variable) | Medium | [1208_Get_Equal_Substrings_Within_Budget.py](../05_Sliding_Window/1208_Get_Equal_Substrings_Within_Budget.py) |
+| 1248 | Count Number of Nice Subarrays | Sliding Window | Sliding Window (At Most K Difference) | Medium | [1248_Count_Number_Of_Nice_Subarrays.py](../05_Sliding_Window/1248_Count_Number_Of_Nice_Subarrays.py) |
