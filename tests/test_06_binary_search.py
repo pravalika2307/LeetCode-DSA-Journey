@@ -24,6 +24,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.searchInsert([1, 3, 5, 6], 5), 2); self.assertEqual(sol.searchInsert([1, 3, 5, 6], 2), 1)
 
+    def test_0069(self):
+        mod = load_solution("06_Binary_Search/0069_Sqrt_X.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.mySqrt(8), 2); self.assertEqual(sol.mySqrt(0), 0)
+
 
 
 if __name__ == "__main__":
