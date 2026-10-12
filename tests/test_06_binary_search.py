@@ -34,6 +34,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.searchMatrix([[1, 3, 5, 7], [10, 11, 16, 20], [23, 30, 34, 60]], 3))
 
+    def test_0081(self):
+        mod = load_solution("06_Binary_Search/0081_Search_In_Rotated_Sorted_Array_II.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.search([2, 5, 6, 0, 0, 1, 2], 0)); self.assertFalse(sol.search([2, 5, 6, 0, 0, 1, 2], 3))
+
 
 
 if __name__ == "__main__":
