@@ -29,6 +29,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.mySqrt(8), 2); self.assertEqual(sol.mySqrt(0), 0)
 
+    def test_0074(self):
+        mod = load_solution("06_Binary_Search/0074_Search_A_2D_Matrix.py")
+        sol = mod.Solution()
+        self.assertTrue(sol.searchMatrix([[1, 3, 5, 7], [10, 11, 16, 20], [23, 30, 34, 60]], 3))
+
 
 
 if __name__ == "__main__":
