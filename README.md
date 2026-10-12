@@ -358,3 +358,9 @@ python -m unittest discover -s tests
 
 ---
 
+## Tech Stack
+
+- **Language:** Python 3
+- **Testing:** Python `unittest`
+- **Version Control:** Git
+- **Hosting:** GitHub
