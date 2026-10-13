@@ -1,0 +1,24 @@
+# LeetCode: 154
+# Title: Find Minimum in Rotated Sorted Array II
+# Difficulty: Hard
+# Pattern: Binary Search (Rotated Array with Duplicates)
+# Time Complexity: O(log n) average, O(n) worst
+# Space Complexity: O(1)
+
+from typing import List
+
+
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        left, right = 0, len(nums) - 1
+
+        while left < right:
+            mid = left + (right - left) // 2
+            if nums[mid] > nums[right]:
+                left = mid + 1
+            elif nums[mid] < nums[right]:
+                right = mid
+            else:
+                right -= 1
+
+        return nums[left]
