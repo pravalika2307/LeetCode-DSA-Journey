@@ -364,3 +364,9 @@ python -m unittest discover -s tests
 - **Testing:** Python `unittest`
 - **Version Control:** Git
 - **Hosting:** GitHub
+
+---
+
+## Future Goals
+
+Upcoming topics initialized in this repository for continued practice:
