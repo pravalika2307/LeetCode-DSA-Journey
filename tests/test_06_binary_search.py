@@ -39,6 +39,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.search([2, 5, 6, 0, 0, 1, 2], 0)); self.assertFalse(sol.search([2, 5, 6, 0, 0, 1, 2], 3))
 
+    def test_0153(self):
+        mod = load_solution("06_Binary_Search/0153_Find_Minimum_In_Rotated_Sorted_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findMin([3, 4, 5, 1, 2]), 1)
+
 
 
 if __name__ == "__main__":
