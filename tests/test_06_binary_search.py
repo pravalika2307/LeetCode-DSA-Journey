@@ -49,6 +49,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findMin([2, 2, 2, 0, 1]), 0)
 
+    def test_0162(self):
+        mod = load_solution("06_Binary_Search/0162_Find_Peak_Element.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findPeakElement([1, 2, 3, 1]), 2)
+
 
 
 if __name__ == "__main__":
