@@ -370,3 +370,9 @@ python -m unittest discover -s tests
 ## Future Goals
 
 Upcoming topics initialized in this repository for continued practice:
+- **Strings (Dedicated Algorithms)** ([`02_Strings/`](02_Strings/))
+- **Stack & Queue** ([`08_Stack_Queue/`](08_Stack_Queue/))
+- **Trees & Tries** ([`09_Trees/`](09_Trees/))
+- **Heap / Priority Queue** ([`10_Heap/`](10_Heap/))
+- **Backtracking** ([`11_Backtracking/`](11_Backtracking/))
+- **Graphs** ([`12_Graphs/`](12_Graphs/))
