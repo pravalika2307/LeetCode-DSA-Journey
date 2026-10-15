@@ -54,6 +54,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findPeakElement([1, 2, 3, 1]), 2)
 
+    def test_0275(self):
+        mod = load_solution("06_Binary_Search/0275_H_Index_II.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.hIndex([0, 1, 3, 5, 6]), 3)
+
 
 
 if __name__ == "__main__":
