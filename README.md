@@ -376,3 +376,8 @@ Upcoming topics initialized in this repository for continued practice:
 - **Heap / Priority Queue** ([`10_Heap/`](10_Heap/))
 - **Backtracking** ([`11_Backtracking/`](11_Backtracking/))
 - **Graphs** ([`12_Graphs/`](12_Graphs/))
+- **Dynamic Programming** ([`13_Dynamic_Programming/`](13_Dynamic_Programming/))
+- **Greedy** ([`14_Greedy/`](14_Greedy/))
+
+---
+
