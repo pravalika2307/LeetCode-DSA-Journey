@@ -59,6 +59,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.hIndex([0, 1, 3, 5, 6]), 3)
 
+    def test_0278(self):
+        mod = load_solution("06_Binary_Search/0278_First_Bad_Version.py")
+        sol = mod.Solution()
+        mod.isBadVersion = lambda v: v >= 4; self.assertEqual(sol.firstBadVersion(5), 4)
+
 
 
 if __name__ == "__main__":
