@@ -69,6 +69,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.isPerfectSquare(16)); self.assertFalse(sol.isPerfectSquare(14))
 
+    def test_0374(self):
+        mod = load_solution("06_Binary_Search/0374_Guess_Number_Higher_Or_Lower.py")
+        sol = mod.Solution()
+        mod.guess = lambda x: 0 if x == 6 else (-1 if x > 6 else 1); self.assertEqual(sol.guessNumber(10), 6)
+
 
 
 if __name__ == "__main__":
