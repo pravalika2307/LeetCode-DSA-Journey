@@ -74,6 +74,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         mod.guess = lambda x: 0 if x == 6 else (-1 if x > 6 else 1); self.assertEqual(sol.guessNumber(10), 6)
 
+    def test_0410(self):
+        mod = load_solution("06_Binary_Search/0410_Split_Array_Largest_Sum.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.splitArray([7, 2, 5, 10, 8], 2), 18)
+
 
 
 if __name__ == "__main__":
