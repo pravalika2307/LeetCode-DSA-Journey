@@ -79,6 +79,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.splitArray([7, 2, 5, 10, 8], 2), 18)
 
+    def test_0441(self):
+        mod = load_solution("06_Binary_Search/0441_Arranging_Coins.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.arrangeCoins(5), 2); self.assertEqual(sol.arrangeCoins(8), 3)
+
 
 
 if __name__ == "__main__":
