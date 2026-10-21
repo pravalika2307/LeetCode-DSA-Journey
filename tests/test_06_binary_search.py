@@ -84,6 +84,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.arrangeCoins(5), 2); self.assertEqual(sol.arrangeCoins(8), 3)
 
+    def test_0540(self):
+        mod = load_solution("06_Binary_Search/0540_Single_Element_In_A_Sorted_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.singleNonDuplicate([1, 1, 2, 3, 3, 4, 4, 8, 8]), 2)
+
 
 
 if __name__ == "__main__":
