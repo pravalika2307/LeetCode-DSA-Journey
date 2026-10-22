@@ -89,6 +89,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.singleNonDuplicate([1, 1, 2, 3, 3, 4, 4, 8, 8]), 2)
 
+    def test_0658(self):
+        mod = load_solution("06_Binary_Search/0658_Find_K_Closest_Elements.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findClosestElements([1, 2, 3, 4, 5], 4, 3), [1, 2, 3, 4])
+
 
 
 if __name__ == "__main__":
