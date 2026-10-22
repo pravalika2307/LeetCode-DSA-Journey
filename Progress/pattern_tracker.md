@@ -192,3 +192,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 1876 | Substrings of Size Three with Distinct Characters | Sliding Window | Sliding Window (Fixed) | Easy | [1876_Substrings_Of_Size_Three_With_Distinct_Characters.py](../05_Sliding_Window/1876_Substrings_Of_Size_Three_With_Distinct_Characters.py) |
 | 2269 | Find the K-Beauty of a Number | Sliding Window | Sliding Window (Fixed) | Easy | [2269_Find_The_K_Beauty_Of_A_Number.py](../05_Sliding_Window/2269_Find_The_K_Beauty_Of_A_Number.py) |
 | 2302 | Count Subarrays With Score Less Than K | Sliding Window | Sliding Window (Variable) | Hard | [2302_Count_Subarrays_With_Score_Less_Than_K.py](../05_Sliding_Window/2302_Count_Subarrays_With_Score_Less_Than_K.py) |
+| 2444 | Count Subarrays With Fixed Bounds | Sliding Window | Sliding Window (Last-Seen Bound Tracking) | Hard | [2444_Count_Subarrays_With_Fixed_Bounds.py](../05_Sliding_Window/2444_Count_Subarrays_With_Fixed_Bounds.py) |
+| 2958 | Length of Longest Subarray With at Most K Frequency | Sliding Window | Sliding Window (Variable) + Hash Map | Medium | [2958_Length_Of_Longest_Subarray_With_At_Most_K_Frequency.py](../05_Sliding_Window/2958_Length_Of_Longest_Subarray_With_At_Most_K_Frequency.py) |
+
+## Linked List Pointer Manipulation (18)
