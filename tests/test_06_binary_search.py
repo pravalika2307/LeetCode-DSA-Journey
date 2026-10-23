@@ -99,6 +99,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findKthNumber(3, 3, 5), 3)
 
+    def test_0704(self):
+        mod = load_solution("06_Binary_Search/0704_Binary_Search.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.search([-1, 0, 3, 5, 9, 12], 9), 4)
+
 
 
 if __name__ == "__main__":
