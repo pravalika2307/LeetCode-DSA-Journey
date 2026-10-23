@@ -94,6 +94,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findClosestElements([1, 2, 3, 4, 5], 4, 3), [1, 2, 3, 4])
 
+    def test_0668(self):
+        mod = load_solution("06_Binary_Search/0668_Kth_Smallest_Number_In_Multiplication_Table.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findKthNumber(3, 3, 5), 3)
+
 
 
 if __name__ == "__main__":
