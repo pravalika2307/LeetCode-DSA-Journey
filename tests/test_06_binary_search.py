@@ -104,6 +104,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.search([-1, 0, 3, 5, 9, 12], 9), 4)
 
+    def test_0744(self):
+        mod = load_solution("06_Binary_Search/0744_Find_Smallest_Letter_Greater_Than_Target.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.nextGreatestLetter(["c", "f", "j"], "a"), "c")
+
 
 
 if __name__ == "__main__":
