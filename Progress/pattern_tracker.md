@@ -196,3 +196,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 2958 | Length of Longest Subarray With at Most K Frequency | Sliding Window | Sliding Window (Variable) + Hash Map | Medium | [2958_Length_Of_Longest_Subarray_With_At_Most_K_Frequency.py](../05_Sliding_Window/2958_Length_Of_Longest_Subarray_With_At_Most_K_Frequency.py) |
 
 ## Linked List Pointer Manipulation (18)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 2 | Add Two Numbers | Linked List | Linked List Traversal / Carry Math | Medium | [0002_Add_Two_Numbers.py](../07_Linked_List/0002_Add_Two_Numbers.py) |
