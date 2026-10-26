@@ -114,6 +114,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.peakIndexInMountainArray([0, 2, 1, 0]), 1)
 
+    def test_0875(self):
+        mod = load_solution("06_Binary_Search/0875_Koko_Eating_Bananas.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.minEatingSpeed([3, 6, 7, 11], 8), 4)
+
 
 
 if __name__ == "__main__":
