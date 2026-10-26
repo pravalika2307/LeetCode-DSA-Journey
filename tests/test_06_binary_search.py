@@ -109,6 +109,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.nextGreatestLetter(["c", "f", "j"], "a"), "c")
 
+    def test_0852(self):
+        mod = load_solution("06_Binary_Search/0852_Peak_Index_In_A_Mountain_Array.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.peakIndexInMountainArray([0, 2, 1, 0]), 1)
+
 
 
 if __name__ == "__main__":
