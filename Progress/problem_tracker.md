@@ -188,3 +188,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 2302 | Count Subarrays With Score Less Than K | Hard | Sliding Window (Variable) | `O(n)` | `O(1)` | Implemented & Tested | [2302_Count_Subarrays_With_Score_Less_Than_K.py](../05_Sliding_Window/2302_Count_Subarrays_With_Score_Less_Than_K.py) |
 | 2444 | Count Subarrays With Fixed Bounds | Hard | Sliding Window (Last-Seen Bound Tracking) | `O(n)` | `O(1)` | Implemented & Tested | [2444_Count_Subarrays_With_Fixed_Bounds.py](../05_Sliding_Window/2444_Count_Subarrays_With_Fixed_Bounds.py) |
 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | Sliding Window (Variable) + Hash Map | `O(n)` | `O(n)` | Implemented & Tested | [2958_Length_Of_Longest_Subarray_With_At_Most_K_Frequency.py](../05_Sliding_Window/2958_Length_Of_Longest_Subarray_With_At_Most_K_Frequency.py) |
+
+## Binary Search (`06_Binary_Search/`) — 36 Problems
+*Easy: 11 | Medium: 21 | Hard: 4*
+
