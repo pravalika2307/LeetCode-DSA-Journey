@@ -119,6 +119,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.minEatingSpeed([3, 6, 7, 11], 8), 4)
 
+    def test_1011(self):
+        mod = load_solution("06_Binary_Search/1011_Capacity_To_Ship_Packages_Within_D_Days.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.shipWithinDays([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5), 15)
+
 
 
 if __name__ == "__main__":
