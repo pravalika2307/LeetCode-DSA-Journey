@@ -200,3 +200,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | # | Title | Topic | Specific Pattern | Difficulty | Solution |
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | 2 | Add Two Numbers | Linked List | Linked List Traversal / Carry Math | Medium | [0002_Add_Two_Numbers.py](../07_Linked_List/0002_Add_Two_Numbers.py) |
+| 23 | Merge k Sorted Lists | Linked List | Linked List Divide and Conquer | Hard | [0023_Merge_K_Sorted_Lists.py](../07_Linked_List/0023_Merge_K_Sorted_Lists.py) |
+| 24 | Swap Nodes in Pairs | Linked List | Linked List Pointer Manipulation | Medium | [0024_Swap_Nodes_In_Pairs.py](../07_Linked_List/0024_Swap_Nodes_In_Pairs.py) |
+| 25 | Reverse Nodes in k-Group | Linked List | Linked List In-Place Group Reversal | Hard | [0025_Reverse_Nodes_In_K_Group.py](../07_Linked_List/0025_Reverse_Nodes_In_K_Group.py) |
+| 61 | Rotate List | Linked List | Linked List Cycle / Length Modulo | Medium | [0061_Rotate_List.py](../07_Linked_List/0061_Rotate_List.py) |
