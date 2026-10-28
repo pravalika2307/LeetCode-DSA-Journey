@@ -192,3 +192,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 ## Binary Search (`06_Binary_Search/`) — 36 Problems
 *Easy: 11 | Medium: 21 | Hard: 4*
 
+| # | Title | Difficulty | Pattern | Time | Space | Status | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| 4 | Median of Two Sorted Arrays | Hard | Binary Search (Partitioning) | `O(log(min(m, n)))` | `O(1)` | Implemented & Tested | [0004_Median_Of_Two_Sorted_Arrays.py](../06_Binary_Search/0004_Median_Of_Two_Sorted_Arrays.py) |
+| 33 | Search in Rotated Sorted Array | Medium | Binary Search (Rotated Array) | `O(log n)` | `O(1)` | Implemented & Tested | [0033_Search_In_Rotated_Sorted_Array.py](../06_Binary_Search/0033_Search_In_Rotated_Sorted_Array.py) |
