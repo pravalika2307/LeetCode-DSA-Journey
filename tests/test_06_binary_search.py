@@ -124,6 +124,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.shipWithinDays([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5), 15)
 
+    def test_1283(self):
+        mod = load_solution("06_Binary_Search/1283_Find_The_Smallest_Divisor_Given_A_Threshold.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.smallestDivisor([1, 2, 5, 9], 6), 5)
+
 
 
 if __name__ == "__main__":
