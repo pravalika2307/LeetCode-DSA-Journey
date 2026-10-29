@@ -129,6 +129,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.smallestDivisor([1, 2, 5, 9], 6), 5)
 
+    def test_1351(self):
+        mod = load_solution("06_Binary_Search/1351_Count_Negative_Numbers_In_A_Sorted_Matrix.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.countNegatives([[4, 3, 2, -1], [3, 2, 1, -1], [1, 1, -1, -2], [-1, -1, -2, -3]]), 8)
+
 
 
 if __name__ == "__main__":
