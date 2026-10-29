@@ -134,6 +134,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.countNegatives([[4, 3, 2, -1], [3, 2, 1, -1], [1, 1, -1, -2], [-1, -1, -2, -3]]), 8)
 
+    def test_1482(self):
+        mod = load_solution("06_Binary_Search/1482_Minimum_Number_Of_Days_To_Make_M_Bouquets.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.minDays([1, 10, 3, 10, 2], 3, 1), 3)
+
 
 
 if __name__ == "__main__":
