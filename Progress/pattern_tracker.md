@@ -204,3 +204,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 24 | Swap Nodes in Pairs | Linked List | Linked List Pointer Manipulation | Medium | [0024_Swap_Nodes_In_Pairs.py](../07_Linked_List/0024_Swap_Nodes_In_Pairs.py) |
 | 25 | Reverse Nodes in k-Group | Linked List | Linked List In-Place Group Reversal | Hard | [0025_Reverse_Nodes_In_K_Group.py](../07_Linked_List/0025_Reverse_Nodes_In_K_Group.py) |
 | 61 | Rotate List | Linked List | Linked List Cycle / Length Modulo | Medium | [0061_Rotate_List.py](../07_Linked_List/0061_Rotate_List.py) |
+| 82 | Remove Duplicates from Sorted List II | Linked List | Linked List Pointer Manipulation | Medium | [0082_Remove_Duplicates_From_Sorted_List_II.py](../07_Linked_List/0082_Remove_Duplicates_From_Sorted_List_II.py) |
+| 83 | Remove Duplicates from Sorted List | Linked List | Linked List Traversal | Easy | [0083_Remove_Duplicates_From_Sorted_List.py](../07_Linked_List/0083_Remove_Duplicates_From_Sorted_List.py) |
+| 86 | Partition List | Linked List | Linked List Two-List Partitioning | Medium | [0086_Partition_List.py](../07_Linked_List/0086_Partition_List.py) |
+| 92 | Reverse Linked List II | Linked List | Linked List In-Place Sublist Reversal | Medium | [0092_Reverse_Linked_List_II.py](../07_Linked_List/0092_Reverse_Linked_List_II.py) |
