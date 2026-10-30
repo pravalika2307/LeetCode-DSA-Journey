@@ -144,6 +144,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.findKthPositive([2, 3, 4, 7, 11], 5), 9)
 
+    def test_1552(self):
+        mod = load_solution("06_Binary_Search/1552_Magnetic_Force_Between_Two_Balls.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maxDistance([1, 2, 3, 4, 7], 3), 3)
+
 
 
 if __name__ == "__main__":
