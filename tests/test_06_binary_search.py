@@ -139,6 +139,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.minDays([1, 10, 3, 10, 2], 3, 1), 3)
 
+    def test_1539(self):
+        mod = load_solution("06_Binary_Search/1539_Kth_Missing_Positive_Number.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.findKthPositive([2, 3, 4, 7, 11], 5), 9)
+
 
 
 if __name__ == "__main__":
