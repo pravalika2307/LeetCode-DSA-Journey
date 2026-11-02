@@ -149,6 +149,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maxDistance([1, 2, 3, 4, 7], 3), 3)
 
+    def test_1608(self):
+        mod = load_solution("06_Binary_Search/1608_Special_Array_With_X_Elements_Greater_Than_Or_Equal_X.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.specialArray([3, 5]), 2); self.assertEqual(sol.specialArray([0, 0]), -1)
+
 
 
 if __name__ == "__main__":
