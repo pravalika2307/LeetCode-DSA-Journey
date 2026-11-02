@@ -208,3 +208,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 83 | Remove Duplicates from Sorted List | Linked List | Linked List Traversal | Easy | [0083_Remove_Duplicates_From_Sorted_List.py](../07_Linked_List/0083_Remove_Duplicates_From_Sorted_List.py) |
 | 86 | Partition List | Linked List | Linked List Two-List Partitioning | Medium | [0086_Partition_List.py](../07_Linked_List/0086_Partition_List.py) |
 | 92 | Reverse Linked List II | Linked List | Linked List In-Place Sublist Reversal | Medium | [0092_Reverse_Linked_List_II.py](../07_Linked_List/0092_Reverse_Linked_List_II.py) |
+| 143 | Reorder List | Linked List | Linked List Fast & Slow + Reversal + Merge | Medium | [0143_Reorder_List.py](../07_Linked_List/0143_Reorder_List.py) |
+| 148 | Sort List | Linked List | Linked List Merge Sort | Medium | [0148_Sort_List.py](../07_Linked_List/0148_Sort_List.py) |
+| 203 | Remove Linked List Elements | Linked List | Linked List Traversal (Dummy Head) | Easy | [0203_Remove_Linked_List_Elements.py](../07_Linked_List/0203_Remove_Linked_List_Elements.py) |
+| 206 | Reverse Linked List | Linked List | Linked List Iterative Pointer Reversal | Easy | [0206_Reverse_Linked_List.py](../07_Linked_List/0206_Reverse_Linked_List.py) |
