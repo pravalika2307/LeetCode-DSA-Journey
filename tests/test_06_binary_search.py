@@ -154,6 +154,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.specialArray([3, 5]), 2); self.assertEqual(sol.specialArray([0, 0]), -1)
 
+    def test_1760(self):
+        mod = load_solution("06_Binary_Search/1760_Minimum_Limit_Of_Balls_In_A_Bag.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.minimumSize([9], 2), 3)
+
 
 
 if __name__ == "__main__":
