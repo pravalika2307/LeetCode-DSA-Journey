@@ -164,6 +164,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.maximumRemovals("abcacb", "ab", [3, 1, 0]), 2)
 
+    def test_1901(self):
+        mod = load_solution("06_Binary_Search/1901_Find_A_Peak_Element_II.py")
+        sol = mod.Solution()
+        self.assertIn(sol.findPeakGrid([[1, 4], [3, 2]]), ([0, 1], [1, 0]))
+
 
 
 if __name__ == "__main__":
