@@ -212,3 +212,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 148 | Sort List | Linked List | Linked List Merge Sort | Medium | [0148_Sort_List.py](../07_Linked_List/0148_Sort_List.py) |
 | 203 | Remove Linked List Elements | Linked List | Linked List Traversal (Dummy Head) | Easy | [0203_Remove_Linked_List_Elements.py](../07_Linked_List/0203_Remove_Linked_List_Elements.py) |
 | 206 | Reverse Linked List | Linked List | Linked List Iterative Pointer Reversal | Easy | [0206_Reverse_Linked_List.py](../07_Linked_List/0206_Reverse_Linked_List.py) |
+| 234 | Palindrome Linked List | Linked List | Linked List Fast & Slow + Reversal | Easy | [0234_Palindrome_Linked_List.py](../07_Linked_List/0234_Palindrome_Linked_List.py) |
+| 237 | Delete Node in a Linked List | Linked List | Linked List Pointer Manipulation | Medium | [0237_Delete_Node_In_A_Linked_List.py](../07_Linked_List/0237_Delete_Node_In_A_Linked_List.py) |
+| 328 | Odd Even Linked List | Linked List | Linked List Pointer Manipulation | Medium | [0328_Odd_Even_Linked_List.py](../07_Linked_List/0328_Odd_Even_Linked_List.py) |
+| 445 | Add Two Numbers II | Linked List | Linked List + Stack Math | Medium | [0445_Add_Two_Numbers_II.py](../07_Linked_List/0445_Add_Two_Numbers_II.py) |
