@@ -159,6 +159,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.minimumSize([9], 2), 3)
 
+    def test_1898(self):
+        mod = load_solution("06_Binary_Search/1898_Maximum_Number_Of_Removable_Characters.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.maximumRemovals("abcacb", "ab", [3, 1, 0]), 2)
+
 
 
 if __name__ == "__main__":
