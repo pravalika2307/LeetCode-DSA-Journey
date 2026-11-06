@@ -174,6 +174,11 @@ class TestBinarySearch(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(sol.minimizedMaximum(6, [11, 6]), 3)
 
+    def test_2187(self):
+        mod = load_solution("06_Binary_Search/2187_Minimum_Time_To_Complete_Trips.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.minimumTime([1, 2, 3], 5), 3)
+
 
 
 if __name__ == "__main__":
