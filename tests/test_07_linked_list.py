@@ -9,6 +9,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.addTwoNumbers(to_linked_list([2, 4, 3]), to_linked_list([5, 6, 4]))), [7, 0, 8])
 
+    def test_0019(self):
+        mod = load_solution("07_Linked_List/0019_Remove_Nth_Node_From_End_Of_List.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.removeNthFromEnd(to_linked_list([1, 2, 3, 4, 5]), 2)), [1, 2, 3, 5])
+
 
 
 if __name__ == "__main__":
