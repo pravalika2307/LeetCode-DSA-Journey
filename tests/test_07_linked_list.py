@@ -19,6 +19,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.mergeTwoLists(to_linked_list([1, 2, 4]), to_linked_list([1, 3, 4]))), [1, 1, 2, 3, 4, 4])
 
+    def test_0023(self):
+        mod = load_solution("07_Linked_List/0023_Merge_K_Sorted_Lists.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.mergeKLists([to_linked_list([1, 4, 5]), to_linked_list([1, 3, 4]), to_linked_list([2, 6])])), [1, 1, 2, 3, 4, 4, 5, 6])
+
 
 
 if __name__ == "__main__":
