@@ -208,3 +208,7 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 278 | First Bad Version | Easy | Binary Search (Lower Bound) | `O(log n)` | `O(1)` | Implemented & Tested | [0278_First_Bad_Version.py](../06_Binary_Search/0278_First_Bad_Version.py) |
 | 367 | Valid Perfect Square | Easy | Binary Search on Answer | `O(log num)` | `O(1)` | Implemented & Tested | [0367_Valid_Perfect_Square.py](../06_Binary_Search/0367_Valid_Perfect_Square.py) |
 | 374 | Guess Number Higher or Lower | Easy | Binary Search (Classic) | `O(log n)` | `O(1)` | Implemented & Tested | [0374_Guess_Number_Higher_Or_Lower.py](../06_Binary_Search/0374_Guess_Number_Higher_Or_Lower.py) |
+| 410 | Split Array Largest Sum | Hard | Binary Search on Answer | `O(n log(sum(nums)))` | `O(1)` | Implemented & Tested | [0410_Split_Array_Largest_Sum.py](../06_Binary_Search/0410_Split_Array_Largest_Sum.py) |
+| 441 | Arranging Coins | Easy | Binary Search on Answer | `O(log n)` | `O(1)` | Implemented & Tested | [0441_Arranging_Coins.py](../06_Binary_Search/0441_Arranging_Coins.py) |
+| 540 | Single Element in a Sorted Array | Medium | Binary Search (Index Parity) | `O(log n)` | `O(1)` | Implemented & Tested | [0540_Single_Element_In_A_Sorted_Array.py](../06_Binary_Search/0540_Single_Element_In_A_Sorted_Array.py) |
+| 658 | Find K Closest Elements | Medium | Binary Search (Window Start Search) | `O(log(n - k) + k)` | `O(1) auxiliary` | Implemented & Tested | [0658_Find_K_Closest_Elements.py](../06_Binary_Search/0658_Find_K_Closest_Elements.py) |
