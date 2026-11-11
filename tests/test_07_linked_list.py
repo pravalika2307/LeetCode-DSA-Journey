@@ -29,6 +29,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.swapPairs(to_linked_list([1, 2, 3, 4]))), [2, 1, 4, 3])
 
+    def test_0025(self):
+        mod = load_solution("07_Linked_List/0025_Reverse_Nodes_In_K_Group.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.reverseKGroup(to_linked_list([1, 2, 3, 4, 5]), 2)), [2, 1, 4, 3, 5])
+
 
 
 if __name__ == "__main__":
