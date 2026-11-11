@@ -220,3 +220,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 
 ## Greedy, Kadane & Voting (12)
 
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 53 | Maximum Subarray | Arrays & Matrix | Kadane's Algorithm / Greedy | Medium | [0053_Maximum_Subarray.py](../01_Arrays/0053_Maximum_Subarray.py) |
+| 55 | Jump Game | Arrays & Matrix | Greedy Reachability | Medium | [0055_Jump_Game.py](../01_Arrays/0055_Jump_Game.py) |
