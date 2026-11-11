@@ -24,6 +24,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.mergeKLists([to_linked_list([1, 4, 5]), to_linked_list([1, 3, 4]), to_linked_list([2, 6])])), [1, 1, 2, 3, 4, 4, 5, 6])
 
+    def test_0024(self):
+        mod = load_solution("07_Linked_List/0024_Swap_Nodes_In_Pairs.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.swapPairs(to_linked_list([1, 2, 3, 4]))), [2, 1, 4, 3])
+
 
 
 if __name__ == "__main__":
