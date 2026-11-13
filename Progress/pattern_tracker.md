@@ -224,3 +224,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | 53 | Maximum Subarray | Arrays & Matrix | Kadane's Algorithm / Greedy | Medium | [0053_Maximum_Subarray.py](../01_Arrays/0053_Maximum_Subarray.py) |
 | 55 | Jump Game | Arrays & Matrix | Greedy Reachability | Medium | [0055_Jump_Game.py](../01_Arrays/0055_Jump_Game.py) |
+| 121 | Best Time to Buy and Sell Stock | Arrays & Matrix | Greedy / Running Minimum | Easy | [0121_Best_Time_To_Buy_And_Sell_Stock.py](../01_Arrays/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
+| 122 | Best Time to Buy and Sell Stock II | Arrays & Matrix | Greedy | Medium | [0122_Best_Time_To_Buy_And_Sell_Stock_II.py](../01_Arrays/0122_Best_Time_To_Buy_And_Sell_Stock_II.py) |
+| 134 | Gas Station | Arrays & Matrix | Greedy | Medium | [0134_Gas_Station.py](../01_Arrays/0134_Gas_Station.py) |
+| 135 | Candy | Arrays & Matrix | Greedy (Two-Pass Left/Right Scan) | Hard | [0135_Candy.py](../01_Arrays/0135_Candy.py) |
