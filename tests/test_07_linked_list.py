@@ -44,6 +44,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.deleteDuplicates(to_linked_list([1, 2, 3, 3, 4, 4, 5]))), [1, 2, 5])
 
+    def test_0083(self):
+        mod = load_solution("07_Linked_List/0083_Remove_Duplicates_From_Sorted_List.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.deleteDuplicates(to_linked_list([1, 1, 2, 3, 3]))), [1, 2, 3])
+
 
 
 if __name__ == "__main__":
