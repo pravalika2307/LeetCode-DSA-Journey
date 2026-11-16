@@ -59,6 +59,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.reverseBetween(to_linked_list([1, 2, 3, 4, 5]), 2, 4)), [1, 4, 3, 2, 5])
 
+    def test_0141(self):
+        mod = load_solution("07_Linked_List/0141_Linked_List_Cycle.py")
+        sol = mod.Solution()
+        n1, n2 = ListNode(3), ListNode(2); n1.next, n2.next = n2, n1; self.assertTrue(sol.hasCycle(n1)); self.assertFalse(sol.hasCycle(to_linked_list([1, 2])))
+
 
 
 if __name__ == "__main__":
