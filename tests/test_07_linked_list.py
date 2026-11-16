@@ -49,6 +49,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.deleteDuplicates(to_linked_list([1, 1, 2, 3, 3]))), [1, 2, 3])
 
+    def test_0086(self):
+        mod = load_solution("07_Linked_List/0086_Partition_List.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.partition(to_linked_list([1, 4, 3, 2, 5, 2]), 3)), [1, 2, 2, 4, 3, 5])
+
 
 
 if __name__ == "__main__":
