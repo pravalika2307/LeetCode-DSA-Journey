@@ -64,6 +64,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         n1, n2 = ListNode(3), ListNode(2); n1.next, n2.next = n2, n1; self.assertTrue(sol.hasCycle(n1)); self.assertFalse(sol.hasCycle(to_linked_list([1, 2])))
 
+    def test_0142(self):
+        mod = load_solution("07_Linked_List/0142_Linked_List_Cycle_II.py")
+        sol = mod.Solution()
+        n1, n2, n3 = ListNode(3), ListNode(2), ListNode(0); n1.next, n2.next, n3.next = n2, n3, n2; self.assertIs(sol.detectCycle(n1), n2)
+
 
 
 if __name__ == "__main__":
