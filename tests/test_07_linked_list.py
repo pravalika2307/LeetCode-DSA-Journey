@@ -69,6 +69,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         n1, n2, n3 = ListNode(3), ListNode(2), ListNode(0); n1.next, n2.next, n3.next = n2, n3, n2; self.assertIs(sol.detectCycle(n1), n2)
 
+    def test_0143(self):
+        mod = load_solution("07_Linked_List/0143_Reorder_List.py")
+        sol = mod.Solution()
+        head = to_linked_list([1, 2, 3, 4, 5]); sol.reorderList(head); self.assertEqual(from_linked_list(head), [1, 5, 2, 4, 3])
+
 
 
 if __name__ == "__main__":
