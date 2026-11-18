@@ -228,3 +228,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 122 | Best Time to Buy and Sell Stock II | Arrays & Matrix | Greedy | Medium | [0122_Best_Time_To_Buy_And_Sell_Stock_II.py](../01_Arrays/0122_Best_Time_To_Buy_And_Sell_Stock_II.py) |
 | 134 | Gas Station | Arrays & Matrix | Greedy | Medium | [0134_Gas_Station.py](../01_Arrays/0134_Gas_Station.py) |
 | 135 | Candy | Arrays & Matrix | Greedy (Two-Pass Left/Right Scan) | Hard | [0135_Candy.py](../01_Arrays/0135_Candy.py) |
+| 169 | Majority Element | Arrays & Matrix | Boyer-Moore Voting Algorithm | Easy | [0169_Majority_Element.py](../01_Arrays/0169_Majority_Element.py) |
+| 229 | Majority Element II | Arrays & Matrix | Boyer-Moore Voting Algorithm | Medium | [0229_Majority_Element_II.py](../01_Arrays/0229_Majority_Element_II.py) |
+| 330 | Patching Array | Arrays & Matrix | Greedy (Reachable Range) | Hard | [0330_Patching_Array.py](../01_Arrays/0330_Patching_Array.py) |
+| 561 | Array Partition | Arrays & Matrix | Greedy + Sorting | Easy | [0561_Array_Partition.py](../01_Arrays/0561_Array_Partition.py) |
