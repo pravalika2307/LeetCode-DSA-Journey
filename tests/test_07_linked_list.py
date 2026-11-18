@@ -74,6 +74,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         head = to_linked_list([1, 2, 3, 4, 5]); sol.reorderList(head); self.assertEqual(from_linked_list(head), [1, 5, 2, 4, 3])
 
+    def test_0148(self):
+        mod = load_solution("07_Linked_List/0148_Sort_List.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.sortList(to_linked_list([4, 2, 1, 3]))), [1, 2, 3, 4])
+
 
 
 if __name__ == "__main__":
