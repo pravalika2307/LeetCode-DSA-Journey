@@ -79,6 +79,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.sortList(to_linked_list([4, 2, 1, 3]))), [1, 2, 3, 4])
 
+    def test_0160(self):
+        mod = load_solution("07_Linked_List/0160_Intersection_Of_Two_Linked_Lists.py")
+        sol = mod.Solution()
+        shared = ListNode(8, ListNode(4)); a = ListNode(4, ListNode(1, shared)); b = ListNode(5, shared); self.assertIs(sol.getIntersectionNode(a, b), shared)
+
 
 
 if __name__ == "__main__":
