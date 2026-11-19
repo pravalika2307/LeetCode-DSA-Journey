@@ -84,6 +84,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         shared = ListNode(8, ListNode(4)); a = ListNode(4, ListNode(1, shared)); b = ListNode(5, shared); self.assertIs(sol.getIntersectionNode(a, b), shared)
 
+    def test_0203(self):
+        mod = load_solution("07_Linked_List/0203_Remove_Linked_List_Elements.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.removeElements(to_linked_list([1, 2, 6, 3, 4, 5, 6]), 6)), [1, 2, 3, 4, 5])
+
 
 
 if __name__ == "__main__":
