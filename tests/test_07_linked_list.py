@@ -89,6 +89,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.removeElements(to_linked_list([1, 2, 6, 3, 4, 5, 6]), 6)), [1, 2, 3, 4, 5])
 
+    def test_0206(self):
+        mod = load_solution("07_Linked_List/0206_Reverse_Linked_List.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.reverseList(to_linked_list([1, 2, 3, 4, 5]))), [5, 4, 3, 2, 1])
+
 
 
 if __name__ == "__main__":
