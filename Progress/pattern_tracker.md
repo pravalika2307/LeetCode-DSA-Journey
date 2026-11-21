@@ -232,3 +232,7 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 229 | Majority Element II | Arrays & Matrix | Boyer-Moore Voting Algorithm | Medium | [0229_Majority_Element_II.py](../01_Arrays/0229_Majority_Element_II.py) |
 | 330 | Patching Array | Arrays & Matrix | Greedy (Reachable Range) | Hard | [0330_Patching_Array.py](../01_Arrays/0330_Patching_Array.py) |
 | 561 | Array Partition | Arrays & Matrix | Greedy + Sorting | Easy | [0561_Array_Partition.py](../01_Arrays/0561_Array_Partition.py) |
+| 605 | Can Place Flowers | Arrays & Matrix | Greedy Array Scan | Easy | [0605_Can_Place_Flowers.py](../01_Arrays/0605_Can_Place_Flowers.py) |
+| 918 | Maximum Sum Circular Subarray | Arrays & Matrix | Kadane's Algorithm (Circular Variant) | Medium | [0918_Maximum_Sum_Circular_Subarray.py](../01_Arrays/0918_Maximum_Sum_Circular_Subarray.py) |
+
+## Matrix Traversal & In-Place Ops (10)
