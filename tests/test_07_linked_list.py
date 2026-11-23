@@ -109,6 +109,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.oddEvenList(to_linked_list([1, 2, 3, 4, 5]))), [1, 3, 5, 2, 4])
 
+    def test_0445(self):
+        mod = load_solution("07_Linked_List/0445_Add_Two_Numbers_II.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.addTwoNumbers(to_linked_list([7, 2, 4, 3]), to_linked_list([5, 6, 4]))), [7, 8, 0, 7])
+
 
 
 if __name__ == "__main__":
