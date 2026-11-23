@@ -99,6 +99,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertTrue(sol.isPalindrome(to_linked_list([1, 2, 2, 1]))); self.assertFalse(sol.isPalindrome(to_linked_list([1, 2])))
 
+    def test_0237(self):
+        mod = load_solution("07_Linked_List/0237_Delete_Node_In_A_Linked_List.py")
+        sol = mod.Solution()
+        head = to_linked_list([4, 5, 1, 9]); sol.deleteNode(head.next); self.assertEqual(from_linked_list(head), [4, 1, 9])
+
 
 
 if __name__ == "__main__":
