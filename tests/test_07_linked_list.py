@@ -104,6 +104,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         head = to_linked_list([4, 5, 1, 9]); sol.deleteNode(head.next); self.assertEqual(from_linked_list(head), [4, 1, 9])
 
+    def test_0328(self):
+        mod = load_solution("07_Linked_List/0328_Odd_Even_Linked_List.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.oddEvenList(to_linked_list([1, 2, 3, 4, 5]))), [1, 3, 5, 2, 4])
+
 
 
 if __name__ == "__main__":
