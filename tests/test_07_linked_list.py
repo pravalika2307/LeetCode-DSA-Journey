@@ -114,6 +114,11 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.addTwoNumbers(to_linked_list([7, 2, 4, 3]), to_linked_list([5, 6, 4]))), [7, 8, 0, 7])
 
+    def test_0876(self):
+        mod = load_solution("07_Linked_List/0876_Middle_Of_The_Linked_List.py")
+        sol = mod.Solution()
+        self.assertEqual(from_linked_list(sol.middleNode(to_linked_list([1, 2, 3, 4, 5]))), [3, 4, 5])
+
 
 
 if __name__ == "__main__":
