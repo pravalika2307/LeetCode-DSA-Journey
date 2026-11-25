@@ -236,3 +236,76 @@ Pattern-wise organization of all **218 unique problems** across **14 core DSA pa
 | 918 | Maximum Sum Circular Subarray | Arrays & Matrix | Kadane's Algorithm (Circular Variant) | Medium | [0918_Maximum_Sum_Circular_Subarray.py](../01_Arrays/0918_Maximum_Sum_Circular_Subarray.py) |
 
 ## Matrix Traversal & In-Place Ops (10)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 48 | Rotate Image | Arrays & Matrix | Matrix Manipulation (Transpose + Reverse) | Medium | [0048_Rotate_Image.py](../01_Arrays/0048_Rotate_Image.py) |
+| 54 | Spiral Matrix | Arrays & Matrix | Matrix Boundary Traversal | Medium | [0054_Spiral_Matrix.py](../01_Arrays/0054_Spiral_Matrix.py) |
+| 59 | Spiral Matrix II | Arrays & Matrix | Matrix Boundary Traversal | Medium | [0059_Spiral_Matrix_II.py](../01_Arrays/0059_Spiral_Matrix_II.py) |
+| 73 | Set Matrix Zeroes | Arrays & Matrix | Matrix In-Place Markers | Medium | [0073_Set_Matrix_Zeroes.py](../01_Arrays/0073_Set_Matrix_Zeroes.py) |
+| 240 | Search a 2D Matrix II | Arrays & Matrix | Matrix Staircase Search | Medium | [0240_Search_A_2D_Matrix_II.py](../01_Arrays/0240_Search_A_2D_Matrix_II.py) |
+| 289 | Game of Life | Arrays & Matrix | Matrix In-Place State Encoding | Medium | [0289_Game_Of_Life.py](../01_Arrays/0289_Game_Of_Life.py) |
+| 498 | Diagonal Traverse | Arrays & Matrix | Matrix Diagonal Simulation | Medium | [0498_Diagonal_Traverse.py](../01_Arrays/0498_Diagonal_Traverse.py) |
+| 566 | Reshape the Matrix | Arrays & Matrix | Matrix Index Mapping | Easy | [0566_Reshape_The_Matrix.py](../01_Arrays/0566_Reshape_The_Matrix.py) |
+| 867 | Transpose Matrix | Arrays & Matrix | Matrix Manipulation | Easy | [0867_Transpose_Matrix.py](../01_Arrays/0867_Transpose_Matrix.py) |
+| 1672 | Richest Customer Wealth | Arrays & Matrix | Matrix Row Sum | Easy | [1672_Richest_Customer_Wealth.py](../01_Arrays/1672_Richest_Customer_Wealth.py) |
+
+## Array Scanning, Reversal & Math (8)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 66 | Plus One | Arrays & Matrix | Array Math / Carry Propagation | Easy | [0066_Plus_One.py](../01_Arrays/0066_Plus_One.py) |
+| 189 | Rotate Array | Arrays & Matrix | Array Reversal | Medium | [0189_Rotate_Array.py](../01_Arrays/0189_Rotate_Array.py) |
+| 228 | Summary Ranges | Arrays & Matrix | Array Linear Scan | Easy | [0228_Summary_Ranges.py](../01_Arrays/0228_Summary_Ranges.py) |
+| 274 | H-Index | Arrays & Matrix | Counting / Bucket Sort | Medium | [0274_H_Index.py](../01_Arrays/0274_H_Index.py) |
+| 414 | Third Maximum Number | Arrays & Matrix | Array Linear Scan | Easy | [0414_Third_Maximum_Number.py](../01_Arrays/0414_Third_Maximum_Number.py) |
+| 485 | Max Consecutive Ones | Arrays & Matrix | Array Linear Scan | Easy | [0485_Max_Consecutive_Ones.py](../01_Arrays/0485_Max_Consecutive_Ones.py) |
+| 628 | Maximum Product of Three Numbers | Arrays & Matrix | Array Linear Scan (Top/Bottom Tracking) | Easy | [0628_Maximum_Product_Of_Three_Numbers.py](../01_Arrays/0628_Maximum_Product_Of_Three_Numbers.py) |
+| 1299 | Replace Elements with Greatest Element on Right Side | Arrays & Matrix | Array Reverse Scan | Easy | [1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py](../01_Arrays/1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py) |
+
+## Cyclic Placement / Marking (4)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 41 | First Missing Positive | Arrays & Matrix | Cyclic Sort / In-Place Index Placement | Hard | [0041_First_Missing_Positive.py](../01_Arrays/0041_First_Missing_Positive.py) |
+| 442 | Find All Duplicates in an Array | Arrays & Matrix | In-Place Cyclic Marking | Medium | [0442_Find_All_Duplicates_In_An_Array.py](../01_Arrays/0442_Find_All_Duplicates_In_An_Array.py) |
+| 448 | Find All Numbers Disappeared in an Array | Arrays & Matrix | In-Place Cyclic Marking | Easy | [0448_Find_All_Numbers_Disappeared_In_An_Array.py](../01_Arrays/0448_Find_All_Numbers_Disappeared_In_An_Array.py) |
+| 645 | Set Mismatch | Arrays & Matrix | In-Place Cyclic Marking | Easy | [0645_Set_Mismatch.py](../01_Arrays/0645_Set_Mismatch.py) |
+
+## Prefix / Suffix Computations (4)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 238 | Product of Array Except Self | Arrays & Matrix | Prefix and Suffix Products | Medium | [0238_Product_Of_Array_Except_Self.py](../01_Arrays/0238_Product_Of_Array_Except_Self.py) |
+| 724 | Find Pivot Index | Arrays & Matrix | Prefix Sum | Easy | [0724_Find_Pivot_Index.py](../01_Arrays/0724_Find_Pivot_Index.py) |
+| 1013 | Partition Array Into Three Parts With Equal Sum | Arrays & Matrix | Prefix Sum / Greedy | Easy | [1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py](../01_Arrays/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py) |
+| 1480 | Running Sum of 1d Array | Arrays & Matrix | Prefix Sum | Easy | [1480_Running_Sum_Of_1d_Array.py](../01_Arrays/1480_Running_Sum_Of_1d_Array.py) |
+
+## Dynamic Programming Basics (3)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 118 | Pascal's Triangle | Arrays & Matrix | Dynamic Programming / Array Construction | Easy | [0118_Pascals_Triangle.py](../01_Arrays/0118_Pascals_Triangle.py) |
+| 119 | Pascal's Triangle II | Arrays & Matrix | 1D Rolling Dynamic Programming | Easy | [0119_Pascals_Triangle_II.py](../01_Arrays/0119_Pascals_Triangle_II.py) |
+| 152 | Maximum Product Subarray | Arrays & Matrix | Dynamic Programming / Running Min-Max | Medium | [0152_Maximum_Product_Subarray.py](../01_Arrays/0152_Maximum_Product_Subarray.py) |
+
+## Bit Manipulation (XOR) (2)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 136 | Single Number | Hashing | Bit Manipulation (XOR) | Easy | [0136_Single_Number.py](../03_Hashing/0136_Single_Number.py) |
+| 268 | Missing Number | Arrays & Matrix | Bit Manipulation (XOR) | Easy | [0268_Missing_Number.py](../01_Arrays/0268_Missing_Number.py) |
+
+## Divide and Conquer / Merge Sort (2)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 315 | Count of Smaller Numbers After Self | Arrays & Matrix | Merge Sort / Divide and Conquer | Hard | [0315_Count_Of_Smaller_Numbers_After_Self.py](../01_Arrays/0315_Count_Of_Smaller_Numbers_After_Self.py) |
+| 493 | Reverse Pairs | Arrays & Matrix | Merge Sort / Divide and Conquer | Hard | [0493_Reverse_Pairs.py](../01_Arrays/0493_Reverse_Pairs.py) |
+
+## Sorting & Interval Merging (2)
+
+| # | Title | Topic | Specific Pattern | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 56 | Merge Intervals | Arrays & Matrix | Sorting + Interval Merging | Medium | [0056_Merge_Intervals.py](../01_Arrays/0056_Merge_Intervals.py) |
+| 57 | Insert Interval | Arrays & Matrix | Interval Merging | Medium | [0057_Insert_Interval.py](../01_Arrays/0057_Insert_Interval.py) |
