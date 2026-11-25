@@ -68,3 +68,5 @@ The following folders remain initialized as **Upcoming** for future practice:
 - [`10_Heap/`](../10_Heap/)
 - [`11_Backtracking/`](../11_Backtracking/)
 - [`12_Graphs/`](../12_Graphs/)
+- [`13_Dynamic_Programming/`](../13_Dynamic_Programming/)
+- [`14_Greedy/`](../14_Greedy/)
