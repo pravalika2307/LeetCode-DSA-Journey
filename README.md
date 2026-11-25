@@ -381,3 +381,8 @@ Upcoming topics initialized in this repository for continued practice:
 
 ---
 
+## Progress Tracking Files
+
+- [`Progress/learning_timeline.md`](Progress/learning_timeline.md)
+- [`Progress/problem_tracker.md`](Progress/problem_tracker.md)
+- [`Progress/pattern_tracker.md`](Progress/pattern_tracker.md)
