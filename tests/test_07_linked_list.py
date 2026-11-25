@@ -119,6 +119,10 @@ class TestLinkedList(unittest.TestCase):
         sol = mod.Solution()
         self.assertEqual(from_linked_list(sol.middleNode(to_linked_list([1, 2, 3, 4, 5]))), [3, 4, 5])
 
+    def test_1290(self):
+        mod = load_solution("07_Linked_List/1290_Convert_Binary_Number_In_A_Linked_List_To_Integer.py")
+        sol = mod.Solution()
+        self.assertEqual(sol.getDecimalValue(to_linked_list([1, 0, 1])), 5)
 
 
 if __name__ == "__main__":
