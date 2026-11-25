@@ -228,3 +228,35 @@ Complete tracker of all **218 unique problems** implemented and tested in Python
 | 1898 | Maximum Number of Removable Characters | Medium | Binary Search on Answer + Two Pointers | `O((|s| + |removable|) * log |removable|)` | `O(|removable|)` | Implemented & Tested | [1898_Maximum_Number_Of_Removable_Characters.py](../06_Binary_Search/1898_Maximum_Number_Of_Removable_Characters.py) |
 | 1901 | Find a Peak Element II | Medium | Binary Search (2D Matrix Column Search) | `O(m log n)` | `O(1)` | Implemented & Tested | [1901_Find_A_Peak_Element_II.py](../06_Binary_Search/1901_Find_A_Peak_Element_II.py) |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search on Answer | `O(m log(max(quantities)))` | `O(1)` | Implemented & Tested | [2064_Minimized_Maximum_Of_Products_Distributed_To_Any_Store.py](../06_Binary_Search/2064_Minimized_Maximum_Of_Products_Distributed_To_Any_Store.py) |
+| 2187 | Minimum Time to Complete Trips | Medium | Binary Search on Answer | `O(n log(min(time) * totalTrips))` | `O(1)` | Implemented & Tested | [2187_Minimum_Time_To_Complete_Trips.py](../06_Binary_Search/2187_Minimum_Time_To_Complete_Trips.py) |
+| 2300 | Successful Pairs of Spells and Potions | Medium | Binary Search + Sorting | `O((n + m) log m)` | `O(1) auxiliary` | Implemented & Tested | [2300_Successful_Pairs_Of_Spells_And_Potions.py](../06_Binary_Search/2300_Successful_Pairs_Of_Spells_And_Potions.py) |
+
+## Linked List (`07_Linked_List/`) — 24 Problems
+*Easy: 9 | Medium: 13 | Hard: 2*
+
+| # | Title | Difficulty | Pattern | Time | Space | Status | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| 2 | Add Two Numbers | Medium | Linked List Traversal / Carry Math | `O(max(m, n))` | `O(max(m, n))` | Implemented & Tested | [0002_Add_Two_Numbers.py](../07_Linked_List/0002_Add_Two_Numbers.py) |
+| 19 | Remove Nth Node From End of List | Medium | Linked List Two Pointers (Fast & Slow) | `O(n)` | `O(1)` | Implemented & Tested | [0019_Remove_Nth_Node_From_End_Of_List.py](../07_Linked_List/0019_Remove_Nth_Node_From_End_Of_List.py) |
+| 21 | Merge Two Sorted Lists | Easy | Linked List Two Pointers | `O(m + n)` | `O(1)` | Implemented & Tested | [0021_Merge_Two_Sorted_Lists.py](../07_Linked_List/0021_Merge_Two_Sorted_Lists.py) |
+| 23 | Merge k Sorted Lists | Hard | Linked List Divide and Conquer | `O(N log k)` | `O(log k)` | Implemented & Tested | [0023_Merge_K_Sorted_Lists.py](../07_Linked_List/0023_Merge_K_Sorted_Lists.py) |
+| 24 | Swap Nodes in Pairs | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | Implemented & Tested | [0024_Swap_Nodes_In_Pairs.py](../07_Linked_List/0024_Swap_Nodes_In_Pairs.py) |
+| 25 | Reverse Nodes in k-Group | Hard | Linked List In-Place Group Reversal | `O(n)` | `O(1)` | Implemented & Tested | [0025_Reverse_Nodes_In_K_Group.py](../07_Linked_List/0025_Reverse_Nodes_In_K_Group.py) |
+| 61 | Rotate List | Medium | Linked List Cycle / Length Modulo | `O(n)` | `O(1)` | Implemented & Tested | [0061_Rotate_List.py](../07_Linked_List/0061_Rotate_List.py) |
+| 82 | Remove Duplicates from Sorted List II | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | Implemented & Tested | [0082_Remove_Duplicates_From_Sorted_List_II.py](../07_Linked_List/0082_Remove_Duplicates_From_Sorted_List_II.py) |
+| 83 | Remove Duplicates from Sorted List | Easy | Linked List Traversal | `O(n)` | `O(1)` | Implemented & Tested | [0083_Remove_Duplicates_From_Sorted_List.py](../07_Linked_List/0083_Remove_Duplicates_From_Sorted_List.py) |
+| 86 | Partition List | Medium | Linked List Two-List Partitioning | `O(n)` | `O(1)` | Implemented & Tested | [0086_Partition_List.py](../07_Linked_List/0086_Partition_List.py) |
+| 92 | Reverse Linked List II | Medium | Linked List In-Place Sublist Reversal | `O(n)` | `O(1)` | Implemented & Tested | [0092_Reverse_Linked_List_II.py](../07_Linked_List/0092_Reverse_Linked_List_II.py) |
+| 141 | Linked List Cycle | Easy | Linked List Two Pointers (Fast & Slow) | `O(n)` | `O(1)` | Implemented & Tested | [0141_Linked_List_Cycle.py](../07_Linked_List/0141_Linked_List_Cycle.py) |
+| 142 | Linked List Cycle II | Medium | Linked List Floyd's Cycle Detection | `O(n)` | `O(1)` | Implemented & Tested | [0142_Linked_List_Cycle_II.py](../07_Linked_List/0142_Linked_List_Cycle_II.py) |
+| 143 | Reorder List | Medium | Linked List Fast & Slow + Reversal + Merge | `O(n)` | `O(1)` | Implemented & Tested | [0143_Reorder_List.py](../07_Linked_List/0143_Reorder_List.py) |
+| 148 | Sort List | Medium | Linked List Merge Sort | `O(n log n)` | `O(log n)` | Implemented & Tested | [0148_Sort_List.py](../07_Linked_List/0148_Sort_List.py) |
+| 160 | Intersection of Two Linked Lists | Easy | Linked List Two Pointers | `O(m + n)` | `O(1)` | Implemented & Tested | [0160_Intersection_Of_Two_Linked_Lists.py](../07_Linked_List/0160_Intersection_Of_Two_Linked_Lists.py) |
+| 203 | Remove Linked List Elements | Easy | Linked List Traversal (Dummy Head) | `O(n)` | `O(1)` | Implemented & Tested | [0203_Remove_Linked_List_Elements.py](../07_Linked_List/0203_Remove_Linked_List_Elements.py) |
+| 206 | Reverse Linked List | Easy | Linked List Iterative Pointer Reversal | `O(n)` | `O(1)` | Implemented & Tested | [0206_Reverse_Linked_List.py](../07_Linked_List/0206_Reverse_Linked_List.py) |
+| 234 | Palindrome Linked List | Easy | Linked List Fast & Slow + Reversal | `O(n)` | `O(1)` | Implemented & Tested | [0234_Palindrome_Linked_List.py](../07_Linked_List/0234_Palindrome_Linked_List.py) |
+| 237 | Delete Node in a Linked List | Medium | Linked List Pointer Manipulation | `O(1)` | `O(1)` | Implemented & Tested | [0237_Delete_Node_In_A_Linked_List.py](../07_Linked_List/0237_Delete_Node_In_A_Linked_List.py) |
+| 328 | Odd Even Linked List | Medium | Linked List Pointer Manipulation | `O(n)` | `O(1)` | Implemented & Tested | [0328_Odd_Even_Linked_List.py](../07_Linked_List/0328_Odd_Even_Linked_List.py) |
+| 445 | Add Two Numbers II | Medium | Linked List + Stack Math | `O(m + n)` | `O(m + n)` | Implemented & Tested | [0445_Add_Two_Numbers_II.py](../07_Linked_List/0445_Add_Two_Numbers_II.py) |
+| 876 | Middle of the Linked List | Easy | Linked List Two Pointers (Fast & Slow) | `O(n)` | `O(1)` | Implemented & Tested | [0876_Middle_Of_The_Linked_List.py](../07_Linked_List/0876_Middle_Of_The_Linked_List.py) |
+| 1290 | Convert Binary Number in a Linked List to Integer | Easy | Linked List Traversal / Bit Manipulation | `O(n)` | `O(1)` | Implemented & Tested | [1290_Convert_Binary_Number_In_A_Linked_List_To_Integer.py](../07_Linked_List/1290_Convert_Binary_Number_In_A_Linked_List_To_Integer.py) |
